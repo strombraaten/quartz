@@ -6,6 +6,21 @@ export default {
     description: "Mangler beskrivelse",
   },
   components: {
+    callout: {
+      note: "Note",
+      abstract: "Abstract",
+      info: "Info",
+      todo: "Todo",
+      tip: "Tip",
+      success: "Success",
+      question: "Question",
+      warning: "Warning",
+      failure: "Failure",
+      danger: "Danger",
+      bug: "Bug",
+      example: "Example",
+      quote: "Quote",
+    },
     backlinks: {
       title: "Andre notater som linker tilbake hit",
       noBacklinksFound: "Fant ingen notater som linker tilbake",
@@ -37,6 +52,9 @@ export default {
     },
     tableOfContents: {
       title: "Hva du finner i notatet",
+    },
+    contentMeta: {
+      readingTime: ({ minutes }) => `${minutes} minutter å lese`,
     },
   },
   pages: {
