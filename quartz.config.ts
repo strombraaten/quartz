@@ -10,7 +10,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "nb-NO",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "www.simenskriver.no",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
