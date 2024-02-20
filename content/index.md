@@ -1,12 +1,7 @@
 ---
-date: 2024-02-05
-lastmod: 2024-02-20
-tags: 
-aliases: 
-title: index
+title: Introduksjon
 publish: true
 ---
-
 
 ## Heisann! 👋
 
@@ -26,17 +21,17 @@ class="embeddable-buttondown-form"
 >
 <label for="bd-email">Fyll inn epost-adressa di</label>
 <br>
-<input type="email" name="email" id="bd-email" style="padding:16px 24 px; border: solid; border-radius 4;"/>
+<input type="email" name="email" id="bd-email/>
 <br>
 <br>
 <label for="first_name">Fyll inn fornavnet ditt</label>
 <br>
-<input type="text" name="metadata__first_name" id="first_name" style="padding:16px 24 px; border: solid; border-radius 4;"/>
+<input type="text" name="metadata__first_name" id="first_name"/>
 <br>
 <p>Grunnen til at jeg spør om fornavnet ditt er fordi jeg liker å se for meg hvem jeg skriver til, så det blir mer personlig, fra meg til deg.
 <br>
 <br>
-<input type="submit" value="Bli med i nyhetsbrevgjengen" style="background-color: #26C97D; color: black; padding: 16px 24px; border: none; border-radius: 999px; cursor: pointer;" />
+<input type="submit" value="Bli med i nyhetsbrevgjengen"/>
 </form>
 
 ### Om denne sida
