@@ -14,3 +14,5 @@ Denne sida er nemlig min måte å dokumentere det jeg lærer på. I tillegg til 
 Om du heller vil vite mer om meg, og hva jeg driver med for tida kan du sjekke ut [[akkurat nå|nå-sida]] mi.
 
 Med det sagt, så anbefaler jeg å bare klikke deg inn på én link og følge nysgjerrigheten derfra. Det er som wikipedia, bare mindre faktabasert.
+
+---
