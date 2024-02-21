@@ -1,5 +1,5 @@
 ---
-title: Introduksjon
+title: index
 publish: true
 enableToc: false
 ---
