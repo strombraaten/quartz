@@ -8,9 +8,6 @@ title: Om hobbyer, og det å bli mindre dårlig
 publish: true
 ---
 
-
-## Om hobbyer, og det å bli mindre dårlig
-
 Når [Maggie Appleton](https://maggieappleton.com/) introduserer seg for å holde et foredrag sier hu ofte:
 
 >  I'm a mediocre developer and love working at the boundary of design and development.

@@ -2,10 +2,7 @@
 title: Introduksjon
 publish: true
 enableToc: false
-tags:
-  - nyhetsbrev
 ---
-
 
 ## Heisann! 👋
 
