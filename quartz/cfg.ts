@@ -19,6 +19,11 @@ export type Analytics =
       websiteId: string
       host?: string
     }
+  | {
+      provider: "tinylytics"
+      host?: string
+    }
+
 
 export interface GlobalConfiguration {
   pageTitle: string
