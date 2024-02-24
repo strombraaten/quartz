@@ -128,6 +128,16 @@ function addGlobalPageResources(
     `)
   }
 
+  else if (cfg.analytics?.provider === "tinylytics") {
+    const tinylyticsSrc = "https://tinylytics.app/embed/yeW5HoX3FJHdsswz69gg.js";
+    componentResources.afterDOMLoaded.push(`
+        const tinylyticsScript = document.createElement("script");
+        tinylyticsScript.src = "${cfg.analytics.host ?? tinylyticsSrc}";
+        tinylyticsScript.defer = true;
+        document.head.appendChild(tinylyticsScript);
+    `);
+  }
+
   if (cfg.enableSPA) {
     componentResources.afterDOMLoaded.push(spaRouterScript)
   } else {

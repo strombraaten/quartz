@@ -7,7 +7,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "tinylytics",
     },
     locale: "nb-NO",
     baseUrl: "www.simenskriver.no",
