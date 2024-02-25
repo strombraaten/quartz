@@ -8,7 +8,6 @@ title: Følg nysgjerrigheten
 publish: true
 ---
 
-# Følg nysgjerrigheten
 
 Er det én ting jeg lærte fra min grandonkel Arne, som levde til å bli 102 år gammel, er det å følge nysgjerrigheten, og bruke den som drivkraft. Jeg kjente han egentlig ikke noe særlig da jeg vokste opp. Det var ikke før året han fylte 100, da jeg var i starten av tjueårene, at jeg tok kontakt for å bli bedre kjent. 
 
@@ -59,6 +58,6 @@ For det første, jeg håper egentlig på at du melder deg *av* nyhetsbrevet hvis
 For det andre så kommer jeg nok til å gå mer tilbake til [kladdebok-konseptet](the%20return%20of%20kladdeboka) en stund. Muligens fokusert rundt tre seksjoner:
 1. Hva jeg har jobba med siden sist, og hva jeg eventuelt har lært på veien
 2. Hva jeg skal fokusere på videre
-3. Et eller annet reflekssjonspørsmål til mine med-nerder
+3. Et eller annet refleksjonspørsmål til mine med-nerder
 
 Ja. Jeg tror det kan bli bra. Det føles egentlig som om det er tett relatert til [[å lære åpent|å lære åpent]]. For ved å ta deg med inn i læringsprosessen blir det ikke bare morsommere for min egen del, men jeg må også konkretisere tankene mine for at det skal være forståelig for deg. Så du også kan lære noe. Forhåpentligvis kan vi lære noe sammen.
