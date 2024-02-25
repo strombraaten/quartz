@@ -35,9 +35,9 @@ Ville du dokumentert det gjennom sosiale medier? Ville du fortalt det til en ven
 
 Jeg kan nevne de som har hatt en stor betydning for meg:
 
--   Du tvinger deg sjøl til å konkretisere tankene dine, og at de blir lett å forstå for andre (også for deg sjøl)
--   Du åpner opp for nye samtaler (rundt temaer som du selv er veldig interessert i å snakke om). Både med folk du kjenner godt fra før av, men også folk du aldri har snakka med.
--   Du gjør det mulig for andre å hjelpe deg i læringsprosessen, eller bare heie på deg og si "Du er god!", som også gjør læringsprosessen morsommere
+- Du tvinger deg sjøl til å konkretisere tankene dine, og at de blir lett å forstå for andre (også for deg sjøl)
+- Du åpner opp for nye samtaler (rundt temaer som du selv er veldig interessert i å snakke om). Både med folk du kjenner godt fra før av, men også folk du aldri har snakka med.
+- Du gjør det mulig for andre å hjelpe deg i læringsprosessen, eller bare heie på deg og si "Du er god!", som også gjør læringsprosessen morsommere
 
 ## Bonus
 
