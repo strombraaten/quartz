@@ -127,16 +127,6 @@ function addGlobalPageResources(
       document.head.appendChild(umamiScript)
     `)
   }
-  else if (cfg.analytics?.provider === "tinylytics") {
-    const tinylyticsSrc = "https://tinylytics.app/embed/yeW5HoX3FJHdsswz69gg.js";
-    componentResources.afterDOMLoaded.push(`
-        const tinylyticsScript = document.createElement("script");
-        tinylyticsScript.type = "text/javascript";
-        tinylyticsScript.defer = true;
-        tinylyticsScript.src = "${cfg.analytics.host ?? tinylyticsSrc}";
-        document.head.appendChild(tinylyticsScript);
-    `);
-  }
 
   if (cfg.enableSPA) {
     componentResources.afterDOMLoaded.push(spaRouterScript)

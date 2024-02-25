@@ -42,6 +42,7 @@ export default (() => {
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
           .map((res) => JSResourceToScriptElement(res, true))}
+          <script src="https://tinylytics.app/embed/yeW5HoX3FJHdsswz69gg.js" defer></script>
       </head>
     )
   }
