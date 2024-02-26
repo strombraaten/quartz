@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "tinylytics",
     },
     locale: "nb-NO",
-    baseUrl: "www.simenskriver.no",
+    baseUrl: "simenskriver.no",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
