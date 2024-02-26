@@ -13,7 +13,7 @@ Derfor prøver jeg å forklare det fundamentale på best mulig måte – som [[l
 
 ## Om det å ha en åpen og transparent læringsprosess
 
-En ting jeg setter veldig pris på er folk som lærer i det åpne, som viser det som også er uferdig. Faktisk så er det også en [tilbakemelding jeg fikk fra en av leserne fra nyhetsbrevet](content/hva%20andre%20mener%20om%20det%20jeg%20skriver.md), da hu innså hva hu satte pris på med skriveriene mine:
+En ting jeg setter veldig pris på er folk som lærer i det åpne, som viser det som også er uferdig. Faktisk så er det også en [tilbakemelding jeg fikk fra en av leserne fra nyhetsbrevet](hva%20andre%20mener%20om%20det%20jeg%20skriver.md), da hu innså hva hu satte pris på med skriveriene mine:
 
 > Nemlig det faktum at du skriver om ting mens du utforsker noe, du venter ikke til du er «utlært». Du formidler en nysgjerrighet på ting du ikke veit alt om enda.
 > 
