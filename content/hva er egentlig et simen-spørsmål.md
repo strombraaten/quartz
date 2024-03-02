@@ -38,7 +38,7 @@ Evnen til å stille gode spørsmål gir meg muligheten til å ha flere av de typ
 
 Det at folka rundt meg anser noe som et "Simen-spørsmål" er jo utrolig fint, for det betyr at jeg er konsekvent med måten jeg former en samtale på. At jeg spør for å forstå, og lar nysgjerrigheten lede an.
 
-Jeg har begynt på et notat med [[notes/gode spørsmål|gode spørsmål]] for å lage en samling over tid. I tillegg til at det kan være et sted for å utforske hva jeg legger i et "godt spørsmål". Og ikke minst hvordan du kommer deg fra et spørsmål til en samtale i form av gode [[notes/oppfølgingsspørsmål|oppfølgingsspørsmål]]. For øyeblikket er det ikke så mye å hente der, men der lurte jeg på om du kunne hjelpe meg litt.
+Jeg har begynt på et notat med [[gode spørsmål|gode spørsmål]] for å lage en samling over tid. I tillegg til at det kan være et sted for å utforske hva jeg legger i et "godt spørsmål". Og ikke minst hvordan du kommer deg fra et spørsmål til en samtale i form av gode [[oppfølgingsspørsmål|oppfølgingsspørsmål]]. For øyeblikket er det ikke så mye å hente der, men der lurte jeg på om du kunne hjelpe meg litt.
 
 ### Hvordan du kan bidra
 
