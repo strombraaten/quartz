@@ -1,6 +1,6 @@
 ---
 date: 2023-04-30
-lastmod: 2024-04-30
+lastmod: 2023-04-03
 tags:
   - AI
   - teknologi
@@ -12,7 +12,7 @@ publish: true
 
 ## Samtalekunst mellom menneske og maskin
 
-Når vi snakker om [[kunstig intelligens]] (forkorta til AI – "Artificial intelligence") så er det bare et system som har fått en rekke med instrukser – `Hvis dette skjer så skal du gjør det her`. Og de instruksene kommer fra folk som deg og meg, bare at de folka sannsynligvis kan mye mer om programmering og maskinlæring enn det jeg kan iallefall. 
+Når vi snakker om [[kunstig intelligens|kunstig intelligens]] (forkorta til AI – "Artificial intelligence") så er det bare et system som har fått en rekke med instrukser – `Hvis dette skjer så skal du gjør det her`. Og de instruksene kommer fra folk som deg og meg, bare at de folka sannsynligvis kan mye mer om programmering og maskinlæring enn det jeg kan iallefall. 
 
 De instruksene riktignok blir veldig tydelig når vi dykker inn i verden av [ChatGPT](https://www.nrk.no/nyheter/kunstig-intelligens-og-chatboter-1.16283115), og såkalte [_store språkmodeller_](https://www.uv.uio.no/om/organisasjon/idea/aktivitetstilbud/idea-arrangerer/idea-seminar/ai-seminar-varen-2023/idea-ai-seminar---jan-tore.pdf) (Large Language Models = LLM). For da er det ikke lenger bare utviklere som formulerer de instruksene, men det er også deg og meg. Og da er det ikke lenger et krav at du må kunne masse om kodegreier som du ikke egentlig bryr deg noe om. Da handler det bare om å stille gode spørsmål. Og spørsmål, DET er jeg god på!
 
