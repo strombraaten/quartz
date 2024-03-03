@@ -1,6 +1,6 @@
 ---
-date: 2024-03-04
-lastmod: 2024-03-04
+date: 2023-03-04
+lastmod: 2023-03-04
 tags:
   - nyhetsbrev
 aliases: 
@@ -35,7 +35,7 @@ For om jeg lager et grensesnitt så forholder jeg meg til pixler. Og det har jeg
 
 Det er en fordel hvis du lager en plakat f. eks, hvor du veit at A2 er det eneste formatet som skal brukes. Med digitale greier derimot må du tilrettelegge for at én person har en liten iPhone SE, mens en annen skal se på samme greia på en 32-tommers skjerm på jobb. Og det du lager skal være like fint i alle størrelser.
 
-![[images/skjermstørrelser-responsivt-design.png]]
+![[images/skjermstørrelser-responsivt-design.png|images/skjermstørrelser-responsivt-design.png]]
 
 Når du lager et _responsivt design_ må det altså kunne skaleres vertikalt og horisontalt. Da egner det seg dårlig med en måleenhet som ikke tar hensyn til omstendighetene den befinner seg i.
 
@@ -61,7 +61,7 @@ Det er jo mye lettere å definere at det **alltid** skal være 1 REM med mellomr
 
 Sannheten var at jeg ikke hadde vært konsekvent med avstandene gjennom hele løsningen. For jeg hadde fokusert på én side av gangen, som et enkeltstående stillbilde, ikke løsningen som en helhet. Derfor lagde jeg over oversikten nedenfor.
 
-![[images/typografi-spacing-regler.png]]
+![[images/typografi-spacing-regler.png|images/typografi-spacing-regler.png]]
 
 Ikke bare er det til stor hjelp for utvikleren, men også til meg. For da trenger jeg aldri å vurdere hver enkelt situasjon. Da lener jeg meg bare på regelen.
 
