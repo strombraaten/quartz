@@ -1,10 +1,12 @@
 ---
 date: 2022-12-21
-lastmod: 2023-05-10
+lastmod: 2024-03-07
 tags:
   - skriving
-title: Se skriveprosessen min på 6 minutter
+aliases: 
+title: skriveprosessen min på 6 minutter
 publish: true
+slug: skriveprosessen
 ---
 Jeg har tidligere snakka om at [[fyller arbeidet tida du har tilgjengelig|Parkinsons lov]] handler om hvordan arbeidet fyller den tida som er tilgjengelig. Men hvordan så prosessen egentlig ut da jeg halverte tida jeg vanligvis bruker på å skrive en artikkel, før jeg trykker på den store, grønne publiseringsknappen? Det skal du få se med dine egne øyne i dag.
 
