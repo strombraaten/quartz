@@ -6,6 +6,7 @@ aliases:
 tags:
   - apper
 publish: true
+slug: apper
 ---
 
 ## Mac

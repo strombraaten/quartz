@@ -1,11 +1,12 @@
 ---
 date: 2022-12-06
-lastmod: 2024-02-01
+lastmod: 2024-03-07
 tags:
   - tankemat
 aliases: 
 title: eksperimenter i hverdagen
 publish: true
+slug: eksperimenter
 ---
 
 Er det _ett_ poeng jeg vil få fram i dag er det at du trenger ikke gjøre alt _hver_ dag.

@@ -1,20 +1,22 @@
 ---
 date: 2022-12-12
-lastmod: 2023-03-12
-title: digitalt hagearbeid
+lastmod: 2024-03-07
 tags:
   - skriving
   - behind-the-scenes
 aliases:
   - digital hage
+  - evergreen notes
+title: digitalt hagearbeid
 publish: true
+slug: digital-hage
 ---
 
 Nå skal jeg være ærlig. Jeg har ikke lest hele [artikkelen jeg har tenkt til å referere til](https://maggieappleton.com/garden-history?ref=simen-skriver) nå. Kanskje bare en fjerdedel. Uansett, jeg er bare så gira at jeg må komme gang. Så la meg forklare hva som er spennende med digitalt hagearbeid.
 
 ## Hva er det egentlig?
 
-Når man snakker om en digital hage er det altså en samling med ideer som utvikler seg over tid. Om vi bruker den bloggen her et eksempel så var jeg nok litt kjapp i vendinga Da jeg skreiv om [[hva betyr egentlig kvalitet|kvalitet]] tidligere, og publiserte før jeg hadde tenkt meg godt om. Dagen etterpå hadde jeg en del tanker om [hvorfor det var delvis feil](content/Vent%20nå%20litt.md), og at jeg ikke var enig med Simen fra i går.
+Når man snakker om en digital hage er det altså en samling med ideer som utvikler seg over tid. Om vi bruker den bloggen her et eksempel så var jeg nok litt kjapp i vendinga Da jeg skreiv om [[hva betyr egentlig kvalitet|kvalitet]] tidligere, og publiserte før jeg hadde tenkt meg godt om. Dagen etterpå hadde jeg en del tanker om [hvorfor det var delvis feil](vent%20nå%20litt.md), og at jeg ikke var enig med Simen fra i går.
 
 I stedet for å publisere artikkel nummer to i det tilfellet kunne jeg bare redigert den første, for å tydeligere beskrive hva jeg mente. Det er digitalt hagearbeid. Når du luker vekk ugrasset, og bearbeider omgivelsene for tankefrøet du har planta. Notatene er også ment til å være mer utforskende, ved at de knyttes sammen gjennom konteksten de deler. Altså kontekstuell assosiasjon for å si det på en fin måte.
 
@@ -42,7 +44,7 @@ For det er virkelig noe fint med tanken av at du planter et frø til noe du lær
 
 ## Neologisme
 
-Et eksempel på det er notatet, eller samlesida hennes, hvor hu skriver om [__neologismer__](https://maggieappleton.com/neologisms?ref=simen-skriver), som er en fjong måte å si nyord på (altså "nye ord" sammensatt). Dette var nytt for meg, men neologismer dukker altså opp når det er behov for et nytt ord for eksempel i forbindelse med endringer i samfunnet, nye oppfinnelser, eller innenfor teknologi.
+Et eksempel på det er notatet, eller samlesida hennes, hvor hu skriver om [neologismer](https://maggieappleton.com/neologisms?ref=simen-skriver), som er en fjong måte å si nyord på (altså "nye ord" sammensatt). Dette var nytt for meg, men neologismer dukker altså opp når det er behov for et nytt ord for eksempel i forbindelse med endringer i samfunnet, nye oppfinnelser, eller innenfor teknologi.
 
 "Glamour toil", eller "hustle porn" som kanskje er mer beskrivende, var et eksempel som ressonerte med meg. For som et samfunn så har vi i løpet av de siste 10-15 årene romantisert tanken av å jobbe så hardt at du nedprioriterer alt annet. Og det kan oppsummeres som __glamour toil__. At du legger ut noe på sosiale medier for å vise, og for å få anerkjennelse, for at du sliter ræva av deg.
 

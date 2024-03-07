@@ -1,11 +1,12 @@
 ---
 date: 2022-12-19
-lastmod: 2024-02-01
+lastmod: 2024-03-07
 tags:
   - apper
 aliases: 
 title: Den neste nye tingen
 publish: true
+slug: neste-nye
 ---
 
 I dag oppdaga jeg noe som heter [Tana](https://tana.inc/?ref=simen-skriver). Såvidt jeg forstår overlapper det med Notion, [[obsidian]], og Things-appen, som jeg bruker fra før av, så jeg trenger den nok ikke. Men.. Det hadde vært spennende å prøve det da 🤔 Og det er akkurat den følelsen vi skal se på i dag.

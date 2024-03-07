@@ -1,12 +1,13 @@
 ---
 date: 2022-12-16
-lastmod: 2023-03-12
+lastmod: 2024-03-07
 tags:
   - læring
-title: En introduksjon til Zettelkasten
 aliases:
   - Zettelkasten
+title: en introduksjon til Zettelkasten
 publish: true
+slug: zettelkasten
 ---
 
 Det jeg skal fortelle deg om nå, hvis du har lest noen av de tidligere artiklene her, kommer ikke til å være noe nytt for deg. Og det er kjempebra!
@@ -21,7 +22,7 @@ Som jeg nevnte tidligere virker det som Zettelkasten dukka opp til overflaten ig
 
 Der forteller han om [Niklas Luhmann](https://en.wikipedia.org/wiki/Niklas_Luhmann?ref=simen-skriver), den tyske sosiologen, som hadde utallige trebokser med nøye organiserte papirlapper. Sammen utgjør alle de lappene et nettverk av tanker og kunnskap. Ikke bare oppfordrer det til mer aktiv lesing, men resultatet er også at det forenkler skriveprosessen betraktelig, siden du alltid kan spille videre på det du har lært fra før.
 
-![](https://www.simenskriver.no/content/images/2022/12/image-1.png)
+![[images/notecards.jpg]]
 
 Bildet er lånt fra [Journal of the History of Ideas](https://jhiblog.org/2019/04/17/ruminant-machines-a-twentieth-century-episode-in-the-material-history-of-ideas/?ref=simen-skriver).
 
@@ -52,7 +53,7 @@ Og det er det vi skal se på nå.
 
 "Fleeting notes" er løse tanker som dukker opp i løpet av dagen, f. eks mens du leser, eller bare en tanke som dukka opp mens du gjorde noe annet.
 
-Det jeg skriver ned i [notatboka jeg har i lomma](content/Hvorfor%20jeg%20går%20rundt%20med%20en%20notatbok%20i%20lomma.md) til enhver tid, det kan du se på som "fleeting notes". Flyktige tanker jeg vil fange før de forsvinner.
+Det jeg skriver ned i [[hvorfor jeg går rundt med en notatbok i lomma|notatboka jeg har i lomma]] til enhver tid, det kan du se på som "fleeting notes". Flyktige tanker jeg vil fange før de forsvinner.
 
 Når du skriver løse tanker burde du riktignok legge opp til at skal gå gjennom notatene dine i blant. Det du ser etter da er nyttige, relevante, eller bare fascinerende tanker, som du kan gjøre om til noe mer varig, noe mer permanent.
 
@@ -64,11 +65,11 @@ Du kan såklart hoppe rett til *Permanent notes*-steget, dersom du vil "kna tank
 
 Nettopp for at de "mindre verdifulle tankene" (utkastene/fleeting notes) ikke skal være til distraksjon for de mer verdifulle tankene som du _har_ bearbeida.
 
-_Fleeting notes_ overlapper forøvrig med C'en i Capture, [fra CODE-metoden](content/Hva%20i%20huleste%20er%20CODE%20og%20PARA.md) jeg nevnte tidligere.
+_Fleeting notes_ overlapper forøvrig med C'en i Capture, fra [[hva i huleste er CODE og PARA|CODE-metoden]] jeg nevnte tidligere.
 
 ## Permanent notes
 
-_Permanent notes_ vil være det samme som _[evergreen notes](https://www.simenskriver.no/digitalt-hagearbeid/)_ som jeg har snakka om tidligere. Dette er steget hvor du utdyper og konkretiserer tanken. De burde skrives i fullstendige setninger (ikke nøkkelord altså), og gjerne formulert som om du skulle forklart det til en person du ikke kjenner. Også kjent som ditt [framtidige, fremmede jeg](content/Ditt%20framtidige,%20fremmede%20jeg.md)
+_Permanent notes_ vil være det samme som [[digitalt hagearbeid|evergreen notes]] som jeg har snakka om tidligere. Dette er steget hvor du utdyper og konkretiserer tanken. De burde skrives i fullstendige setninger (ikke nøkkelord altså), og gjerne formulert som om du skulle forklart det til en person du ikke kjenner. Også kjent som [[ditt framtidige, fremmede jeg]].
 
 Dette er spesielt relevant når du skriver ned noe som andre har sagt, og hvor du prøver å fange noe som resonnerer med deg. For å sitere meg sjøl:
 
@@ -84,7 +85,7 @@ Og uavhengig om du har forstått _intensjonen_ til forfatteren eller ei, det kan
 
 Å finne koblinger mellom tanker og notater er en av hovedgrunnene til å lage et zettelkasten-system. Derfor er det viktig å tilrettelegge for at du skal finne ting.
 
-Den mer tradisjonelle måten å organisere notater på ville vært å tenkt hvilken mappe det hører hjemme i. Eller hva slags kategori det er relatert til. Når det kommer til zettelkasten, og det du kan se på som [[notes/Linking your thinking|linking your thinking]], så blir spørsmålet heller "_Hvordan kan jeg finne tilbake til denne ideen seinere?_".
+Den mer tradisjonelle måten å organisere notater på ville vært å tenkt hvilken mappe det hører hjemme i. Eller hva slags kategori det er relatert til. Når det kommer til zettelkasten, og det du kan se på som [[linking your thinking]], så blir spørsmålet heller "_Hvordan kan jeg finne tilbake til denne ideen seinere?_".
 
 Og gitt at du gjør det digitalt så vil det innebære å relatere det til andre notater, altså skrive ned hvilke linker som er relevant. For å finne ut hva det kan relateres til kan det hjelpe med noen oppfordrende spørsmål:
 
@@ -98,7 +99,7 @@ Og gitt at du gjør det digitalt så vil det innebære å relatere det til andre
 
 Ved at du itererer videre på egne notater over tid, når du tilfeldigvis snubler over dem, blir du også tvingt til å revurdere om det fremdeles gir mening. Om det overlapper med noe annet du har skrivd, og om det i så fall er noe du kan slette, som i gjengjeld vil rydde opp og tydeliggjøre de nedskrevne tankene dine
 
-_Permanent notes_ er overlapper med D'en for _Distill_, i [CODE-metoden](content/Hva%20i%20huleste%20er%20CODE%20og%20PARA.md). Hvor man fokuserer på å fange essensen av notatet, samtidig som du oppsummerer hva som er viktig for deg å huske framover.
+_Permanent notes_ er overlapper med D'en for _Distill_, i [[hva i huleste er CODE og PARA|CODE-metoden]]. Hvor man fokuserer på å fange essensen av notatet, samtidig som du oppsummerer hva som er viktig for deg å huske framover.
 
 ## Literature notes
 

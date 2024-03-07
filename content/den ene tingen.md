@@ -1,11 +1,12 @@
 ---
 date: 2023-03-04
-lastmod: 2023-03-04
+lastmod: 2024-03-07
 tags:
   - nyhetsbrev
 aliases: 
-title: Den ene tingen
+title: den ene tingen
 publish: true
+slug: den-ene-tingen
 ---
 Hei og hå! 👋
 

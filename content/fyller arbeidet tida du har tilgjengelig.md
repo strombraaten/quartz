@@ -1,12 +1,13 @@
 ---
 date: 2022-12-11
-lastmod: 2023-09-10
+lastmod: 2024-03-07
 tags:
   - tankemat
-title: Fyller virkelig arbeidet den tida du har tilgjengelig?
 aliases:
   - Parkinsons lov
+title: fyller arbeidet tida du har tilgjengelig
 publish: true
+slug: parkinsons-lov
 ---
 
 Du kjenner kanskje til utrykket _"If you wait until the last minute, it only takes a minute to do"_? Eller kanskje du kjenner til originalen, _"Work expands so as to fill the time available for its completion"_. 

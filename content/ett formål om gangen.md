@@ -1,10 +1,12 @@
 ---
 date: 2022-11-29
-lastmod: 2023-03-12
+lastmod: 2024-03-07
 tags:
   - apper
-title: Ett formål om gangen
+aliases: 
+title: ett formål om gangen
 publish: true
+slug: ett-formal
 ---
 
 I det siste har jeg lent meg mer og mer mot å bruke "single purpose apps". Altså apper som fokuserer på å gjøre én ting skikkelig bra, i stedet for å kunne brukes til alt. For når du _kan_ gjøre alt blir det også vanskeligere å gjøre noe i det hele tatt.
@@ -43,7 +45,7 @@ Nick Milo illustrerer linkinga mellom notater på en veldig god måte i denne vi
 
 ### Når det begynner å bli magisk
 
-Når jeg har lagt meg så pleier jeg å lese en bok på senga, i vente på å bli så trøtt at jeg ikke klarer å holde øya åpne lenger. Underveis markerer jeg noen setninger som jeg liker spesielt godt, eller kanskje det var noe jeg var interessert i å lese mer om. På magisk vis fraktes da de markerte setningene da _inn_ i [[notes/obsidian|Obsidian]], så det ligger klart når jeg vil bearbeide det seinere. Og det er takket være et slags "bindeledd", som heter [Readwise](https://readwise.io/?ref=simen-skriver) (enda en app).
+Når jeg har lagt meg så pleier jeg å lese en bok på senga, i vente på å bli så trøtt at jeg ikke klarer å holde øya åpne lenger. Underveis markerer jeg noen setninger som jeg liker spesielt godt, eller kanskje det var noe jeg var interessert i å lese mer om. På magisk vis fraktes da de markerte setningene da _inn_ i [[obsidian]], så det ligger klart når jeg vil bearbeide det seinere. Og det er takket være et slags "bindeledd", som heter [[klisterhjerne|readwise]] (enda en app).
 
 Når jeg da setter meg ned for å skrive på morgen, dagen etter, kan jeg hente ut de setningene jeg markerte kvelden før, og bruke det som grunnlag for det jeg vil skrive om.
 
@@ -63,7 +65,7 @@ Personlig liker jeg å betale for de tjenestene jeg virkelig liker, og som jeg k
 
 Men det er altså noe utrolig tilfredsstillende med å trykke på en snarvei, få opp feltet for å skrive ned oppgaven, og være ferdig med det i løpet av 3-5 sekunder totalt. Og da veit du at oppgaven ligger i "Innboksen" som det kalles, så du kan bearbeide det seinere. Som du kan se i gifen under:
 
-![](https://www.simenskriver.no/content/images/2022/12/animated-1.GIF)
+![[images/animated.gif]]
 
 Hadde jeg gjort det samme med Notion ville det ikke bare tatt lengre tid (og du skal ikke undervurdere fart [når det kommer til apper](https://craigmod.com/essays/fast_software/?ref=simen-skriver)), men det ville plutselig vært en del av et langt større, sammensatt system.
 
@@ -73,4 +75,4 @@ Ja, det er kanskje orden på loftet, men du kunne sannsynligvis kasta 60-70% av 
 
 ## Forutsigbarhet er viktig for et godt system
 
-For å oppsummere: det er mange grunner her som gjør meg gira, men én eller to av dem er enkelheten, og forutsigbarheten i at kunnskap hører hjemme i [[notes/obsidian|Obsidian]], og oppgaver hører hjemme i Things. Enn så lenge fortsetter jeg å gjøre mye av "tankearbeidet" mitt, i mangel på bedre ord, i Notion. For det er det faktisk utrolig godt egna for. Men det er utrolig befriende å ikke løse alle problemer med ett program, men heller fordele eggene mine utover noen flere kurver.
+For å oppsummere: det er mange grunner her som gjør meg gira, men én eller to av dem er enkelheten, og forutsigbarheten i at kunnskap hører hjemme i [[obsidian]], og oppgaver hører hjemme i Things. Enn så lenge fortsetter jeg å gjøre mye av "tankearbeidet" mitt, i mangel på bedre ord, i Notion. For det er det faktisk utrolig godt egna for. Men det er utrolig befriende å ikke løse alle problemer med ett program, men heller fordele eggene mine utover noen flere kurver.

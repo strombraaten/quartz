@@ -1,10 +1,12 @@
 ---
 date: 2022-12-21
-lastmod: 2023-06-11
+lastmod: 2024-03-07
 tags:
   - skriving
-title: Om jeg hadde hatt mer tid skulle jeg skrivi en kortere artikkel
+aliases: 
+title: hadde jeg hatt mer tid skulle jeg skrivi en kortere artikkel
 publish: true
+slug: mer-tid
 ---
 
 Det å skrive kortfatta er noe jeg virkelig beundrer. Som du kanskje har lagt merke til har jeg lettere for å skrive langt enn kort. Så det er et sitat jeg trekker fram jevnt og trutt for å beskrive den følelsen:
@@ -39,9 +41,9 @@ De ulike fasene i skriveprosessen kan jeg utdype mer om en annen gang, men i dag
 
 ## Notater som miniatyriske byggeklosser
 
-Da jeg introduserte Zettelkasten-metoden tidligere, i [[notes/En introduksjon til Zettelkasten|En introduksjon til Zettelkasten]], nevnte jeg også konseptet om "[[Atomic Notes]]", som [Sönke Ahrens](https://www.soenkeahrens.de/en/takesmartnotes) snakker om i boka [How to Take Smart Notes](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes?from_search=true&from_srp=true&qid=iMYFDAYQ99&rank=1).
+Da jeg introduserte Zettelkasten-metoden tidligere, i [[en introduksjon til Zettelkasten]], nevnte jeg også konseptet om "Atomic notes", som [Sönke Ahrens](https://www.soenkeahrens.de/en/takesmartnotes) snakker om i boka [How to Take Smart Notes](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes?from_search=true&from_srp=true&qid=iMYFDAYQ99&rank=1).
 
-De ulike fasene i skriveprosessen kan jeg utdype mer om en annen gang, men i dag vil jeg heller fokusere på hvordan det å skrive kortfatta er spesielt relevant for [[Zettelkasten|Zettelkasten]]-metoden, og å vedlikeholde et notatsystem.
+De ulike fasene i skriveprosessen kan jeg utdype mer om en annen gang, men i dag vil jeg heller fokusere på hvordan det å skrive kortfatta er spesielt relevant for [[en introduksjon til Zettelkasten|Zettelkasten]]-metoden, og å vedlikeholde et notatsystem.
 
 I motsetning til de lange artiklene mine så burde nemlig notatene våres være så kortfatta som mulig. Derav *"atomic"*, for å symbolisere at det skal brytes ned til de minste byggeklossene som du kan bryte det ned til. 
 

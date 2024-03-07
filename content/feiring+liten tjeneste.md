@@ -1,11 +1,12 @@
 ---
 date: 2023-04-23
-lastmod: 2023-04-23
+lastmod: 2024-03-07
 tags:
   - nyhetsbrev
 aliases: 
-title: Feiring + liten tjeneste
+title: Feiring + en liten tjeneste
 publish: true
+slug: feiring
 ---
 [Simenskriver-sida](https://www.simenskriver.no/) er endelig oppe og kjører! Og det er stas altså. For min del illustreres det av godt Robert De Niro på gifen under her.
 

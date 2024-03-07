@@ -1,11 +1,12 @@
 ---
 date: 2023-05-21
-lastmod: 2024-02-01
+lastmod: 2024-03-07
 tags:
   - læring
 aliases: 
-title: CSS
+title: css
 publish: true
+slug: css
 ---
 
 ## Egenskaper
@@ -112,7 +113,6 @@ Der kan du fint plassere alt av bakgrunnsfarger, størrelser, og valg av skriftt
 > [!IDEA] «Jobb smartere»-øyeblikk
 
 Det du gjør da er at du lager en spesifikk fil kun for stylinga av sida, som kalles et `style sheet`. CSS er nemlig forkorta fra «Cascading Style Sheet». Hvor «Cascading»-biten av begrepet handler om at alle stilvalgene dine, (eller «deklarasjonene», som de så fint kalles) kommer én etter én.
-
 
 I praksis vil [[html|HTML]]-fila di da se sånn ut:
 

@@ -1,11 +1,12 @@
 ---
 date: 2023-04-07
-lastmod: 2023-04-29
+lastmod: 2024-03-07
 tags:
   - teknologi
 aliases: 
 title: emneknagger
 publish: true
+slug: emneknagger
 ---
 
 NRK var det vel som introduserte ordet *emneknagg* i stedet for det engelske ord "tag". Og jeg har i grunn sansen for det. En *tag* er jo bare en knagg for emner, så den oversettelsen der støtter jeg.

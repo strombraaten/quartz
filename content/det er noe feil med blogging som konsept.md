@@ -1,11 +1,12 @@
 ---
 date: 2023-03-04
-lastmod: 2024-02-01
+lastmod: 2024-03-07
 tags:
   - skriving
 aliases: 
 title: det er noe feil med blogging som konsept
 publish: true
+slug: blogging-som-konsept
 ---
 
 På den forrige versjonen av hjemmesida mi så ville den artikkelen her vært øverst, bare fordi det var det siste jeg skreiv i det øyeblikket. Og rett under kunne du finne den artikkelen jeg skreiv før det igjen (illustrert av skjermbildet under, selv om det er feil titler og artikler).
@@ -18,7 +19,7 @@ Det du publiserte sist ligger øverst, og får da mest oppmerksomhet. Betyr det 
 
 ## Eldre tanker er ikke nødvendigvis dårlige tanker
 
-På den gamle versjonen av hjemmesida mi, i sin mer tradisjonelle bloggform, kunne du bla deg tilbake for å lese de eldre artiklene mine. Om du tok deg bryet med å gå fire sider tilbake i tid ville du snuble over det jeg skreiv om [[ditt framtidige, fremmede jeg|ditt framtidige, fremmede jeg]]. Tankene der er nøyaktige like relevante som det jeg skreiv om [[syntaks er nok mer spennende enn du tror|syntaks]] eller [[notes/Se skriveprosessen min på 6 minutter|Se skriveprosessen min på 6 minutter]].
+På den gamle versjonen av hjemmesida mi, i sin mer tradisjonelle bloggform, kunne du bla deg tilbake for å lese de eldre artiklene mine. Om du tok deg bryet med å gå fire sider tilbake i tid ville du snuble over det jeg skreiv om [[ditt framtidige, fremmede jeg|ditt framtidige, fremmede jeg]]. Tankene der er nøyaktige like relevante som det jeg skreiv om [[syntaks]] eller [[hadde jeg hatt mer tid skulle jeg skrivi en kortere artikkel]].
 
 På én måte kan det være fint med rekkefølge, en reversert kronologisk rekkefølge, for tankene kan sees på som et avtrykk i tid, at du fanga hva du tenkte i det øyeblikket. Samtidig blir tankene nedprioritert desto eldre de er. For hver side som blir lagt til minsker også sjansen for å finne noe gammelt gull.
 
