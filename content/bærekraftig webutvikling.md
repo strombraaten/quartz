@@ -47,9 +47,9 @@ Du kan fint komprimere et bilde ned til noen få hundre kilobyte, og f. eks 1000
 
 ### Effektiviteten av ulike kodespråk
 
-Nå beveger jeg meg ut på tynn is, så gjerne korriger meg om jeg tar feil, men såvidt jeg veit så vil en side som kun er basert på enkel [[notes/HTML|HTML]] og [[notes/CSS|CSS]], med noen tekstfiler i [[markdown|markdown]], sees på som en lettvekter i internettverden.
+Nå beveger jeg meg ut på tynn is, så gjerne korriger meg om jeg tar feil, men såvidt jeg veit så vil en side som kun er basert på enkel [[html|HTML]] og [[css]], med noen tekstfiler i [[markdown|markdown]], sees på som en lettvekter i internettverden.
 
-Når du derimot introduserer mer javascript så kan energibruken begynne å balle på seg. For når man skal være mer fancy, som f. eks med [[notes/den interaktive grafen|den interaktive grafen]] jeg har på forsida, så vil det også kreve mer å gjenskape det når du ser det.
+Når du derimot introduserer mer javascript så kan energibruken begynne å balle på seg. For når man skal være mer fancy, som f. eks med [[den interaktive grafen]] jeg har på forsida, så vil det også kreve mer å gjenskape det når du ser det.
 
 ### Disclaimer
 

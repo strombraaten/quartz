@@ -8,7 +8,6 @@ aliases:
 publish: true
 ---
 
-
 Linker er en av de fundamentale greiene med [[Obsidian|Obsidian]].
 
 For du ser at ordet "Obsidian" der er en link? For å være presis er det en såkalt "*utgående link*" som sender deg ut av notatet du er i nå, men som peker deg i en retning hvor du kan lære mer om det temaet. Du veit. Sånn som linker funker ellers.
@@ -27,4 +26,4 @@ Du kan også linke til et notat som ikke finnes ennå, dersom du tror at det kom
 
 ### Pro tip
 
-For å linke mellom ulike notater kan du enten lage en internlink som man ellers gjør i [[obsidian|obsidian]] ved å skrive `[[navnet på notatet du vil linke til]]`, eller du kan skrive `[relevant setning som skal linke videre](overordnet mappe/navnet%20på%20notatet%20du%20vil%20linke%20til.md)`
+For å linke mellom ulike notater kan du enten lage en internlink som man ellers gjør i [[obsidian|obsidian]] ved å skrive `[[navnet på notatet du vil linke til]]`, eller du kan skrive `[relevant setning som skal linke videre](navnet%20på%20notatet%20du%20vil%20linke%20til.md)`

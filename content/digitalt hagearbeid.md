@@ -14,7 +14,7 @@ Nå skal jeg være ærlig. Jeg har ikke lest hele [artikkelen jeg har tenkt til 
 
 ## Hva er det egentlig?
 
-Når man snakker om en digital hage er det altså en samling med ideer som utvikler seg over tid. Om vi bruker den bloggen her et eksempel så var jeg nok litt kjapp i vendinga Da jeg skreiv om [[Hva betyr egentlig kvalitet?|kvalitet]] tidligere, og publiserte før jeg hadde tenkt meg godt om. Dagen etterpå hadde jeg en del tanker om [hvorfor det var delvis feil](content/Vent%20nå%20litt.md), og at jeg ikke var enig med Simen fra i går.
+Når man snakker om en digital hage er det altså en samling med ideer som utvikler seg over tid. Om vi bruker den bloggen her et eksempel så var jeg nok litt kjapp i vendinga Da jeg skreiv om [[hva betyr egentlig kvalitet|kvalitet]] tidligere, og publiserte før jeg hadde tenkt meg godt om. Dagen etterpå hadde jeg en del tanker om [hvorfor det var delvis feil](content/Vent%20nå%20litt.md), og at jeg ikke var enig med Simen fra i går.
 
 I stedet for å publisere artikkel nummer to i det tilfellet kunne jeg bare redigert den første, for å tydeligere beskrive hva jeg mente. Det er digitalt hagearbeid. Når du luker vekk ugrasset, og bearbeider omgivelsene for tankefrøet du har planta. Notatene er også ment til å være mer utforskende, ved at de knyttes sammen gjennom konteksten de deler. Altså kontekstuell assosiasjon for å si det på en fin måte.
 

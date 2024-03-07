@@ -27,7 +27,7 @@ Utover det så er det andre fordeler som f. eks
 1. Kjapt søk (med hurtigtast! Bare trykk på `cmd+k`)
 2. Et godt utgangspunkt for nybegynnere som meg som vil foretrekker å tilpasse eksisterende kode, framfor å prøve å skrive noe eget
 3. Forhåndsvisning av linker, tilbakekoblinger mellom notater, og en [[den interaktive grafen|interaktiv graf]]
-4. Støtte for [Markdown](https://www.markdownguide.org/getting-started/) og sånne [[linker]] som man bruker i Obsidian
+4. Støtte for [[Markdown]] og sånne [[linker]] som man bruker i Obsidian
 
 ### Flere eksempler
 
