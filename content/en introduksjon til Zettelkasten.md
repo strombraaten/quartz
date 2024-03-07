@@ -5,7 +5,7 @@ tags:
   - læring
 title: En introduksjon til Zettelkasten
 aliases:
-  - zettelkasten
+  - Zettelkasten
 publish: true
 ---
 
