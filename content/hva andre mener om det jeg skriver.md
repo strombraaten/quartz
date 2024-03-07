@@ -34,3 +34,7 @@ Det er virkelig en av de beste grunnene til å starte et nyhetsbrev, vil jeg si.
 >[!Quote] Person 4, etter å ha lest "[[menneskelig vedlikehold|menneskelig vedlikehold]]"
 >
 > Dette likte jeg kjempegodt, Simen! Jeg prøver bestandig å bli kvitt unødvendige ting i livet mitt. Fra abonnement eller fysiske ting jeg ikke bruker, til ord og setninger som er overflødige i e-poster og meldinger.
+
+>[!Quote] Person 5, etter å ha lest [[om sammenligning]]
+>
+> Spennende lesing Simen! Jeg er altfor trøtt til å ha noe fornuftig å bidra med, men ville bare si at du skriver godt og inspirerende 😊
