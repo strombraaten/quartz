@@ -58,7 +58,7 @@ Som du kanskje har skjønt tar jeg mange skjermbilder. Så da Erlend fra [Havn.
 
 > [!important] Nyhet!
 > 
-> Nå kan du støtte jobben jeg gjør her, med ca 70 kr, uten å betale *noe* ekstra for selve appen, ved å bruke rabattlinken min: cleanshot.sjv.io/simenskriver
+> Nå kan du støtte jobben jeg gjør her, med ca 70 kr, uten å betale *noe* ekstra for selve appen, ved å bruke rabattlinken min: [cleanshot.sjv.io/simenskriver](https://cleanshot.sjv.io/simenskriver)
 > 
 > Denne appen har jeg brukt så mye, og er en av de appene jeg tipser om oftest, så da føltes det rett og rimelig og ha en rabattlink tilgjengelig.
 > 
