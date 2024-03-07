@@ -7,11 +7,7 @@ aliases:
 title: Den neste nye tingen
 publish: true
 ---
-I dag oppdaga jeg noe som heter [Tana](https://tana.inc/?ref=simen-skriver). Såvidt jeg forstår overlapper det med Notion, [[obsidian]], og Things-appen, som jeg bruker fra før av, så jeg trenger den nok ikke. Men.. Det hadde vært spennende å prøve det da 🤔 Og det er akkurat den følelsen vi skal se på i dag.
-
-> [!important] Ahoi! Her er det bilder som har blitt borte vekk
-> Skal se om jeg får fiksa opp i det en dag
-
+I dag oppdaga jeg noe som heter [Tana](https://tana.inc/?ref=simen-skriver). Såvidt jeg forstår overlapper det med Notion, [[obsidian|obsidian]], og Things-appen, som jeg bruker fra før av, så jeg trenger den nok ikke. Men.. Det hadde vært spennende å prøve det da 🤔 Og det er akkurat den følelsen vi skal se på i dag.
 ## Hva som er så moro
 
 Personlig har jeg sikkert bytta "to do"-apper, og ulike tilnærminger til behandling av oppgaver, oftere enn jeg har bytta sengetøy det siste året. Og det betyr på ingen måte at jeg ikke er reinslig av meg, bare så det er sagt.
@@ -26,35 +22,35 @@ Spørsmålet som oppstår riktignok, i møte med enda en ny app som egentlig gj�
 
 Det at noe føles "nytt" i seg sjøl gjør det fristende å utforske. På engelsk snakker man gjerne om "_novelty_". Og da defineres det ved at noe er slående, forbausende, originalt, eller uvanlig. Og det ligger noe i det der. Jeg tror det handler om at noe er annerledes enn det du er vant til.
 
-Og bare de siste månedene er det noe jeg har kjent på både med [Tana](https://tana.inc/?ref=simen-skriver), men også [Arc](https://arc.net/?ref=simen-skriver) (som er nettleseren jeg bruker for øyeblikket), [Roam](https://roamresearch.com/?ref=simen-skriver) (som jeg vil tro har lagt mye av grunnlaget til det Tana er i dag), og sist, men ikke minst [Freeform](https://www.apple.com/no/newsroom/2022/12/apple-launches-freeform-a-powerful-new-app-designed-for-creative-collaboration/?ref=simen-skriver)-appen som Apple rulla ut her om dagen. Som er et såkalt "infinite canvas" hvor du kan tegne, slenge opp noen postits, skrive, og samle alt mulig rart.
+Og bare de siste månedene er det noe jeg har kjent på både med [Tana](https://tana.inc/?ref=simen-skriver), men også [Arc](https://arc.net/?ref=simen-skriver) (som er nettleseren jeg bruker for øyeblikket), [Roam](https://roamresearch.com/?ref=simen-skriver) (som jeg vil tro har lagt mye av grunnlaget til det Tana er i dag), og sist, men ikke minst [Freeform](https://www.apple.com/no/newsroom/2022/12/apple-launches-freeform-a-powerful-new-app-designed-for-creative-collaboration/?ref=simen-skriver)-appen som Apple rulla ut her om dagen. Som er et såkalt "infinite canvas" hvor du kan tegne, slenge opp noen post-its, skrive, og samle alt mulig rart.
 
 Men la vårs bruke Tana, som jeg nevnte i starten, som et eksempel. De hauser opp stemninga med å si at du bør forberede deg på å kansellere mange av de månedlige abonnementene du har fra før av, for denne appen kan brukes til det aller meste. Eksemplifisert av slagordet til Tana her:
 
-![[notes/images/Simens skjermbilder 19-12-2022- kl 23.07.05@2x.png]]
+![[images/Simens skjermbilder 19-12-2022- kl 23.07.05@2x.png|images/Simens skjermbilder 19-12-2022- kl 23.07.05@2x.png]]
 
-Det var forsåvidt den fleksibiliteten som frista meg med Notion til å starte med. Nå derimot er det to-tre ting jeg er spesielt interessert i:
+Det var forsåvidt den fleksibiliteten som frista meg med Notion til å starte med. Nå derimot er det tre ting jeg er spesielt interessert i.
 
-### Supertags
+### 1. Supertags
 
 Som du kan se i eksempelet under, fra [videoen til Keep Productive](https://www.youtube.com/watch?v=TaOOkOOhRcM&ref=simen-skriver), så fungerer det nesten som en slags mal. Så denne "todo"-tæggen vil alltid ha inkludere noen nøkkelfelt som 1) hvem det gjelder, 2) når det skal være ferdig, og 3) statusen på oppgava:
 
-![[notes/images/Simens skjermbilder 19-12-2022- kl 22.42.27@2x.png]]
+![[images/Simens skjermbilder 19-12-2022- kl 22.42.27@2x.png|images/Simens skjermbilder 19-12-2022- kl 22.42.27@2x.png]]
 
-### Linjebasert linking
+### 2. Linjebasert linking
 
-At du kan sømløst linke én setning til én annen, på samme måte som jeg gjør med [[Obsidian]] i dag, men der er det mest fokus på å linke sider sammen. Selv om du kan linke enkelte setninger, og bygge det inn i et notat, så ser det imponerende sømløst ut allerede i Tana, selv om de bare har holdt på i litt over et år, om jeg har forstått riktig.
+At du kan sømløst linke én setning til én annen, på samme måte som jeg gjør med [[Obsidian|Obsidian]] i dag, men der er det mest fokus på å linke sider sammen. Selv om du kan linke enkelte setninger, og bygge det inn i et notat, så ser det imponerende sømløst ut allerede i Tana, selv om de bare har holdt på i litt over et år, om jeg har forstått riktig.
 
-![[notes/images/Simens-skjermbilder-29-04-2023-kl08.42.png]]
+![[images/Simens-skjermbilder-29-04-2023-kl08.42.png|images/Simens-skjermbilder-29-04-2023-kl08.42.png]]
 
-Fra [CortexFutura sin video](https://www.youtube.com/watch?v=wvvsTD2RzKE&t=662s&ref=simen-skriver) om å bruke [[Zettelkasten]] i tana
+Fra [CortexFutura sin video](https://www.youtube.com/watch?v=wvvsTD2RzKE&t=662s&ref=simen-skriver) om å bruke [[en introduksjon til Zettelkasten|Zettelkasten]] i Tana.
 
-### Kraftig "query"-funksjon
+### 3. Kraftig "query"-funksjon
 
 En query-funksjon betyr at du kan på sett og vis "spørre" systemet ditt om å finne ting. Som f. eks _"Hvilke notater har jeg om Zettelkasten?"_, også hentes alt det ut, siden du har tægga det tidligere.
 
-![[notes/images/Simens skjermbilder 19-12-2022- kl 22.56.47@2x.png]]
+![[images/Simens skjermbilder 19-12-2022- kl 22.56.47@2x.png|images/Simens skjermbilder 19-12-2022- kl 22.56.47@2x.png]]
 
-I tillegg er jeg fascinert av tilnærminga til et daglig notat som utgangspunktet for alt av organisering. Det er forsåvidt noe jeg fint kan gjøre i [[notes/obsidian|Obsidian]] og, men som jeg bare ikke har gjort i like stor grad.
+I tillegg er jeg fascinert av tilnærminga til et daglig notat som utgangspunktet for alt av organisering. Det er forsåvidt noe jeg fint kan gjøre i [[obsidian|obsidian]] og, men som jeg bare ikke har gjort i like stor grad.
 
 ## Det blir aldri godt nok
 
