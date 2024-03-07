@@ -13,10 +13,10 @@ interface Options {
 
 const defaultOptions: Options = {
   theme: {
-    light: "github-light",
-    dark: "github-dark",
+    light: "min-light",
+    dark: "dracula",
   },
-  keepBackground: false,
+  keepBackground: true,
 }
 
 export const SyntaxHighlighting: QuartzTransformerPlugin<Options> = (
