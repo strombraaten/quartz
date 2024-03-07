@@ -14,7 +14,7 @@ TK-trikset er noe jeg bruker rett som det er for å holde skriveflyten gående, 
 
 Det som er ekstra kult er at Medium faktisk har [bygd inn det som en egen funksjon](https://medium.com/blogging-guide/tk-notes-mediums-little-known-feature-used-when-editing-articles-f94a0c0f419d), for å gjøre det synlig hvor du må fylle inn mer info seinere.
 
-![[images/medium-tk-triks.gif|images/medium-tk-triks.gif]]
+![[images/medium-tk-triks.gif]]
 
 Det er flere år siden jeg først snubla over det, i en artikkel fra journalisten, [Anders Hofseth](https://nrkbeta.no/author/andorand-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/). Som han beskriver det så unngår han å distrahere seg selv med research ved å skrive `TK` midt i en setning:
 
