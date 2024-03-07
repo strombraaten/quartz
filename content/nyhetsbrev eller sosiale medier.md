@@ -1,11 +1,12 @@
 ---
 date: 2023-03-19
-lastmod: 2023-03-19
+lastmod: 2024-03-07
 tags:
   - nyhetsbrev
 aliases: 
-title: forskjellen mellom et nyhetsbrev og å publisere på sosiale medier
+title: nyhetsbrev eller sosiale medier
 publish: true
+slug: nyhetsbrev-eller-sosiale-medier
 ---
 Denne gangen kan jeg meddele at halve nyhetsbrevet blei skrivi i fredelige omgivelser på Toten. Den andre halvdelen derimot blei skrivi i nesten like fredelige omgivelser på do. I Trondheim. Det hadde jeg ikke trengt å dele, men jeg syns det var gøy. Dessuten sier det også noe om at jeg har klart å tilrettelegge for en arbeidsflyt som jeg gjøre hvor som helst. Det er kult.
 

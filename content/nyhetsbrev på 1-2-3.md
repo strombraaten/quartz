@@ -1,12 +1,14 @@
 ---
 date: 2023-03-12
-lastmod: 2023-03-12
+lastmod: 2024-03-07
 tags:
   - nyhetsbrev
 aliases: 
-title: Nyhetsbrev på 1-2-3
+title: nyhetsbrev på 1-2-3
 publish: true
+slug: nyhetsbrev-1-2-3
 ---
+
 # Heisann verden!
 
 [3-2-1-tankegangen](https://jamesclear.com/3-2-1/february-2-2023?utm_source=simenskriver&utm_medium=email) er noe James Clear, forfatteren av Atomic Habits, har gjort i mange år. Samtidig var det først da jeg så [nyhetsbrevene til Jacky Zhao](https://github.com/jackyzha0/blog/blob/master/newsletter/4.md?utm_source=simenskriver&utm_medium=email) at puslespillbitene falt på plass i hodet mitt.
@@ -25,7 +27,7 @@ Jeg kommer riktignok til å reversere rekkefølgen, for det er noe morsomt med �
 
 Titlene på de ulike punktene kommer jeg garantert til å endre på, altså at det som var to ting-punktet én uke, plutselig er tre ting-punktet neste uke, bare fordi jeg hadde mer å si om det, men det har jo ingenting å si. Så da klinker vi til! 🥳
 
-## 1 ting jeg har gjort
+## 1 Ting jeg har gjort
 
 Lagd nyhetsbrev! Men det her er nytt for meg, så jeg vil veldig gjerne vite om det er noe "rart" med epostene du får.
 
@@ -33,7 +35,7 @@ Denne gangen f. eks får du se hvordan nyhetsbrevet ser ut med kun HTML. Da får
 
 Det er derfor jeg trenger deg til å si i fra om noe "skurrer", som ikke virker helt riktig, eller som bare kunne vært bedre. For jeg vil at det her skal være en god leseropplevelse, men det kan hende det ser annerledes ut for deg enn det gjør for meg.
 
-## 2 ting jeg likte
+## 2 Ting jeg likte
 
 1. [Podcasten med Maggie Appleton](https://open.spotify.com/episode/3wUYDrn5wB7oNDrugprH1F?si=523211ad911247df&utm_source=simenskriver&utm_medium=email) om digitalt hagebruk
     - Bare kom deg gjennom de kleine lydeffektene
@@ -42,7 +44,7 @@ Det er derfor jeg trenger deg til å si i fra om noe "skurrer", som ikke virker 
 
 ![[images/nyhetsbrev-1-kodebilde.png]]
 
-## 3 tanker jeg har hatt den siste uka
+## 3 Tanker jeg har hatt den siste uka
 
 ### Den første tanken
 

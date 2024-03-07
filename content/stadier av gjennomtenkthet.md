@@ -9,6 +9,9 @@ title: stadier av gjennomtenkthet
 publish: true
 ---
 
+> [!info] Oppdatering
+> Dette stoppa jeg med etterhvert, ettersom jeg følte det var mer i veien for skrivinga enn det var til hjelp.
+
 For å gjøre det tydeligere hvilke av notatene mine som er mer og mindre gjennomtenkt innførte jeg et nytt konsept i en periode. Siden da så har jeg valgt å gå vekk fra det. I alle fall for en liten stund. Tanken spilte videre på det her med [[digitalt hagearbeid]], hvor du har [[en tanke i utvikling]].
 
 Grunnen til at jeg gikk vekk fra det var at det var vanskelig å si når en tanke var mer bearbeida. Når går den egentlig fra å være et frø til en stikling? Eller hele veien til blomst? Det er jo bare jeg som setter de grensene for meg sjøl, men jeg syns at tekstene mine står bedre for seg sjøl når de ikke får en etikette på seg, om hvor ferdigtenkte de er.

@@ -1,11 +1,13 @@
 ---
 date: 2023-03-05
-lastmod: 2023-03-12
+lastmod: 2024-03-07
 tags:
   - tankemat
   - teknologi
+aliases: 
 title: skjermbilder
 publish: true
+slug: skjermbilder
 ---
 
 Jeg tror jeg har undervurdert skjermbilder.

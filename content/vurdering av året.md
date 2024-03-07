@@ -1,13 +1,14 @@
 ---
 date: 2024-01-07
-lastmod: 2024-01-07
+lastmod: 2024-03-07
 tags:
   - læring
   - tankemat
 aliases:
   - årlig vurdering
-title: Vurdering av året
+title: vurdering av året
 publish: true
+slug: vurdering
 ---
 Dette er spørsmålene jeg stiller meg sjøl for å vurdere året som har vært, og hva jeg vil ta med meg inn i året som kommer.
 
@@ -34,6 +35,7 @@ Dette er spørsmålene jeg stiller meg sjøl for å vurdere året som har vært,
 *Noe du har lærte om deg sjøl, eller en måte du kan håndtere ulike situasjoner på f. eks. Hvis du syns det er vanskelig så kan du se på det du skreiv ned fra kalenderen din.*
 
 ...
+
 ### Hva er det som har forma deg i størst grad i løpet av det siste året?
 
 *Trekk fram noen "honourable mentions", og vurder det derfra. Ikke fokuser på at du skal finne én ting, men heller noen få alternativer.*

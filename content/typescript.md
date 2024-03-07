@@ -1,11 +1,13 @@
 ---
 date: 2023-09-09
-lastmod: 2023-09-09
+lastmod: 2024-03-07
 tags:
   - læring
   - teknologi
+aliases: 
 title: Typescript
 publish: true
+slug: typescript
 ---
 
 Okei, her er det bare å ta et dypt pust og sette i gang.
@@ -49,7 +51,7 @@ Feilmeldinga dukker altså opp fordi selve *typen* av variabelen som heter `obj`
 
 ## Spilleregler
 
-Siden Typescript er basert på [[javascript]] så betyr det at de deler samme [[syntaks|syntaks]], eller de samme spillereglene foråsirresånn. Det som er grei oppførsel i [[javascript]] er mer eller mindre greit i Typescript og ut fra måten du skriver koden din. Forskjellen derimot er at Typescript legger til noen regler om hvordan ulike typer variabler kan brukes. Som i eksempelet over, hvor det er en type verdi som er stavet feil.
+Siden Typescript er basert på [[javascript]] så betyr det at de deler samme [[syntaks|]], eller de samme spillereglene foråsirresånn. Det som er grei oppførsel i [[javascript]] er mer eller mindre greit i Typescript og ut fra måten du skriver koden din. Forskjellen derimot er at Typescript legger til noen regler om hvordan ulike typer variabler kan brukes. Som i eksempelet over, hvor det er en type verdi som er stavet feil.
 
 ---
 

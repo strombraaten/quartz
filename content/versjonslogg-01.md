@@ -1,12 +1,13 @@
 ---
 date: 2024-03-03
-lastmod: 2024-03-03
+lastmod: 2024-03-07
 tags:
   - nyhetsbrev
   - versjonslogg
 aliases: 
 title: Versjonslogg 0.1
 publish: true
+slug: versjonslogg01
 ---
 
 ## Endringer siden sist

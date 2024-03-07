@@ -1,10 +1,12 @@
 ---
 date: 2023-07-16
-lastmod: 2023-07-16
-title: å lage løsningen i felleskap
+lastmod: 2024-03-07
 tags:
   - behind-the-scenes
+aliases: 
+title: å lage løsningen i felleskap
 publish: true
+slug: felleskap
 ---
 
 ## Hvordan pølsa lages
@@ -21,7 +23,10 @@ Det var i alle fall det jeg tenkte, der jeg lå og fløyt i en gigantisk boks, o
 
 Det skader jo ikke å prøve, så nå har jeg lagd et rom på internett hvor du og jeg kan skravle, samtidig som andre også kan slenge seg med på samtalen. Eller så kan du bare observere fra sidelinja i første omgang, og bidra når du føler for det.
 
-***Om du vil være blant de aller første så er det bare å trykke på den linken her:*** [https://discord.gg/f2ZrnPVbYC](https://discord.gg/f2ZrnPVbYC)
+> [!hint] Bli med i gjengen
+> Om du vil være blant de første til å gi det et forsøk så er det bare å trykke på den linken her: 
+> https://discord.gg/f2ZrnPVbYC
+
 
 Jeg skal straks vise deg hva du har i vente ved å trykke på linken, men først vil jeg bare forklare hvorfor jeg tilrettelegger for det.
 
@@ -44,6 +49,7 @@ De eksemplene har jeg prøvd å gjenspeile i kanalene som er lagd:
 `Tilbakemelding` skal være en enkel måte for deg å si i fra om noe ikke fungerer, samtidig som jeg kan dokumentere det jeg veit er feil, så du også ser hva jeg tenker å endre på
 
 ![[images/Simens-skjermbilder-16-07-2023-kl22.23.png|images/Simens-skjermbilder-16-07-2023-kl22.23.png]]
+
 ### Hvorfor jeg gjør det
 
 Noe av det aller beste som har kommet ut av nyhetsbrevet for min del er svarene jeg har fått fra deg og dere. Det at andre plukker opp samtalen om et superspesifikt tema som jeg har skikkelig lyst til å snakke om, det er helt fantastisk. Og jeg opplever at begge parter lærer mer av den oppfølginga i etterkant, nettopp fordi man kan sprette noen ideer mot hverandre.

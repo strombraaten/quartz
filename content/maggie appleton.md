@@ -1,12 +1,13 @@
 ---
 date: 2023-05-10
-lastmod: 2023-05-10
+lastmod: 2024-03-07
 tags:
   - folk
 aliases:
   - Maggie
-title: Maggie Appleton
+title: Maggie appleton
 publish: true
+slug: maggie
 ---
 
 Maggie er skaperen av kanskje den peneste bloggen jeg noensinne har sett – https://maggieappleton.com/. 

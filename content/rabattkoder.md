@@ -5,7 +5,7 @@ tags:
   - behind-the-scenes
 aliases:
   - mitt syn på rabattkoder
-title: Mitt syn på rabattkoder
+title: rabattkoder
 publish: true
 slug: rabatt
 ---

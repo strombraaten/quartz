@@ -1,12 +1,13 @@
 ---
 date: 2023-03-04
-lastmod: 2023-04-29
-title: Syntaks er nok mer spennende enn du tror
+lastmod: 2024-03-07
 tags:
   - tankemat
 aliases:
   - syntaks
+title: Syntaks er nok mer interessant enn du tror
 publish: true
+slug: syntaks
 ---
 
 Syntaks er et ord jeg utelukkende forbinder med programmering, med kode. Med andre ord, ting jeg ikke kan.

@@ -1,11 +1,12 @@
 ---
 date: 2022-12-14
-lastmod: 2023-12-03
-title: Hvorfor jeg blir så gira av Obsidian
+lastmod: 2024-03-07
 tags:
   - apper
 aliases: 
+title: Hvorfor jeg blir så gira av Obsidian
 publish: true
+slug: gira-av-obsidian
 ---
 Hva om du enkelt kunne finne ut av hva som helst? For eksempel navnet på den boka du leste for sju år siden, som handla om lykke eller glede. Eller kanskje det var et sitat fra en eller annen gammel greker?
 
@@ -25,7 +26,7 @@ Og det er der [[obsidian]] kommer inn i bildet, for min del.
 
 Om 7 dager er det nøyaktig ett år siden jeg betalte for mitt første år med Obsidian. Eller. Appen er [utrolig nok gratis](https://obsidian.md/pricing), og du kan klare deg helt fint med det, men du må betale for tilleggstjenesten av å synkronisere notatene dine gjennom deres servere. Som er forståelig nok. Om du har dropbox eller icloud-lagring fra før av riktignok så kan du bruke Obsidian helt gratis, uten å måtte betale ei krone.
 
-Da jeg snubla over en ny og fristende app, som heter [Tana](https://tana.inc/?ref=simen-skriver), begynte jeg å tenke over spørsmålet:
+Da jeg snubla over en [[den neste nye tingen|ny og fristende app]], som heter [Tana](https://tana.inc/?ref=simen-skriver), begynte jeg å tenke over spørsmålet:
 
 > Når er det du _ikke_ burde kaste deg ut i den neste nye tingen?
 
@@ -37,7 +38,7 @@ Grunnen til at jeg sier det er fordi det er ganske sjukt å tenke på hva de har
 
 ## Kriterier
 
-Tidligere [har jeg nevnt](den%20neste%20nye%20tingen.md) at:
+Som jeg nevnte i [[den neste nye tingen]]:
 
 > Ved å heller vurdere appene vi bruker ut fra _kriteriene_ som er viktig for vårs, på en generell basis, vil det (forhåpentligvis) bli lettere å roe ned den evige jakten etter noe nytt og blankt.
 
@@ -63,7 +64,7 @@ Yes, sir! For hver gang de oppdaterer appen får du en liste over endringene som
 
 ![[images/obsidian-release-notes-canvas.png]]
 
-### Light/dark mode = ✅
+### Light/dark Mode = ✅
 
 Å jada! Riktignok litt avhengig av hvilket "theme" du velger, men om jeg tolker det riktig, så er det ca 115 stykker som tilbyr på lys og mørk modus. Om du syns det blei for mye å velge mellom så er jeg veldig enig i denne [oversikten over 5 minimale themes](https://elizabethbutlermd.com/5-of-the-best-custom-minimalist-digital-note-taking-themes-for-obsidian-in-2022/?ref=simen-skriver).
 
@@ -73,7 +74,7 @@ Personlig har jeg brukt [Minimal](https://minimal.guide/Home?ref=simen-skriver) 
 
 ### Tilgjengelig på tvers av enheter = ✅
 
-Jepp! På iPaden er det overraskende smud for fokusert skriving, og på telefonen fungerer det utmerket for å "fange en flyktig tanke", [som jeg har snakka om tidligere](hvorfor%20jeg%20går%20rundt%20med%20en%20notatbok%20i%20lomma.md). Personlig bruker jeg hovedsakelig den lille notatboka mi til det, men det er godt å ha muligheten.
+Jepp! På iPaden er det overraskende smud for fokusert skriving, og på telefonen fungerer det utmerket for å "fange en flyktig tanke", [[hvorfor jeg går rundt med en notatbok i lomma|som jeg har snakka om tidligere]]. Personlig bruker jeg hovedsakelig den lille notatboka mi til det, men det er godt å ha muligheten.
 
 Men det er mer.. Og her må vi dele det opp i de mer opplagte grunnene, og de mer overraskende grunnene til hvorfor jeg virkelig har begynt å like [[obsidian]].
 
@@ -113,7 +114,7 @@ Om du er nysgjerrig på det anbefaler jeg å se denne videoen fra [FromSergio](h
 
 Sist, men ikke minst, om jeg plutselig bestemmer meg for at dette ikke er for meg likevel, så er det utrolig lett å "pakke sakene mine og dra" foråsirresånn.
 
-Siden alt er basert på tekstfiler som ligger lokalt på dataen min. Og siden det er basert på [Markdown](https://en.wikipedia.org/wiki/Markdown?ref=simen-skriver) så vil alt av overskrifter, kursiv tekst, og den type formatering, kunne åpnes i alle slags skriveprogrammer.
+Siden alt er basert på tekstfiler som ligger lokalt på dataen min. Og siden det er basert på [[markdown]] så vil alt av overskrifter, kursiv tekst, og den type formatering, kunne åpnes i alle slags skriveprogrammer.
 
 Så hvis jeg ville bytta til [Craft](https://www.craft.do/?ref=simen-skriver) f. eks kunne jeg importert den samma mappa med tekstfiler, som jeg bruker til [[obsidian]] uten noe mer trøbbel enn som så. 
 
@@ -135,6 +136,6 @@ Men om vi går tilbake til det jeg starta med – om å enkelt finne den boka je
 
 Og dessuten. Det er noe utrolig fint med apper eller produkter som treffer innertier på alle nøkkelkriteriene vi setter pris på i hverdagen.
 
-Om vi tenker på [måten kvalitet defineres](hva%20betyr%20egentlig%20kvalitet) i sammenheng med masseproduksjon på 40- og 50-tallet, hvor det handla om å _"imøtekomme spesifikasjoner"_, så er det akkurat *det* det er snakk om.
+Om vi tenker på [[hva betyr egentlig kvalitet|måten kvalitet defineres]] i sammenheng med masseproduksjon på 40- og 50-tallet, hvor det handla om å _"imøtekomme spesifikasjoner"_, så er det akkurat *det* det er snakk om.
 
 [[obsidian|Obsidian]] treffer nøyaktig på hva det _skal_ være. Det imøtekommer spesifikasjonene, og overgår forventningene, og vel så det.

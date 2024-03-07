@@ -1,7 +1,11 @@
 ---
-title: index
+date: 2024-02-21
+lastmod: 2024-03-07
+tags: 
+aliases: 
+title: Simen skriver
 publish: true
-enableToc: false
+slug: index
 ---
 
 ## Heisann! 👋
@@ -10,7 +14,7 @@ enableToc: false
 
 Simen heter jeg, og jeg jobber med å lage digitale greier som skal føles bra, være lett å forstå, og gjerne se fint ut i samme slengen. En såkalt UX-designer, med andre ord.
 
-Samtidig har jeg en tendens til å dypdykke i ting som fascinerer meg. Det kan være alt fra [[apper jeg liker|apper jeg liker]], som [[obsidian|obsidian]], men også konseptet rundt [[digitalt hagearbeid|digitalt hagearbeid]], som jeg prøver å gjøre her.
+Samtidig har jeg en tendens til å dypdykke i ting som fascinerer meg. Det kan være alt fra [[apper jeg liker]], som [[obsidian|obsidian]], men også konseptet rundt [[digitalt hagearbeid|digitalt hagearbeid]], som jeg prøver å gjøre her.
 
 Hver søndag skriver jeg noe nytt. Om du vil følge med så sender jeg det gjerne rett i innboksen din. Eller så kan du se også se gjennom arkivet for tidligere #nyhetsbrev 
 
@@ -21,7 +25,7 @@ Hver søndag skriver jeg noe nytt. Om du vil følge med så sender jeg det gjern
 
 ### Om denne sida
 
-Dette er min måte å dokumentere det jeg lærer på. I tillegg til å utfordre meg sjøl til [[å lære åpent|å lære åpent]]. Å tørre og dele mer av prosessen, og ikke bare vise sluttresultatet.
+Dette er min måte å dokumentere det jeg lærer på. I tillegg til å utfordre meg sjøl til [[å lære åpent]]. Å tørre og dele mer av prosessen, og ikke bare vise sluttresultatet.
 
 Med det sagt, så anbefaler jeg å bare klikke deg inn på én link og følge nysgjerrigheten derfra. Det er som wikipedia, bare mindre faktabasert.
 

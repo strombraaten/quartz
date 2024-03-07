@@ -1,10 +1,12 @@
 ---
 date: 2023-05-08
-lastmod: 2023-06-17
+lastmod: 2024-03-07
 tags:
   - tankemat
+aliases: 
 title: mentale modeller
 publish: true
+slug: mentale-modeller
 ---
 
 ## Hva er mental modeller egentlig?
@@ -33,7 +35,7 @@ Ofte er du ikke klar over din egen mentale modell før det er noe som skurrer. N
 
 ## Bruk noe gammelt for å lære noe nytt
 
-Om du vil lære deg noe nytt så kan du bruke mentale modeller som en slags snarvei for å komme deg dit du vil. [[maggie appleton|maggie appleton]] beskriver hvordan i [denne podcast-episoden](https://www.airr.io/episode/5eb76062af4daadfebd7d13c), hvor hu sier:
+Om du vil lære deg noe nytt så kan du bruke mentale modeller som en slags snarvei for å komme deg dit du vil. [[maggie appleton|Maggie appleton]] beskriver hvordan i [denne podcast-episoden](https://www.airr.io/episode/5eb76062af4daadfebd7d13c), hvor hu sier:
 
 > What you're trying to do is to find a set of neurons in the brain that are already well mapped, and you're trying to say "I want to take this new thing and map them on to the thing that you are already know", so it anchors it somewhere.
 > 

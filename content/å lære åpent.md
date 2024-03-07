@@ -1,19 +1,21 @@
 ---
 date: 2023-05-07
-lastmod: 2023-05-07
-title: å lære åpent
+lastmod: 2024-03-07
 tags:
   - læring
+aliases: 
+title: å lære åpent
 publish: true
+slug: lare-apent
 ---
 
-Sakte, men sikkert prøver jeg nemlig å forklare hvordan jeg gjør det jeg gjør. Først og fremst med skrivinga, men også til dels [hvordan jeg bruker Obsidian](obsidian.md), for det får jeg en del spørsmål om.
+Sakte, men sikkert prøver jeg nemlig å forklare hvordan jeg gjør det jeg gjør. Først og fremst med skrivinga, men også til dels [[Hvorfor jeg blir så gira av Obsidian|hvordan jeg bruker Obsidian]], for det får jeg en del spørsmål om.
 
-Derfor prøver jeg å forklare det fundamentale på best mulig måte – som [[linker|linker]] og [[tilbakekoblinger|tilbakekoblinger]] – så det skal være en lavere terskel for deg å komme i gang, enn det var for min egen del.
+Derfor prøver jeg å forklare det fundamentale på best mulig måte – som [[linker]] og [[tilbakekoblinger]] – så det skal være en lavere terskel for deg å komme i gang, enn det var for min egen del.
 
 ## Om det å ha en åpen og transparent læringsprosess
 
-En ting jeg setter veldig pris på er folk som lærer i det åpne, som viser det som også er uferdig. Faktisk så er det også en [tilbakemelding jeg fikk fra en av leserne fra nyhetsbrevet](hva%20andre%20mener%20om%20det%20jeg%20skriver.md), da hu innså hva hu satte pris på med skriveriene mine:
+En ting jeg setter veldig pris på er folk som lærer i det åpne, som viser det som også er uferdig. Faktisk så er det også en [[hva andre mener om det jeg skriver|tilbakemelding jeg fikk fra en av leserne fra nyhetsbrevet]], da hu innså hva hu satte pris på med skriveriene mine:
 
 > Nemlig det faktum at du skriver om ting mens du utforsker noe, du venter ikke til du er «utlært». Du formidler en nysgjerrighet på ting du ikke veit alt om enda.
 > 
@@ -25,7 +27,7 @@ En ting jeg setter veldig pris på er folk som lærer i det åpne, som viser det
 
 Det blir jo en diskrét måte å skryte av meg sjøl på, jeg skal ikke nekte for det, men det er nettopp det her jeg setter så pris på ved andre. Og i stor grad det som har leda til det [[digitalt hagearbeid|digital hage]]-konseptet som jeg koser meg så mye nå om dagen. For om du fokuserer på at noe skal være perfekt, eller egentlig bare "ferdig" (hva enn definisjonen din av ferdig er) så vil det alltid være en risiko for at det ikke deles med andre. At det bare forblir i hodet ditt.
 
-Det er forbausende hvor ofte jeg kommer tilbake til ordtaket ["Perfect is the enemy of good altså"](content/det%20er%20noe%20feil%20med%20hvordan%20vi%20leser%20bøker.md), men det passer like godt her og.
+Det er forbausende hvor ofte jeg kommer tilbake til ordtaket [[hvordan-vi-leser-bøker|"Perfect is the enemy of good altså"]], men det passer like godt her og.
 
 Spørsmålet da blir såklart – **dersom du skulle "lære i det åpne", hvordan hadde det sett ut for din del?**
 

@@ -1,17 +1,19 @@
 ---
 date: 2022-12-08
-lastmod: 2023-03-12
+lastmod: 2024-03-07
 tags:
   - skriving
+aliases: 
 title: Hva vil du at jeg skal skrive mer om?
 publish: true
+slug: hva-vil-du-jeg-skal-skrive-om
 ---
 
 _Det her blir nok ganske så meta, for nå skal jeg skrive om en prosess jeg også skal gjennomføre._
 
 ---
 
-Som jeg nevnte i [Eksperimenter i hverdagen](https://www.simenskriver.no/eksperimenter-i-livet/) så ser jeg på denne skrivinga som et eksperiment. Og som med alle eksperimenter er det noen dager som er vanskeligerer enn andre. De siste to dagene nå kjenner jeg at det har vært vanskeligere å velge hva jeg skal skrive om.
+Som jeg nevnte i [[eksperimenter i hverdagen]] så ser jeg på denne skrivinga som et eksperiment. Og som med alle eksperimenter er det noen dager som er vanskeligerer enn andre. De siste to dagene nå kjenner jeg at det har vært vanskeligere å velge hva jeg skal skrive om.
 
 En ting jeg har begynt med, som jeg kjenner er en veldig stor fordel, er å ha flere ideer gående samtidig. Som oftest, når jeg skriver _"Det kommer jeg tilbake til en annen gang"_, eller _"Det kunne jeg tenke meg å skrive mer om"_, så lager jeg et nytt notat med en beskrivende tittel. I tillegg til å skrive noen kjappe setninger for å huske ideen. Det hjelper. Da må jeg ikke lenger _komme på noe_ å skrive om, jeg kan heller velge og vrake. 
 
@@ -21,7 +23,7 @@ Samtidig føles det ut som jeg at har skrivd de innleggene jeg brant inne med da
 
 Med en [video fra Nat Eliason](https://youtu.be/Nnp9V7iLgGo?t=75&ref=simen-skriver) ferskt i minne, var jeg skikkelig gira på å få ned så mange ideer som mulig. I videoen snakker han om å lage en endeløs liste med ideer man kan skrive rundt. Han foreslår å starte med å skrive ned 5-10 temaer som du kunne tenke deg å skrive om, som utgjør kategoriene som interesser deg.
 
-For min del foregikk det her i den lille [notatboka jeg snakka om tidligere](https://www.simenskriver.no/hvorfor-jeg-gar-rundt-med-en-notatbok-i-lomma/), hvor jeg dumpa ned den ene tanken etter den andre, uten å bedømme formuleringa eller hvor sterkt jeg ønsker å skrive om den spesifikke ideen.
+For min del foregikk det her i den lille [[hvorfor jeg går rundt med en notatbok i lomma|notatboka jeg snakka om tidligere]], hvor jeg dumpa ned den ene tanken etter den andre, uten å bedømme formuleringa eller hvor sterkt jeg ønsker å skrive om den spesifikke ideen.
 
 Til min store forbauselse endte jeg opp med hele 60 (!) ideer, og da var det på høy tid å sove.
 
@@ -60,8 +62,8 @@ Okei. Da kjører vi i gang, i alfabetisk rekkefølge:
 
 1.  5-10 apper som øker livskvaliteten
     -   Eventuelt spesifikke features i de appene
-2.  Notion, [[obsidian|obsidian]], Pika, CleanshotX, Miro, Figma (spesielt relevant å lære bort Figma)
-3.  Hvordan jeg setter opp systemet mitt i [[obsidian|obsidian]] for å optimere mot å skrive mer
+2.  Notion, [[obsidian]], Pika, CleanshotX, Miro, Figma (spesielt relevant å lære bort Figma)
+3.  Hvordan jeg setter opp systemet mitt i [[obsidian]] for å optimere mot å skrive mer
 4.  Hva jeg tenker på når jeg skriver notater jeg vil spare til seinere
 5.  Hvilke apper jeg ville installert på macen om jeg "starta på nytt"
     -   Hvilke apper som virkelig er verdt å betale for
@@ -69,7 +71,7 @@ Okei. Da kjører vi i gang, i alfabetisk rekkefølge:
     -   Som å kunne ha to Notion-vinduer åpne ved siden av hverandre
 7.  Hurtigtaster for å redigere tekst fortere
 8.  Hvorfor Markdown er overraskende kjekt å lære seg
-    -   Helst i Notion eller [[obsidian|obsidian]]
+    -   Helst i Notion eller [[obsidian]]
 9.  Hvilke Notion-templates jeg er mest stolt av
 
 ### D) Design
@@ -85,9 +87,9 @@ Okei. Da kjører vi i gang, i alfabetisk rekkefølge:
 
 ### F) Life hacks
 
-1.  Kortfatta oppskrift av hvordan du lagrer "bokmerker" i podcaster ([[digital klisterhjerne|digital klisterhjerne]] ✅)
+1.  Kortfatta oppskrift av hvordan du lagrer "bokmerker" i podcaster ([[digital klisterhjerne]] ✅)
 	1. Readwise Pro + pris
-	2. [[notes/obsidian|Obsidian]] Sync + Pris
+	2. [[obsidian]] Sync + Pris
 	3. Airpods triple-tap
 	4. Om jeg hadde filma da, klarer jeg å klippe det ned til 60 sekunder?
 2.  Triks for å være mindre groggy om morgen hvis du ikke kan sove så lenge du vil (REM-sykluser)
@@ -122,7 +124,7 @@ Okei. Da kjører vi i gang, i alfabetisk rekkefølge:
 1.  Om å gå
 2.  Hvorfor jeg holder sosiale medier på armlengdes avstand
 3.  Refleksjoner rundt et effektivt, men "overkill" hjemmekontor som gjør det lettere å dyrke hobbyer og lage ting
-4.  Om [[imposter syndrome|imposter syndrome]], og hva du kan gjøre for å bekjempe det ✅
+4.  Om [[imposter syndrome]], og hva du kan gjøre for å bekjempe det ✅
 5.  Om komplimenter, og å si det du tenker
 6.  Om det å oppleve ingenting (i en såkalt "sensory deprivation tank")
 7.  Øyeblikk jeg sannsynligvis hadde glemt hvis jeg ikke hadde brukt Day One, eller 5 minute journal

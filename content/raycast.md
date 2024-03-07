@@ -1,10 +1,12 @@
 ---
 date: 2023-05-10
-lastmod: 2023-05-10
-title: Raycast
+lastmod: 2024-03-07
 tags:
   - apper
+aliases: 
+title: Raycast
 publish: true
+slug: raycast
 ---
 I sin enkleste form bruker du bare Raycast for å åpne apper på dataen din. Det høres forferdelig enkelt ut, men gud bedre (!) så deilig det er når du først har prøvd det!
 

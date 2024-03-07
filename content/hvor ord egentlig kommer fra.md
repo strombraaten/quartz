@@ -1,10 +1,12 @@
 ---
 date: 2022-12-09
-lastmod: 2023-03-12
+lastmod: 2024-03-07
 tags:
   - språk
-title: Hvor ord egentlig kommer fra
+aliases: 
+title: hvor ord egentlig kommer fra
 publish: true
+slug: hvor-ord-kommer-fra
 ---
 
 Jeg pleier å se på _etymologi_ som ords opprinnelse. At det er samlebegrepet for å se på et ord eller utrykk, og tenke _"Hvor kommer egentlig det fra?"_, og komme til bunns i det spørsmålet. Å forstå seg på historien til ett enkelt ord.
@@ -27,7 +29,7 @@ Der skriver han:
 
 ## Sunn skepsis
 
-Om jeg skal [sitere folk som Einstein](https://www.simenskriver.no/ditt-framtidige-fremmede-jeg/), Lincoln osv., som jeg ikke gjør så ofte, bare så det er sagt (for jeg er ikke _han_ karen), blir jeg ofte skeptisk til om det _faktisk_ er dem som har sagt det.
+Om jeg skal [[ditt framtidige, fremmede jeg|sitere folk som Einstein]], Lincoln osv., som jeg ikke gjør så ofte, bare så det er sagt (for jeg er ikke _han_ karen), blir jeg ofte skeptisk til om det _faktisk_ er dem som har sagt det.
 
 For når vi gjenforteller et godt sitat igjen og igjen, og årene går, så blir det vanskeligere å finne ut hva som egentlig blei sagt til å starte med.
 
@@ -91,4 +93,4 @@ Det blir nok litt voldsomt å kalle gleden jeg får av å leite opp riktige kild
 
 ---
 
-_Takk til de av dere som sendte inn ønsker rundt [[notes/Hva vil du at jeg skal skrive mer om|notes/Hva vil du at jeg skal skrive mer om]]. Denne artikkelen har vært et resultat av nettopp det._
+_Takk til de av dere som sendte inn ønsker rundt [[hva vil du at jeg skal skrive mer om|hva dere vil jeg skal skrive mer om]]. Denne artikkelen har vært et resultat av nettopp det._

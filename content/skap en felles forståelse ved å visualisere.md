@@ -1,10 +1,12 @@
 ---
 date: 2023-07-02
-lastmod: 2023-07-02
-title: skap en felles forståelse ved å visualisere
+lastmod: 2024-03-07
 tags:
   - tankemat
+aliases: 
+title: skap en felles forståelse ved å visualisere
 publish: true
+slug: visualisering
 ---
 
 ## Bakgrunnen

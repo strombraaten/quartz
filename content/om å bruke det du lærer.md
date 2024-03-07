@@ -1,11 +1,13 @@
 ---
 date: 2022-12-09
-lastmod: 2023-05-10
+lastmod: 2024-03-07
 tags:
   - tankemat
   - læring
-title: Om å bruke det du lærer
+aliases: 
+title: om å bruke det du lærer
 publish: true
+slug: bruk-det-du-larer
 ---
 
 I blant føler jeg meg litt flåsete når jeg siterer folk i øst og vest, og refererer til bøker, artikler og podcaster. Som om jeg prøver å virke mer intellektuell og belest, med nesa til værs, enn det jeg egentlig er.
@@ -14,7 +16,7 @@ For all del, i løpet av et halvår leser jeg kanskje to-tre bøker, så det er 
 
 ## Hva det betyr for ditt eget liv
 
-For det samme gjelder for skriving som jeg nevnte om å ta notater fra det jeg leser. Som jeg sa i [[ditt framtidige, fremmede jeg|ditt framtidige, fremmede jeg]]:
+For det samme gjelder for skriving som jeg nevnte om å ta notater fra det jeg leser. Som jeg sa i [[ditt framtidige, fremmede jeg]]:
 
 > ..personlig husker jeg det jeg har lest så mye bedre. Nettopp fordi jeg har interagert med orda og tankene. Jeg har reflektert rundt hva det betyr, og hva det kanskje betyr for mitt eget liv.
 

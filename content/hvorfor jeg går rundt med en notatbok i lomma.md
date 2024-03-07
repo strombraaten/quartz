@@ -1,11 +1,12 @@
 ---
 date: 2022-12-01
-lastmod: 2023-03-12
-title: Hvorfor jeg går rundt med en notatbok i lomma
+lastmod: 2024-03-07
 tags:
   - tankemat
 aliases: 
+title: hvorfor jeg går rundt med en notatbok i lomma
 publish: true
+slug: notatbok
 ---
 
 Grunnen er veldig enkel. En notatbok distraherer deg ikke i å skrive ned en tanke. Det gjør derimot telefonen din.
@@ -16,7 +17,7 @@ Om jeg drar fram telefonen derimot så er det en annen sak.
 
 ## Den digitale ulempa
 
-Jeg rørte vel innom det her i [[ett formål om gangen|ett formål om gangen]], men til og med når jeg bare skal fokusere på å skrive ned et enkelt notat så må jeg altså vurdere mellom tre ulike apper – hvor hører denne tanken hjemme? Og dersom jeg velger Notion må jeg også vurdere om det er relatert til jobb eller fritid. Og det var grunnen til at jeg begynte å bruke Bear mer og mer, som er en lynkjapp app som jeg kun brukte for å skrive noe ned, og ikke bearbeide tanken noe videre.
+Jeg rørte vel innom det her i [[ett formål om gangen]], men til og med når jeg bare skal fokusere på å skrive ned et enkelt notat så må jeg altså vurdere mellom tre ulike apper – hvor hører denne tanken hjemme? Og dersom jeg velger Notion må jeg også vurdere om det er relatert til jobb eller fritid. Og det var grunnen til at jeg begynte å bruke Bear mer og mer, som er en lynkjapp app som jeg kun brukte for å skrive noe ned, og ikke bearbeide tanken noe videre.
 
 ## Ulike faser
 
@@ -46,6 +47,7 @@ Nå har jeg en følelse om at [lommene på damebukser ikke er like romslige](htt
 Nå har det vel gått ca en måneds tid, med notatboka i lomma, og til min store overraskelse kjenner jeg aldri at den er der. Til og med om jeg ligger i en rar vinkel på sofaen, eller om jeg sitter lange timer på en kontorstol, så kjenner jeg aldri behovet for å ta den ut av lomma.
 
 ![[images/squashedIMG_8614.jpg|images/squashedIMG_8614.jpg]]
+
 ## Pennen
 
 Hva er vel en notatbok uten en penn? Og det her er langt mindre tilfeldig. For du kjenner når du har en penn i lomma. Den er lenger, og "stikker" litt i hofta når du setter deg ned. Heldigvis hadde jeg en bitteliten penn liggende fra før av, for nøyaktig en sånn situasjon. Det er en Fisher Space Bullet penn, og [kan kjøpes på Lush Dive](https://www.lushdive.no/products/fisher-spacepen-black-matte?ref=simen-skriver), om du har lyst på en sjøl.

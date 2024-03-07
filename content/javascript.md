@@ -1,10 +1,12 @@
 ---
 date: 2023-08-29
-lastmod: 2023-09-10
+lastmod: 2024-03-07
 tags:
   - læring
-title: Javascript
+aliases: 
+title: javascript
 publish: true
+slug: javascript
 ---
 
 ## Intro

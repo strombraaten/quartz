@@ -1,11 +1,12 @@
 ---
 date: 2024-02-25
-lastmod: 2024-02-25
+lastmod: 2024-03-07
 tags:
   - skriving
 aliases: 
 title: TK-trikset
 publish: true
+slug: TK
 ---
 
 ## Skriv først, utdyp seinere
@@ -29,4 +30,3 @@ Jeg leste det først [på bloggen til NRKbeta](https://nrkbeta.no/2011/03/19/ald
 ### Bonus
 
 [Thomas Knutstad](https://www.linkedin.com/in/thomasknutstad/) tipsa meg også om at det betyr "to come", men at det skrives TK i stedet for TC for å "understreke at det er en redaksjonell merknad". Faktisk så finnes det flere sånne forkortelser som brukes med feilskriving for å skille det fra teksten ellers, som "Hed (head, headline) og Graf (graph, paragraph)" for å vise til at det kommer noe mer her seinere.
-

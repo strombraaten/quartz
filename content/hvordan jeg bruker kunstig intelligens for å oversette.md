@@ -1,16 +1,18 @@
 ---
 date: 2023-06-11
-lastmod: 2023-06-11
-title: Hvordan jeg bruker kunstig intelligens for å oversette
+lastmod: 2024-03-07
 tags:
   - AI
   - teknologi
+aliases: 
+title: hvordan jeg bruker kunstig intelligens for å oversette
 publish: true
+slug: ai-for-oversettelser
 ---
 
 ## Personlige begrensninger
 
-Om du skal oversette en setning fra engelsk til norsk f. eks kan det være vanskelig å få fram den rette intensjonen. Hva du *faktisk* prøver å si. Om jeg selv skulle oversatt setningen "His life was not burdened with non-essentials" på egenhånd skulle jeg nok klart å komme på tre ulike alternativer, men ti alternativer derimot? Det hadde tatt meg lang tid. For AI'en derimot går det kjapt. Det var det jeg innså da jeg spørte AI'en i [[raycast|raycast]] om å oversette setningen for meg.
+Om du skal oversette en setning fra engelsk til norsk f. eks kan det være vanskelig å få fram den rette intensjonen. Hva du *faktisk* prøver å si. Om jeg selv skulle oversatt setningen "His life was not burdened with non-essentials" på egenhånd skulle jeg nok klart å komme på tre ulike alternativer, men ti alternativer derimot? Det hadde tatt meg lang tid. For AI'en derimot går det kjapt. Det var det jeg innså da jeg spørte AI'en i [[raycast]] om å oversette setningen for meg.
 som du kan se ut fra skjermbildet fra chatten under. 
 
 ![[Hvordan jeg bruker kunstig intelligens-1686472243288.jpeg|Hvordan jeg bruker kunstig intelligens-1686472243288.jpeg]]
@@ -23,4 +25,4 @@ Men hvorfor stoppe på tre alternativer? Det er jo kun basert på hva jeg selv h
 
 ![[Hvordan jeg bruker kunstig intelligens for å oversette-1686473402913.jpeg|Hvordan jeg bruker kunstig intelligens for å oversette-1686473402913.jpeg]]
 
-Ut fra de alternativene jeg fikk blei det altså langt lettere å mikse og matche de orda jeg likte for å få fram den meninga jeg ville få fram. På den måten brukte jeg [[kunstig intelligens|kunstig intelligens]] på det *den* er unikt god på sånn at jeg kan fokusere på det *jeg* er unikt god på – nettopp å sette ord på mine egne tanker.
+Ut fra de alternativene jeg fikk blei det altså langt lettere å mikse og matche de orda jeg likte for å få fram den meninga jeg ville få fram. På den måten brukte jeg [[kunstig intelligens]] på det *den* er unikt god på sånn at jeg kan fokusere på det *jeg* er unikt god på – nettopp å sette ord på mine egne tanker.

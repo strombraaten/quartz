@@ -1,14 +1,15 @@
 ---
 date: 2023-06-11
-lastmod: 2023-06-11
-title: Oppfølgingsspørsmål
+lastmod: 2024-03-07
 tags:
   - tankemat
 aliases: 
+title: oppfølgingsspørsmål
 publish: true
+slug: oppfolgingssporsmal
 ---
 
-Henger tett sammen med [[gode spørsmål|gode spørsmål]], siden dette handler om hvordan du får samtalene til å vare lengre, og hvordan du får bedre svar av folka du snakker med.
+Henger tett sammen med [[gode spørsmål]], siden dette handler om hvordan du får samtalene til å vare lengre, og hvordan du får bedre svar av folka du snakker med.
 
 Dette er en liste jeg kommer til å oppdatere i ny og ne, men hvor du gjerne må komme med forslag, for jeg er alltid nysgjerrig på hvordan andre fasiliterer for gode samtaler.
 

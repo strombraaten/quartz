@@ -1,10 +1,12 @@
 ---
 date: 2023-05-12
-lastmod: 2023-05-12
+lastmod: 2024-03-07
 tags:
   - design
+aliases: 
 title: prisen av en dårlig brukeropplevelse
 publish: true
+slug: darlig-brukeropplevelse
 ---
 
 Okei, nå skal jeg prøve å kjempe for noe jeg egentlig ikke har noe erfaring med, nemlig å sette en pris på dårlige brukeropplevelser, i form av kroner og øre.

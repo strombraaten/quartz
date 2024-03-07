@@ -1,10 +1,12 @@
 ---
 date: 2022-12-16
-lastmod: 2023-03-12
+lastmod: 2024-03-07
 tags:
   - apper
+aliases: 
 title: Linking your thinking
 publish: true
+slug: linking-your-thinking
 ---
 
 Du skulle kanskje tro at det å skrive om å skrive, eller mer presist skrive om notater, hadde en slags begrensning, men tydeligvis ikke!
@@ -31,7 +33,7 @@ Det er akkurat det jeg gjør med skrivinga mi nå. Jeg fordeler min totale skriv
 
 Om jeg hadde brukt ordet _investering_, i den artikkelen, mens jeg skreiv det i [[obsidian]], så ville jeg sett at det dukka opp som en link.
 
-![](https://www.simenskriver.no/content/images/2022/12/CleanShot-2022-12-16-at-07.39.15@2x.png)
+![[images/CleanShot 2022-12-16 at 07.39.15@2x.png]]
 
 *Bildet viser to av linkene som er tilknyttet dette notatet mens jeg skriver i [[obsidian]].*
 
