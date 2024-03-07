@@ -1,11 +1,12 @@
 ---
 date: 2024-02-04
-lastmod: 2024-02-04
+lastmod: 2024-03-07
 tags:
   - nyhetsbrev
 aliases: 
-title: Om hobbyer, og det å bli mindre dårlig
+title: hobbyer
 publish: true
+slug: hobbyer
 ---
 
 Når [Maggie Appleton](https://maggieappleton.com/) introduserer seg for å holde et foredrag sier hu ofte:

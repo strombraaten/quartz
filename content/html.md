@@ -1,12 +1,13 @@
 ---
 date: 2023-05-21
-lastmod: 2023-05-21
+lastmod: 2024-03-07
 tags:
   - læring
 aliases:
   - HTML
-title: HTML
+title: html
 publish: true
+slug: html
 ---
 
 Byggeklosser

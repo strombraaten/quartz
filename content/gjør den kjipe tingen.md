@@ -1,12 +1,14 @@
 ---
 date: 2023-06-18
-lastmod: 2023-09-10
+lastmod: 2024-03-07
 tags:
   - tankemat
 aliases: 
 title: gjør den kjipe tingen
 publish: true
+slug: den-kjipe-tingen
 ---
+
 ## Hva er det vanskelige valget
 
 Det vanskelig valget, eller den vanskelige tingen du må gjøre, kan ofte være det som er viktig å gjøre. Som vil gi deg framdrift i etterkant, men som vil holde deg nede, som et slags anker, så lenge du utsetter å ta tak i det.

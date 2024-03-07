@@ -1,18 +1,19 @@
 ---
 date: 2022-12-04
-lastmod: 2023-03-12
+lastmod: 2024-03-07
 tags:
   - tankemat
-title: Hva betyr egentlig kvalitet?
 aliases:
   - kvalitet
+title: hva betyr egentlig kvalitet
 publish: true
+slug: kvalitet
 ---
 
 Om jeg hadde bedt deg om å beskrive hva kvalitet _er_, hva ville du sagt da? Personlig ville jeg nok tenkt på lang holdbarhet eller varighet, sterke materialer, presisjon i alle ledd, og generelt så lite slurv som mulig. At noe er stødig, eller robust, og at det gjør den jobben det skal gjøre. Men av de "kriteriene" er det egentlig bare den siste som stemmer overens med hvor ordet kommer fra.
 
 > [!NOTE] Kommentar fra framtids-Simen
-> Denne artikkelen burde sees i sammenheng med oppfølgeren, [[vent nå litt|vent nå litt]], ettersom jeg leste mer om kvalitet i ulike sammenhenger.
+> Denne artikkelen burde sees i sammenheng med oppfølgeren, [[vent nå litt]], ettersom jeg leste mer om kvalitet i ulike sammenhenger.
 
 Kvalitet, sånn vi kjenner det i sammenheng med produkter, betyr tilsynelatende "å imøtekomme spesifikasjonene". At det treffer på hva det _skal_ være. At det oppfyller de behovene, eller forventningene som er angitt.
 

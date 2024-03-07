@@ -1,11 +1,14 @@
 ---
 date: 2023-03-03
-lastmod: 2023-05-07
+lastmod: 2024-03-07
 tags:
   - apper
-title: Hurtigtaster jeg bruker hele tida
+aliases: 
+title: hurtigtaster
 publish: true
+slug: hurtigtaster
 ---
+
 ## Figma
 
 *Bør nevnes at jeg har definert norsk som språk under keyboard layout-valget*

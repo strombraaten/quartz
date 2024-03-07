@@ -1,13 +1,13 @@
 ---
 date: 2024-02-25
-lastmod: 2024-02-25
+lastmod: 2024-03-07
 tags:
   - nyhetsbrev
 aliases: 
-title: Følg nysgjerrigheten
+title: følg nysgjerrigheten
 publish: true
+slug: nysgjerrigheten
 ---
-
 
 Er det én ting jeg lærte fra min grandonkel Arne, som levde til å bli 102 år gammel, er det å følge nysgjerrigheten, og bruke den som drivkraft. Jeg kjente han egentlig ikke noe særlig da jeg vokste opp. Det var ikke før året han fylte 100, da jeg var i starten av tjueårene, at jeg tok kontakt for å bli bedre kjent. 
 
@@ -23,7 +23,7 @@ I det siste har jeg nemlig kjent på at nyhetsbrevet har blitt mer en plikt enn 
 
 Samtidig vil jeg egentlig bare kode videre på nettsida mi, og gjøre den litt bedre for hver gang. Og det er den veien nysgjerrigheten min peker. Jeg er nysgjerrig på hva jeg kan få til. I det siste har jeg også fått mye mer selvtillitt som utvikler. Såpass mye at jeg føler meg trygg på å kalle meg "en dårlig utvikler". Og det er jo faktisk et nivå å komme til det og. For du blir jo ikke en pianist før du trykker på noen tangenter foråsirresånn. Selv om jeg ikke har noen ambisjoner om å bli en *god* utvikler så er jeg veldig fornøyd med å ha kommet til dette punktet.
 
-Som jeg nevnte i [nyhetsbrevet om hobbyer](hobbyer):
+Som jeg nevnte i [[hobbyer|nyhetsbrevet om hobbyer]]:
 
 > Med en hobby har du ikke samme presset på deg om å bli god, eller til og med *best* innenfor det du driver med. For det er bare noe du gjør på sida av alt annet. Det er noe du fikler med på fritida. Forventningene er ikke de samme. Derfor er *all* framgang kun en bonus. Du skal ikke bli god, du bare krysser fingra for at du skal bli *mindre dårlig*.
 
@@ -55,9 +55,9 @@ Jeg vil også lære meg mer om:
 
 For det første, jeg håper egentlig på at du melder deg *av* nyhetsbrevet hvis du ikke syns det er like relevant som før, eller som du hadde håpa på da du meldte deg på. Vi har alle nyhetsbrev som kun skaper støy i innboksen vår, og er det én ting jeg virkelig unner deg, så er det en støyfri innboks altså. Så det tar jeg ikke personlig. Jeg er da en gentleman tross alt, en moderne én som sådan.
 
-For det andre så kommer jeg nok til å gå mer tilbake til [kladdebok-konseptet](the%20return%20of%20kladdeboka) en stund. Muligens fokusert rundt tre seksjoner:
+For det andre så kommer jeg nok til å gå mer tilbake til [[the return of kladdeboka|kladdebok-konseptet]] en stund. Muligens fokusert rundt tre seksjoner:
 1. Hva jeg har jobba med siden sist, og hva jeg eventuelt har lært på veien
 2. Hva jeg skal fokusere på videre
 3. Et eller annet refleksjonspørsmål til mine med-nerder
 
-Ja. Jeg tror det kan bli bra. Det føles egentlig som om det er tett relatert til [[å lære åpent|å lære åpent]]. For ved å ta deg med inn i læringsprosessen blir det ikke bare morsommere for min egen del, men jeg må også konkretisere tankene mine for at det skal være forståelig for deg. Så du også kan lære noe. Forhåpentligvis kan vi lære noe sammen.
+Ja. Jeg tror det kan bli bra. Det føles egentlig som om det er tett relatert til [[å lære åpent]]. For ved å ta deg med inn i læringsprosessen blir det ikke bare morsommere for min egen del, men jeg må også konkretisere tankene mine for at det skal være forståelig for deg. Så du også kan lære noe. Forhåpentligvis kan vi lære noe sammen.

@@ -1,10 +1,12 @@
 ---
 date: 2023-05-07
-lastmod: 2023-05-07
-title: hva andre mener om det jeg skriver
+lastmod: 2024-03-07
 tags:
   - skriving
+aliases: 
+title: hva andre mener om det jeg skriver
 publish: true
+slug: hva-andre-mener
 ---
 
 I ny og ne får jeg tilbakemeldinger på det jeg skriver. I blant er det en feil som pekes ut (som jeg setter utrolig pris på, for det vil jeg såklart fikse opp i), og andre ganger er det noe dere har satt pris.

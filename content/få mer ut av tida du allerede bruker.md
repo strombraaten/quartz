@@ -1,12 +1,14 @@
 ---
 date: 2022-12-01
-lastmod: 2023-03-12
-title: Få mer ut av tida du uansett bruker
+lastmod: 2024-03-07
 tags:
   - tankemat
+aliases: 
+title: få mer ut av tida du allerede bruker
 publish: true
+slug: tida-du-allerede-bruker
 ---
-Mye av det jeg liker å skrive om ville nok naturlig havna under kategorien [[Produktivitet]]. Samtidig så er det ikke nødvendigvis _produktivitet_ jeg bryr meg. I form av å gjøre mer og mer, på mindre og mindre tid. For tilrettelegger du egentlig for kvalitet på den måten? Tilrettelegger du for å løse et problem som både er _riktig_, i tillegg til å være viktig?
+Mye av det jeg liker å skrive om ville nok naturlig havna under kategorien Produktivitet, med stor P. Samtidig så er det ikke nødvendigvis _produktivitet_ jeg bryr meg. I form av å gjøre mer og mer, på mindre og mindre tid. For tilrettelegger du egentlig for kvalitet på den måten? Tilrettelegger du for å løse et problem som både er _riktig_, i tillegg til å være viktig?
 
 Mye av det jeg liker å skrive om ville nok naturlig havna under kategorien Produktivitet. Samtidig så er det ikke nødvendigvis _produktivitet_ jeg bryr meg. I form av å gjøre mer og mer, på mindre og mindre tid. For tilrettelegger du egentlig for kvalitet på den måten? Tilrettelegger du for å løse et problem som både er _riktig_, i tillegg til å være viktig?
 

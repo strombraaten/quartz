@@ -1,12 +1,13 @@
 ---
 date: 2023-03-05
-lastmod: 2023-03-12
+lastmod: 2024-03-07
 tags:
   - teknologi
   - skriving
 aliases: 
 title: hva i huleste er CODE og PARA
 publish: true
+slug: CODE-PARA
 ---
 
 [Tiago Forte](https://fortelabs.com/?ref=simen-skriver) er for mange kjent som mannen bak Second Brain-konseptet. Han har forøvrig en bok om nettopp det konseptet hvis du vil dykke dypere i det, hvor han snakker om hvordan du kan [bygge din egen Second Brain](https://www.buildingasecondbrain.com/?ref=simen-skriver).
@@ -31,7 +32,7 @@ Hu har nemlig tatt kurset til Tiago tidligere, om å lage en Second Brain. Siden
 
 Forøvrig så lager hu de [peneste notatene](https://maggieappleton.com/basb?ref=simen-skriver) noensinne, som du kan se et eksempel på fra da hu tok kurset til Tiago Forte om det å bygge en "Second brain":
 
-![](https://www.simenskriver.no/content/images/2022/12/image.png)
+![[images/building-a-second-brain-maggie-appleton.png]]
 
 Med det sagt så hopper vi tilbake til poenget.
 
@@ -72,4 +73,4 @@ Ved å dele tankene dine gir du også andre muligheten til å lære av det.
 
 ## ..Men Hvorfor deler jeg det her?
 
-Jo, for å tydeliggjøre [de ulike stegene](content/De%20ulike%20stegene%20av%20et%20notat.md) fra inspirasjon (et sitat eller setning som resonnerer med deg) til du [bruker det du har lært](content/Om%20å%20bruke%20det%20du%20lærer.md). Siden det er flere ulike tilnærminger til det samme syns jeg det blir lettere å ta et isolert blikk på hver av dem. Derfor kommer jeg også til å gjøre det samme med [Zettelkasten-metoden](content/En%20introduksjon%20til%20Zettelkasten.md) framover. Som i stor grad har vært med å påvirke hvordan jeg håndterer det jeg lærer, og måten jeg skriver på nå.
+Jo, for å tydeliggjøre [[de ulike stegene av et notat|de ulike stegene]] fra inspirasjon (et sitat eller setning som resonnerer med deg) til du [[om å bruke det du lærer|bruker det du har lært]]. Siden det er flere ulike tilnærminger til det samme syns jeg det blir lettere å ta et isolert blikk på hver av dem. Derfor kommer jeg også til å gjøre det samme med [[en introduksjon til Zettelkasten|zettelkasten-metoden]] framover. Som i stor grad har vært med å påvirke hvordan jeg håndterer det jeg lærer, og måten jeg skriver på nå.

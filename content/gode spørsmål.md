@@ -1,10 +1,12 @@
 ---
 date: 2023-06-11
-lastmod: 2023-06-25
-title: Gode spørsmål
+lastmod: 2024-03-07
 tags:
   - tankemat
+aliases: 
+title: gode spørsmål
 publish: true
+slug: sporsmål
 ---
 
 Henger tett sammen med [[oppfølgingsspørsmål]], siden dette handler om hvordan du starter en samtale, men ikke hvordan du får samtalen til å vare lengre.
@@ -19,6 +21,7 @@ Dette er en liste jeg kommer til å oppdatere i ny og ne, men hvor du gjerne må
 	- Sagt på en annen måte, hva tror du er lett for din egen del, men som kanskje er vanskeligere for andre?
 - Hvordan skaper du ditt eget stress?
 	- Hva er det du gjør i hverdagen som spinner opp masse greier som gjør det vanskelig for framtids-deg å ta stilling til?
+- Om du skulle løfte fram innsatsen til en kollega eller venn i det siste, hvem hadde det vært, og hvordan har innsatsen hatt en positiv virkning?
 
 ### Innspill fra lesere (som deg)
 
