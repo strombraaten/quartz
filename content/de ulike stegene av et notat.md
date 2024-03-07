@@ -27,7 +27,7 @@ I boka, [Building a Second Brain](https://www.buildingasecondbrain.com/?ref=sime
 3.  Distill
 4.  Express
 
-Samtidig er det en metode som heter [Zettelkasten]([notes/En%20introduksjon%20til%20Zettelkasten), som er noe av det mer fascinerende jeg har snubla over i nyere tid. Ja, til og med mer interessant enn den [nye appen jeg bruker for å ta skjermbilder](notes/Den%20ene%20funksjonen%20som%20utgjør%20hele%20forskjellen.md). 
+Samtidig er det en metode som heter [[en introduksjon til Zettelkasten|Zettelkasten]], som er noe av det mer fascinerende jeg har snubla over i nyere tid. Ja, til og med mer interessant enn [[den ene funksjonen|den nye appen jeg bruker for å ta skjermbilder]]. 
 
 Det virker som Zettelkasten dukka opp til overflaten igjen, gjennom boka [How to Take Smart Notes](https://www.amazon.com/How-Take-Smart-Notes-Nonfiction/dp/1542866502?ref=simen-skriver), av [Sönke Ahrens](https://www.soenkeahrens.de/en/home?ref=simen-skriver). Der forteller han om [Niklas Luhmann](https://en.wikipedia.org/wiki/Niklas_Luhmann?ref=simen-skriver), den tyske sosiologen, som krediteres som personen bak denne metoden. Siden da er det mange som har tatt i bruk en lignende tilnærming til det de leser og skriver, deriblant [Ryan Holiday](https://ryanholiday.net/?ref=simen-skriver), som igen lærte det av [Robert Green](https://powerseductionandwar.com/?ref=simen-skriver).
 
@@ -55,7 +55,7 @@ Jo, det skal jeg vise deg,
 
 > Idé-Darwinisme: Sterkeste overlever! Sammenligna med å skrive ned alt
 
-Ofte er den såpass kortfatta at med mindre jeg legger til noen oppklarende ord så kan det være litt vrient å forstå. Den er basert på nøkkelord til meg sjøl, som minner meg på tanken. Det viktigste her er altså bare å fange den. Tanker er flyktige. De forsvinner gjerne like fort som de kom. Det er derfor jeg [går rundt med en notatbok i lomma](notes/Hvorfor%20jeg%20går%20rundt%20med%20en%20notatbok%20i%20lomma.md). Du kan såklart bruke en app på telefonen din til det stadiet her, i så fall vil jeg absoulutt anbefale en app som er bygd for fart framfor noe annet.
+Ofte er den såpass kortfatta at med mindre jeg legger til noen oppklarende ord så kan det være litt vrient å forstå. Den er basert på nøkkelord til meg sjøl, som minner meg på tanken. Det viktigste her er altså bare å fange den. Tanker er flyktige. De forsvinner gjerne like fort som de kom. Det er derfor jeg [[hvorfor jeg går rundt med en notatbok i lomma|går rundt med en notatbok i lomma]]. Du kan såklart bruke en app på telefonen din til det stadiet her, i så fall vil jeg absoulutt anbefale en app som er bygd for fart framfor noe annet.
 
 I zettelkasten-metoden vil dette være det samme som en _fleeting note_.
 
