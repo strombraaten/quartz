@@ -5,7 +5,7 @@ tags:
   - apper
 aliases:
   - cleanshot
-title: den ene funksjonen
+title: Den ene funksjonen
 publish: true
 slug: den-ene-funksjonen
 ---
