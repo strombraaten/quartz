@@ -1,12 +1,13 @@
 ---
 date: 2023-04-07
-lastmod: 2024-02-01
+lastmod: 2024-03-08
 tags:
   - skriving
   - tankemat
 aliases: 
 title: stadier av gjennomtenkthet
 publish: true
+slug: gjennomtenkthet
 ---
 
 > [!info] Oppdatering
