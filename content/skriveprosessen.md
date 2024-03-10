@@ -3,7 +3,8 @@ date: 2022-12-21
 lastmod: 2024-03-07
 tags:
   - skriving
-aliases: 
+aliases:
+  - skriveprosessen
 title: skriveprosessen min på 6 minutter
 publish: true
 slug: skriveprosessen
@@ -34,7 +35,7 @@ I denne filmen får du se:
 
 ## Hva som inngår i skriveprosessen
 
-I går ramsa jeg opp [[hva jeg har lært av å skrive 25 artikler på 23 dager|hva jeg har lært av å skrive 25 artikler på 23 dager]]. Ut fra det kan vi se at det er ulike *sider* ved skriveprosessen. Det er ikke *bare* å sette seg ned å skrive på et tastatur. Som Sönke Ahrens nevner i boka How to Take Smart Notes:
+I går ramsa jeg opp [[25-artikler-23-dager|25-artikler-23-dager]]. Ut fra det kan vi se at det er ulike *sider* ved skriveprosessen. Det er ikke *bare* å sette seg ned å skrive på et tastatur. Som Sönke Ahrens nevner i boka How to Take Smart Notes:
 
 >  It also means reading, understanding, reflecting, getting ideas, making connections, distinguishing terms, finding the right words, structuring, organizing, editing, correcting and rewriting.
 
