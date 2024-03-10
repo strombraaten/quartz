@@ -7,6 +7,7 @@ tags:
   - læring
 aliases:
   - readwise
+  - digital klisterhjerne
 publish: true
 slug: klisterhjerne
 ---
@@ -36,6 +37,7 @@ Det er noen få nyhetsbrev jeg leser på en ukentlig basis, deriblant [*Raut* fr
 På kveldstid leser jeg som regel noen få sider i senga for å bli trøtt nok til å sove, og for å roe ned hjernen. Da leser jeg på en Kindle, som sikkert er 7-8 år gammel nå, men den holder koken som bare det. Hvis jeg snubler over en fin formulering, eller noe interessant som jeg vil spare til seinere så markerer jeg bare setningen, og da veit jeg at den synkroniseres med Readwise i løpet av kort tid.
 
 ![[images/Kindle-highlight.jpg|images/Kindle-highlight.jpg]]
+
 ## Men hva skjer i andre enden?
 
 Når jeg har lagra en setning, et øyeblikk, eller hva enn det skulle være, og det sendes til Readwise, så er ikke det siste stopp på reisa for min del. Det *kan* være det, men det skal jeg komme tilbake til.
@@ -59,6 +61,7 @@ Det gjør det utrolig mye lettere å forstå konteksten av det jeg har lest, og 
 Det samme gjelder også podcaster forresten. Du kan alltids finne tilbake til selve lydkilden, som i dette eksempelet hvor [Knut Buen forteller om hvordan du kan holde fantasien ved like i voksen alder](https://share.snipd.com/snip/d809b57a-8ae5-476b-a17a-38deb5ce375d). Fordelen med podcaster hvor folk snakker på engelsk er at det er en stor sjanse for at episoden blir transkribert. Som betyr at du faktisk sitter igjen med ord-for-ord hva som har blitt sagt 🤯
 
 ![[images/Pasted image 20231015000345.png|images/Pasted image 20231015000345.png]]
+
 ## Men hvordan henger det hele sammen?
 
 Jeg slang sammen et aldri så lite flytskjema til deg, så det blir lettere å forstå helhetsbildet her. Alt i alt så står Readwise altså midt mellom input og output i arbeidsflyten min. Mellom det jeg hører på eller leser, og det jeg vil skrive om seinere.
@@ -68,6 +71,7 @@ Med en såpass tett kobling mellom inspirasjon og arbeidsområdet – der jeg te
 ![[images/Hvordan jeg bruker Readwise.jpg|images/Hvordan jeg bruker Readwise.jpg]]
 
 Og det bringer meg inn på en gledelig nyhet..
+
 ### Premiere på rabattkode!
 
 Kanskje ikke helt rabattkode da, for du må ikke skrive "simenskriver" noe sted akkurat. Men! Du kan nemlig [teste Readwise i to måneder gratis](https://readwise.io/simenskriver/) med min aller første anbefalingslink!
