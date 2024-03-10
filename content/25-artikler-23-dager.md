@@ -3,8 +3,9 @@ date: 2022-12-20
 lastmod: 2024-03-07
 tags:
   - skriving
-aliases: 
-title: hva jeg har lært av å skrive 25 artikler på 23 dager
+aliases:
+  - hva jeg lærte av å skrive 25 artikler på 23 dager
+title: Hva jeg har lært av å skrive 25 artikler på 23 dager
 publish: true
 slug: 25-artikler-23-dager
 ---
@@ -27,7 +28,7 @@ Så hva har jeg egentlig lært av å skrive 25 av artikler på 23 dager. Jo, det
 
 ### Verdien av å skrive på flere ideer samtidig
 
-I [[linking your thinking|linking your thinking]] snakka jeg om hvordan jeg ikke legger alle "skrive-eggene" mine i én kurv. At ved å fordele min totale skrivekapasitet en gitt dag utover flere artikkel-ideer, flere notater, så setter jeg meg sjeldnere fast.
+I [[linking-your-thinking|linking-your-thinking]] snakka jeg om hvordan jeg ikke legger alle "skrive-eggene" mine i én kurv. At ved å fordele min totale skrivekapasitet en gitt dag utover flere artikkel-ideer, flere notater, så setter jeg meg sjeldnere fast.
 
 For om jeg setter meg fast på en idé så hopper jeg bare videre til den neste. For å sitere meg sjøl fra [[en tanke i utvikling|en tanke i utvikling]]:
 
