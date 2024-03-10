@@ -1,32 +1,50 @@
 ---
 date: 2024-02-21
 lastmod: 2024-03-07
-tags: 
+tags:
+  - tankemat
+  - skriving
+  - apper
+  - teknologi
+  - læring
 aliases: 
 title: Simen skriver
 publish: true
 slug: index
 ---
 
-## Heisann! 👋
+## Heisann! 
 
-### Om meg
+### 🙋‍♂️ Om meg
 
-Simen heter jeg, og jeg jobber med å lage digitale greier som skal føles bra, være lett å forstå, og gjerne se fint ut i samme slengen. En såkalt UX-designer, med andre ord.
+Simen heter jeg, og jeg jobber med å lage digitale greier som skal føles bra, være lett å forstå, og gjerne se fint ut i samme slengen. En UX-designer, med andre ord. 
 
-Samtidig har jeg en tendens til å dypdykke i ting som fascinerer meg. Det kan være alt fra [[apper jeg liker]], som [[obsidian|obsidian]], men også konseptet rundt [[digitalt hagearbeid|digitalt hagearbeid]], som jeg prøver å gjøre her.
+I tillegg dypdykker jeg i ting som fascinerer meg, og det skriver jeg om her, i en såkalt [[digitalt hagearbeid|digital hage]].
 
-Hver søndag skriver jeg noe nytt. Om du vil følge med så sender jeg det gjerne rett i innboksen din. Eller så kan du se også se gjennom arkivet for tidligere #nyhetsbrev 
+> [!INFO]- Om denne sida
+> 
+> Dette er min måte å dokumentere det jeg lærer på. I tillegg til å utfordre meg sjøl til [[å lære åpent|å lære åpent]]. Å tørre og dele mer av prosessen, og ikke bare vise sluttresultatet.
+> 
+> Med det sagt, så anbefaler jeg å bare klikke deg inn på én link og følge nysgjerrigheten derfra. Det er som wikipedia, bare mindre faktabasert.
 
-> [!info]- Bli med i nyhetsbrevgjengen
+### 👨‍💻 Hva jeg skriver om
+
+Det er noen overordnede kategorier som går igjen, men start med det som virker mest relevant for deg:
+
+- #tankemat 
+	- Start med [[sammenligning|sammenligning]], eller [[anerkjenn din egen superkraft|anerkjenn din egen superkraft]]
+- #skriving 
+	- Start med [[hva jeg har lært av å skrive 25 artikler på 23 dager|hva jeg har lært av å skrive 25 artikler på 23 dager]], eller se [[skriveprosessen min på 6 minutter|skriveprosessen min på 6 minutter]] i praksis
+- #apper og #teknologi 
+	- Start med [[digital klisterhjerne|digital klisterhjerne]], eller [[den ene funksjonen|den ene funksjonen]]
+- #læring 
+	- Start med [[om å bruke det du lærer|å bruke det du lærer]], eller se et eksempel fra notatene mine om [[css|CSS]]
+
+#### ✉️ Nyhetsbrev
+
+Hver søndag skriver jeg noe nytt. Om du vil følge med så sender jeg det gjerne rett i innboksen din. Eller så kan du se også [se gjennom arkivet av tidligere nyhetsbrev](https://simenskriver.no/tags/nyhetsbrev).
+
+> [!tip]- Bli med i nyhetsbrevgjengen
 > <form action="https://buttondown.email/api/emails/embed-subscribe/simenskriver" method="post" target="_blank" onsubmit="window.open('https://buttondown.email/simenskriver', 'popupwindow')" class="embeddable-buttondown-form"> <label for="bd-email">Fyll inn epost-adressa di</label> <br> <input type="email" name="email" id="bd-email" /><br><br><label for="first_name">Fyll inn fornavnet ditt</label><br><input type="text" name="metadata__first_name" id="first_name" /><br><p>Grunnen til at jeg spør om fornavnet ditt er fordi jeg liker å se for meg hvem jeg skriver til, så det blir mer personlig, fra meg til deg.</p><input type="submit" value="Bli med i nyhetsbrevgjengen" /></form>
 > <br>
-> 
 
-### Om denne sida
-
-Dette er min måte å dokumentere det jeg lærer på. I tillegg til å utfordre meg sjøl til [[å lære åpent]]. Å tørre og dele mer av prosessen, og ikke bare vise sluttresultatet.
-
-Med det sagt, så anbefaler jeg å bare klikke deg inn på én link og følge nysgjerrigheten derfra. Det er som wikipedia, bare mindre faktabasert.
-
----
