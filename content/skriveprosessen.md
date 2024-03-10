@@ -4,6 +4,7 @@ lastmod: 2024-03-07
 tags:
   - skriving
 aliases:
+  - skriveprosessen min på 6 minutter
   - skriveprosessen
 title: skriveprosessen min på 6 minutter
 publish: true
