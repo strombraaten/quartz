@@ -7,7 +7,7 @@ tags:
 aliases: 
 title: Verktøyene til en dårlig utvikler
 publish: true
-slug: kodeverktøy
+slug: kodeverktoy
 ---
 Å lære seg å kode er som å venne seg til en ny kultur. Som når noen fra Frankrike kysser deg på begge kinnene når du kun var innstilt på en enkel klem. 
 
@@ -33,7 +33,7 @@ Personlig bruker jeg [Sublime](https://www.sublimetext.com/). Rett og slett ford
 
 Koster ca en 1000-lapp, men de gir deg faktisk muligheten til å bruke programmet helt gratis, også betaler du bare når du selv vil. Da må du riktignok leve med skammen av å klikke bort en pop-up i ny og ne som oppfordrer deg til å betale for det dersom du har hatt nytte av det. En venn av meg gjorde det her i mer enn 10 år, så du er ikke aleine om du velger å gå den veien.
 
-Underveis har jeg også vurdert VSCode, Nova, Zed, og Cursor, men jeg kom hele tida tilbake til Sublime etterhvert så da prøver jeg heller å slå meg til ro med det. I stedet for å hele tida jakte etter [[den neste nye tingen]]. Om du har kommet i gang med github så har du faktisk [en innebygd editor der over koden din der](https://erl.ing/blogg/github-dev/) (takk til Erling Håmsø for tips).
+Underveis har jeg også vurdert VSCode, Nova, Zed, og Cursor, men jeg kom hele tida tilbake til Sublime etterhvert så da prøver jeg heller å slå meg til ro med det. I stedet for å hele tida jakte etter [[den neste nye tingen|den neste nye tingen]]. Om du har kommet i gang med github så har du faktisk [en innebygd editor der over koden din der](https://erl.ing/blogg/github-dev/) (takk til Erling Håmsø for tips).
 
 ## Terminalen – der arbeidet *egentlig* skjer
 
@@ -45,7 +45,7 @@ Før eller seinere må du uansett innom terminalen. Jeg har tidligere kalt den f
 
 ### Github desktop
 
-![[images/Pasted image 20240224180641.png]]
+![[images/Pasted image 20240224180641.png|images/Pasted image 20240224180641.png]]
 
 https://desktop.github.com/
 
@@ -61,9 +61,9 @@ Eller hva du kan gjøre. Med cssPro, eller cssScan.
 
 Når desperasjonen er nær, og frustrasjonen er her, så er gode råd dyre. AI-hjelp derimot er svinbillig! Anbefalingene du får er definitivt ikke 100 % riktige til enhver tid, men det vil du heller ikke få dersom du snakker med en vanlig person. Du kommer derimot mye lengre på vei dersom du går inn i en AI-chat med innstillinga om at du skal jobbe ut et problem i samtaleform. Den vil ikke alltid gi deg det rette svaret på første forsøk, men dersom du fortsetter samtalen (siden den husker hva som har blitt sagt tidligere), og gir den mer relevant info å bearbeide, så vil du få forslag som du kan prøve deg fram med.
 
-Nedenfor kan du se et eksempel hvor jeg spørte AI-chatten i [[raycast]] om hjelp med å implementere tinylytics på hjemmesida mi. *Tinylytics* gjør det samme som google analytics, bare på en veldig liten skala, med personvern i fokus, og med muligheten for mer menneskelig kontakt.
+Nedenfor kan du se et eksempel hvor jeg spørte AI-chatten i [[raycast|raycast]] om hjelp med å implementere tinylytics på hjemmesida mi. *Tinylytics* gjør det samme som google analytics, bare på en veldig liten skala, med personvern i fokus, og med muligheten for mer menneskelig kontakt.
 
-![[images/Simens-skjermbilder-24-02-2024-kl16.37.jpg]]
+![[images/Simens-skjermbilder-24-02-2024-kl16.37.jpg|images/Simens-skjermbilder-24-02-2024-kl16.37.jpg]]
 
 
 ## Outline
