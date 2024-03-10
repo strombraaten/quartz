@@ -23,7 +23,7 @@ I tillegg dypdykker jeg i ting som fascinerer meg, og det skriver jeg om her, i 
 
 > [!INFO]- Om denne sida
 > 
-> Dette er min måte å dokumentere det jeg lærer på. I tillegg til å utfordre meg sjøl til [[å lære åpent|å lære åpent]]. Å tørre og dele mer av prosessen, og ikke bare vise sluttresultatet.
+> Dette er min måte å dokumentere det jeg lærer på. I tillegg til å utfordre meg sjøl til [[lare-apent|lare-apent]]. Å tørre og dele mer av prosessen, og ikke bare vise sluttresultatet.
 > 
 > Med det sagt, så anbefaler jeg å bare klikke deg inn på én link og følge nysgjerrigheten derfra. Det er som wikipedia, bare mindre faktabasert.
 
@@ -32,13 +32,13 @@ I tillegg dypdykker jeg i ting som fascinerer meg, og det skriver jeg om her, i 
 Det er noen overordnede kategorier som går igjen, men start med det som virker mest relevant for deg:
 
 - #tankemat 
-	- Start med [[sammenligning|sammenligning]], eller [[anerkjenn din egen superkraft|anerkjenn din egen superkraft]]
+	- Start med [[sammenligning|sammenligning]], eller [[superkraft|anerkjenn din egen superkraft]]
 - #skriving 
-	- Start med [[hva jeg har lært av å skrive 25 artikler på 23 dager|hva jeg har lært av å skrive 25 artikler på 23 dager]], eller se [[skriveprosessen min på 6 minutter|skriveprosessen min på 6 minutter]] i praksis
+	- Start med [[25-artikler-23-dager|hva jeg lærte av å skrive 25 artikler på 23 dager]], eller se [[skriveprosessen|skriveprosessen min på 6 minutter]] i praksis
 - #apper og #teknologi 
-	- Start med [[digital klisterhjerne|digital klisterhjerne]], eller [[den ene funksjonen|den ene funksjonen]]
+	- Start med [[klisterhjerne|klisterhjerne]], eller [[den ene funksjonen|den ene funksjonen]]
 - #læring 
-	- Start med [[om å bruke det du lærer|å bruke det du lærer]], eller se et eksempel fra notatene mine om [[css|CSS]]
+	- Start med [[bruk-det-du-larer|å bruke det du lærer]], eller se et eksempel fra notatene mine om [[css|CSS]]
 
 #### ✉️ Nyhetsbrev
 
