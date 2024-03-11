@@ -37,32 +37,32 @@ Derfor har jeg lista opp de kategoriene jeg skriver oftest om, inkludert et par 
 > Hvordan navigerer du deg på rundt på simenskriver-sida?
 > 
 > 1. Trykker du utelukkende fra én link til en annen?
-> 2. Bruker den [[grafen|grafen]]?
+> 2. Bruker du den [[grafen|den interaktive grafen]]?
 > 3. Bruker du søkefeltet, også for å finne notater du ikke visste om fra før?
 >
->Send svar til `strombraaten@gmail.com`
+>Om du sender inn et svar til `strombraaten@gmail.com` eller [på discord](https://discord.gg/f2ZrnPVbYC) skal du få en nøye utvalgt gif som takk.
 
 ## Usynlig arbeid
 
 ### Fiksa linker
 
 - [[barekraftig-webutvikling|Bærekraftig webutvikling]]
-- [[klisterhjerne|klisterhjerne]]
+- [[klisterhjerne|Klisterhjerne]]
 - [[neste-nye|Den neste nye tingen]]
 	- Lasta opp bilder som hadde blitt borte vekk
-- [[de ulike stegene av et notat|de ulike stegene av et notat]]
-- [[mer-tid|mer-tid]]
-- [[det er noe feil med blogging som konsept|det er noe feil med blogging som konsept]]
-- [[digital minimalisme|digital minimalisme]]
-- [[digitalt hagearbeid|digital hage]]
-- [[en introduksjon til Zettelkasten|en introduksjon til Zettelkasten]]
-- [[ett formål om gangen|ett formål om gangen]]
-- [[hva vil du at jeg skal skrive mer om|hva vil du at jeg skal skrive mer om]]
-- [[hva i huleste er CODE og PARA|hva i huleste er CODE og PARA]]
+- [[stegene-av-et-notat|De ulike stegene av et notat]]
+- [[mer-tid|Hadde jeg hatt mer tid skulle jeg skrivi en kortere artikkel]]
+- [[blogging-som-konsept|Det er noe feil med blogging som konsept]]
+- [[digital-minimalisme|Digital minimalisme]]
+- [[digital-hage|Digitalt hagearbeid]]
+- [[zettelkasten|zettelkasten]]
+- [[ett-formal|Ett formål om gangen]]
+- [[Hva vil du at jeg skal skrive mer om|Hva vil du at jeg skal skrive mer om]]
+- [[Hva i huleste er CODE og PARA|Hva i huleste er CODE og PARA]]
 
 ### Ødelagt linker
 
-Til tross for så mye fiksing så er det overraskende få notater som er tilgjengelige nå, eller som *faktisk* fungerer. Det er på grunn av *slugs*. Og at jeg misforstod hvordan det funka med [[github publisher|github publisher]]-pluginen til [[obsidian|obsidian]] 🤦‍♂️
+Til tross for så mye fiksing så er det overraskende få notater som er tilgjengelige nå, eller som *faktisk* fungerer. Det er på grunn av *slugs*. Og at jeg misforstod hvordan det funka med [[github-publisher|github-publisher]]-pluginen til [[obsidian|obsidian]] 🤦‍♂️
 
 ## Slugs
 
