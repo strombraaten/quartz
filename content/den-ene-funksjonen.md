@@ -5,7 +5,8 @@ tags:
   - apper
 aliases:
   - cleanshot
-title: Den ene funksjonen
+  - den ene funksjonen
+title: den ene funksjonen
 publish: true
 slug: den-ene-funksjonen
 ---
@@ -62,7 +63,7 @@ Som du kanskje har skjønt tar jeg mange skjermbilder. Så da Erlend fra [Havn.
 > 
 > Denne appen har jeg brukt så mye, og er en av de appene jeg tipser om oftest, så da føltes det rett og rimelig og ha en rabattlink tilgjengelig.
 > 
-> Les mer om [[rabattkoder|mitt syn på rabattkoder]].
+> Les mer om [[rabatt|mitt syn på rabattkoder]].
 
 Appen koster riktignok 290 kr (engangskjøp) så det er sikkert ikke nødvendig for alle og enhver, men om du tar så mye som to skjermbilder i uka så er det her en no-brainer. Jeg slenger inn detaljene under, om du er nysgjerrig.
 
