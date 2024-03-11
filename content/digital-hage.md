@@ -8,7 +8,7 @@ aliases:
   - digital hage
   - evergreen notes
   - digitalt hagearbeid
-title: digitalt hagearbeid
+title: Digitalt hagearbeid
 publish: true
 slug: digital-hage
 ---
