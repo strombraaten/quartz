@@ -9,7 +9,7 @@ title: Hadde jeg hatt mer tid skulle jeg skrivi en kortere artikkel
 publish: true
 slug: mer-tid
 ---
-https://simenskriver.no/hadde-jeg-hatt-mer-tid-skulle-jeg-skrivi-en-kortere-artikkel
+
 Det å skrive kortfatta er noe jeg virkelig beundrer. Som du kanskje har lagt merke til har jeg lettere for å skrive langt enn kort. Så det er et sitat jeg trekker fram jevnt og trutt for å beskrive den følelsen:
 
 > If I had more time, I would have written a shorter letter
