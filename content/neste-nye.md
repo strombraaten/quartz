@@ -47,7 +47,7 @@ At du kan sømløst linke én setning til én annen, på samme måte som jeg gj�
 
 ![[images/Simens-skjermbilder-29-04-2023-kl08.42.png|images/Simens-skjermbilder-29-04-2023-kl08.42.png]]
 
-Fra [CortexFutura sin video](https://www.youtube.com/watch?v=wvvsTD2RzKE&t=662s&ref=simen-skriver) om å bruke [[en introduksjon til Zettelkasten|Zettelkasten]] i Tana.
+Fra [CortexFutura sin video](https://www.youtube.com/watch?v=wvvsTD2RzKE&t=662s&ref=simen-skriver) om å bruke [[zettelkasten|Zettelkasten]] i Tana.
 
 ### 3. Kraftig "query"-funksjon
 
