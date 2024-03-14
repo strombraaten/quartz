@@ -31,7 +31,7 @@ Og bare de siste månedene er det noe jeg har kjent på både med [Tana](https:/
 
 Men la vårs bruke Tana, som jeg nevnte i starten, som et eksempel. De hauser opp stemninga med å si at du bør forberede deg på å kansellere mange av de månedlige abonnementene du har fra før av, for denne appen kan brukes til det aller meste. Eksemplifisert av slagordet til Tana her:
 
-![[images/Simens-skjermbilder-19-12-2022-kl-23.07.05@2x.png|images/Simens-skjermbilder-19-12-2022-kl-23.07.05@2x.png]]
+![[images/Simens-skjermbilder-19-12-2022-kl-23.07.05@2x.png]]
 
 Det var forsåvidt den fleksibiliteten som frista meg med Notion til å starte med. Nå derimot er det tre ting jeg er spesielt interessert i.
 
@@ -39,13 +39,13 @@ Det var forsåvidt den fleksibiliteten som frista meg med Notion til å starte m
 
 Som du kan se i eksempelet under, fra [videoen til Keep Productive](https://www.youtube.com/watch?v=TaOOkOOhRcM&ref=simen-skriver), så fungerer det nesten som en slags mal. Så denne "todo"-tæggen vil alltid ha inkludere noen nøkkelfelt som 1) hvem det gjelder, 2) når det skal være ferdig, og 3) statusen på oppgava:
 
-![[images/tana-supertags.png|images/tana-supertags.png]]
+![[images/tana-supertags.png]]
 
 ### 2. Linjebasert linking
 
 At du kan sømløst linke én setning til én annen, på samme måte som jeg gjør med [[Obsidian|Obsidian]] i dag, men der er det mest fokus på å linke sider sammen. Selv om du kan linke enkelte setninger, og bygge det inn i et notat, så ser det imponerende sømløst ut allerede i Tana, selv om de bare har holdt på i litt over et år, om jeg har forstått riktig.
 
-![[images/Simens-skjermbilder-29-04-2023-kl08.42.png|images/Simens-skjermbilder-29-04-2023-kl08.42.png]]
+![[images/Simens-skjermbilder-29-04-2023-kl08.42.png]]
 
 Fra [CortexFutura sin video](https://www.youtube.com/watch?v=wvvsTD2RzKE&t=662s&ref=simen-skriver) om å bruke [[zettelkasten|Zettelkasten]] i Tana.
 
@@ -53,7 +53,7 @@ Fra [CortexFutura sin video](https://www.youtube.com/watch?v=wvvsTD2RzKE&t=662s&
 
 En query-funksjon betyr at du kan på sett og vis "spørre" systemet ditt om å finne ting. Som f. eks _"Hvilke notater har jeg om Zettelkasten?"_, også hentes alt det ut, siden du har tægga det tidligere.
 
-![[images/Simens-skjermbilder-19-12-2022-kl-22.56.47@2x.png|images/Simens-skjermbilder-19-12-2022-kl-22.56.47@2x.png]]
+![[images/Simens-skjermbilder-19-12-2022-kl-22.56.47@2x.png]]
 
 I tillegg er jeg fascinert av tilnærminga til et daglig notat som utgangspunktet for alt av organisering. Det er forsåvidt noe jeg fint kan gjøre i [[obsidian|obsidian]] og, men som jeg bare ikke har gjort i like stor grad.
 
