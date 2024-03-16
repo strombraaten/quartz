@@ -211,7 +211,7 @@ export function renderPage(
     </div>
   )
 
-  const RecentNotesComponent = <RecentNotes {...componentData} />
+  const RecentNotes = <RecentNotes {...componentData} />
 
   const lang = componentData.fileData.frontmatter?.lang ?? cfg.locale?.split("-")[0] ?? "en"
   const doc = (
@@ -239,7 +239,7 @@ export function renderPage(
             </div>
             {RightComponent}
           </Body>
-          <RecentNotesComponent {...componentData} />
+          <RecentNotes {...componentData} />
           <Footer {...componentData} />
         </div>
       </body>
