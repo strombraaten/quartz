@@ -30,13 +30,13 @@ export default ((userOpts?: Partial<Options>) => {
     displayClass,
     cfg,
   }: QuartzComponentProps) => {
+    const opts = { ...defaultOptions(cfg), ...userOpts }
     
     // Only render on 'index' page
     if (fileData.slug !== 'index') {
       return null;
     }
 
-    const opts = { ...defaultOptions(cfg), ...userOpts }
     const pages = allFiles.filter(opts.filter).sort(opts.sort)
     const remaining = Math.max(0, pages.length - opts.limit)
     return (

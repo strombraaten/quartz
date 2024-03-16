@@ -236,6 +236,7 @@ export function renderPage(
             </div>
             {RightComponent}
           </Body>
+          <Component.RecentNotes {...componentData} />
           <Footer {...componentData} />
         </div>
       </body>

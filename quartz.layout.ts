@@ -5,15 +5,12 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  footer: [
-    Component.RecentNotes(),
-    Component.Footer({
-      links: {
-        GitHub: "https://github.com/strombraaten/quartz",
-        "Discord-gjengen": "https://discord.gg/f2ZrnPVbYC",
-      },
-    }),
-  ],
+  footer: Component.Footer({
+    links: {
+      GitHub: "https://github.com/strombraaten/quartz",
+      "Discord-gjengen": "https://discord.gg/f2ZrnPVbYC",
+    },
+  }),
 }
 
 // components for pages that display a single page (e.g. a single note)
