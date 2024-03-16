@@ -9,6 +9,7 @@ tags:
   - læring
 aliases: 
 title: Simen skriver
+enableToc: false
 publish: true
 slug: index
 ---
