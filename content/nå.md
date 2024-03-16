@@ -53,7 +53,7 @@ Jeg liker tanken av å vise hva som opptar tankene mine nå for tida. Inspirert 
 
 ## Hva jeg nerder ut på
 
-1. Hvordan jeg kan tilrettelegge min egen [[digitalt-hage|digitale hage]]
+1. Hvordan jeg kan tilrettelegge min egen [[digital-hage|digitale hage]]
 2. Hvordan jeg bruker Eagle-appen til å strukturere bilder, og generell visuell inspirasjon
 
 >[!example]- Hva jeg har nerda ut på tidligere

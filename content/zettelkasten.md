@@ -23,7 +23,7 @@ Som jeg nevnte tidligere virker det som Zettelkasten dukka opp til overflaten ig
 
 Der forteller han om [Niklas Luhmann](https://en.wikipedia.org/wiki/Niklas_Luhmann?ref=simen-skriver), den tyske sosiologen, som hadde utallige trebokser med nøye organiserte papirlapper. Sammen utgjør alle de lappene et nettverk av tanker og kunnskap. Ikke bare oppfordrer det til mer aktiv lesing, men resultatet er også at det forenkler skriveprosessen betraktelig, siden du alltid kan spille videre på det du har lært fra før.
 
-![[images/notecards.jpg|images/notecards.jpg]]
+![[notecards.jpg]]
 
 Bildet er lånt fra [Journal of the History of Ideas](https://jhiblog.org/2019/04/17/ruminant-machines-a-twentieth-century-episode-in-the-material-history-of-ideas/?ref=simen-skriver).
 
@@ -70,7 +70,7 @@ _Fleeting notes_ overlapper forøvrig med C'en i Capture, fra [[hva i huleste er
 
 ## Permanent notes
 
-_Permanent notes_ vil være det samme som [[digital-hage|evergreen notes]] som jeg har snakka om tidligere. Dette er steget hvor du utdyper og konkretiserer tanken. De burde skrives i fullstendige setninger (ikke nøkkelord altså), og gjerne formulert som om du skulle forklart det til en person du ikke kjenner. Også kjent som [[ditt framtidige, fremmede jeg|ditt framtidige, fremmede jeg]].
+_Permanent notes_ vil være det samme som [[digital-hage|evergreen notes]] som jeg har snakka om tidligere. Dette er steget hvor du utdyper og konkretiserer tanken. De burde skrives i fullstendige setninger (ikke nøkkelord altså), og gjerne formulert som om du skulle forklart det til en person du ikke kjenner. Også kjent som [[ditt framtidige, fremmede jeg]].
 
 Dette er spesielt relevant når du skriver ned noe som andre har sagt, og hvor du prøver å fange noe som resonnerer med deg. For å sitere meg sjøl:
 
@@ -86,7 +86,7 @@ Og uavhengig om du har forstått _intensjonen_ til forfatteren eller ei, det kan
 
 Å finne koblinger mellom tanker og notater er en av hovedgrunnene til å lage et zettelkasten-system. Derfor er det viktig å tilrettelegge for at du skal finne ting.
 
-Den mer tradisjonelle måten å organisere notater på ville vært å tenkt hvilken mappe det hører hjemme i. Eller hva slags kategori det er relatert til. Når det kommer til zettelkasten, og det du kan se på som [[linking-your-thinking|linking-your-thinking]], så blir spørsmålet heller "_Hvordan kan jeg finne tilbake til denne ideen seinere?_".
+Den mer tradisjonelle måten å organisere notater på ville vært å tenkt hvilken mappe det hører hjemme i. Eller hva slags kategori det er relatert til. Når det kommer til zettelkasten, og det du kan se på som [[linking-your-thinking]], så blir spørsmålet heller "_Hvordan kan jeg finne tilbake til denne ideen seinere?_".
 
 Og gitt at du gjør det digitalt så vil det innebære å relatere det til andre notater, altså skrive ned hvilke linker som er relevant. For å finne ut hva det kan relateres til kan det hjelpe med noen oppfordrende spørsmål:
 

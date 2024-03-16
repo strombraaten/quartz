@@ -12,7 +12,7 @@ slug: rabatt
 
 ## Rabattkoder
 
-Til nå er det kun to tjenester jeg har egne rabattkoder til, eller rabattlinker, nemlig [[den ene funksjonen|cleanshot]] og [[digital klisterhjerne|readwise]]. Tanken min er enkelt og greit at hvis det er en tjeneste jeg har brukt mye sjøl, og betaler for uansett, da vil en rabattordning være fint for begge parter.
+Til nå er det kun to tjenester jeg har egne rabattkoder til, eller rabattlinker, nemlig [[den-ene-funksjonen|cleanshot]] og [[klisterhjerne|readwise]]. Tanken min er enkelt og greit at hvis det er en tjeneste jeg har brukt mye sjøl, og betaler for uansett, da vil en rabattordning være fint for begge parter.
 
 Readwise betaler jeg 80 kr for hver måned, og Cleanshot kjøpte jeg for 290 kr (engangssum) med en gang jeg så det. Nettopp fordi jeg tar veldig mye skjermbilder, og fordi det gjør både jobb og hverdag lettere og morsommere. 
 

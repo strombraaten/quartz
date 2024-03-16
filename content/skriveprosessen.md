@@ -10,9 +10,10 @@ title: skriveprosessen min på 6 minutter
 publish: true
 slug: skriveprosessen
 ---
-Jeg har tidligere snakka om at [[fyller arbeidet tida du har tilgjengelig|Parkinsons lov]] handler om hvordan arbeidet fyller den tida som er tilgjengelig. Men hvordan så prosessen egentlig ut da jeg halverte tida jeg vanligvis bruker på å skrive en artikkel, før jeg trykker på den store, grønne publiseringsknappen? Det skal du få se med dine egne øyne i dag.
 
-![[images/Pasted-image-20230305115553 1.png|images/Pasted-image-20230305115553 1.png]]
+Jeg har tidligere snakka om at [[fyller-arbeidet-tida-du-har-tilgjengelig|Parkinsons lov]] handler om hvordan arbeidet fyller den tida som er tilgjengelig. Men hvordan så prosessen egentlig ut da jeg halverte tida jeg vanligvis bruker på å skrive en artikkel, før jeg trykker på den store, grønne publiseringsknappen? Det skal du få se med dine egne øyne i dag.
+
+![[Pasted-image-20230305115553 1.png]]
 
 > [!NOTE] Merknad
 > Ingen vennskap blei skadd under dette eksperimentet
@@ -36,7 +37,7 @@ I denne filmen får du se:
 
 ## Hva som inngår i skriveprosessen
 
-I går ramsa jeg opp [[25-artikler-23-dager|25-artikler-23-dager]]. Ut fra det kan vi se at det er ulike *sider* ved skriveprosessen. Det er ikke *bare* å sette seg ned å skrive på et tastatur. Som Sönke Ahrens nevner i boka How to Take Smart Notes:
+I går ramsa jeg opp [[25-artikler-23-dager|hva jeg har lært av å skrive 25 artikler på 23 dager]]. Ut fra det kan vi se at det er ulike *sider* ved skriveprosessen. Det er ikke *bare* å sette seg ned å skrive på et tastatur. Som Sönke Ahrens nevner i boka How to Take Smart Notes:
 
 >  It also means reading, understanding, reflecting, getting ideas, making connections, distinguishing terms, finding the right words, structuring, organizing, editing, correcting and rewriting.
 

@@ -29,7 +29,7 @@ I boka, [Building a Second Brain](https://www.buildingasecondbrain.com/?ref=sime
 3.  Distill
 4.  Express
 
-Samtidig er det en metode som heter [[en introduksjon til Zettelkasten|Zettelkasten]], som er noe av det mer fascinerende jeg har snubla over i nyere tid. Ja, til og med mer interessant enn [[den-ene-funksjonen|den nye appen jeg bruker for å ta skjermbilder]]. 
+Samtidig er det en metode som heter [[zettelkasten|Zettelkasten]], som er noe av det mer fascinerende jeg har snubla over i nyere tid. Ja, til og med mer interessant enn [[den-ene-funksjonen|den nye appen jeg bruker for å ta skjermbilder]]. 
 
 Det virker som Zettelkasten dukka opp til overflaten igjen, gjennom boka [How to Take Smart Notes](https://www.amazon.com/How-Take-Smart-Notes-Nonfiction/dp/1542866502?ref=simen-skriver), av [Sönke Ahrens](https://www.soenkeahrens.de/en/home?ref=simen-skriver). Der forteller han om [Niklas Luhmann](https://en.wikipedia.org/wiki/Niklas_Luhmann?ref=simen-skriver), den tyske sosiologen, som krediteres som personen bak denne metoden. Siden da er det mange som har tatt i bruk en lignende tilnærming til det de leser og skriver, deriblant [Ryan Holiday](https://ryanholiday.net/?ref=simen-skriver), som igen lærte det av [Robert Green](https://powerseductionandwar.com/?ref=simen-skriver).
 

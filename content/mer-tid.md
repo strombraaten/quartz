@@ -42,9 +42,9 @@ De ulike fasene i skriveprosessen kan jeg utdype mer om en annen gang, men i dag
 
 ## Notater som miniatyriske byggeklosser
 
-Da jeg introduserte Zettelkasten-metoden tidligere, i [[en introduksjon til Zettelkasten|en introduksjon til Zettelkasten]], nevnte jeg også konseptet om "Atomic notes", som [Sönke Ahrens](https://www.soenkeahrens.de/en/takesmartnotes) snakker om i boka [How to Take Smart Notes](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes?from_search=true&from_srp=true&qid=iMYFDAYQ99&rank=1).
+Da jeg introduserte Zettelkasten-metoden tidligere, i [[zettelkasten|en introduksjon til Zettelkasten]], nevnte jeg også konseptet om "Atomic notes", som [Sönke Ahrens](https://www.soenkeahrens.de/en/takesmartnotes) snakker om i boka [How to Take Smart Notes](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes?from_search=true&from_srp=true&qid=iMYFDAYQ99&rank=1).
 
-De ulike fasene i skriveprosessen kan jeg utdype mer om en annen gang, men i dag vil jeg heller fokusere på hvordan det å skrive kortfatta er spesielt relevant for [[en introduksjon til Zettelkasten|Zettelkasten]]-metoden, og å vedlikeholde et notatsystem.
+De ulike fasene i skriveprosessen kan jeg utdype mer om en annen gang, men i dag vil jeg heller fokusere på hvordan det å skrive kortfatta er spesielt relevant for [[zettelkasten|Zettelkasten]]-metoden, og å vedlikeholde et notatsystem.
 
 I motsetning til de lange artiklene mine så burde nemlig notatene våres være så kortfatta som mulig. Derav *"atomic"*, for å symbolisere at det skal brytes ned til de minste byggeklossene som du kan bryte det ned til. 
 
@@ -60,4 +60,4 @@ Målet her er ikke bare å lage så mange notater som mulig, men heller å øke 
 
 ## Avsluttende ord
 
-Det er vanskelig å skrive kortfatta, men dersom du ser de samme notatene i ny og ne, over lengre tid, vil det være enklere å hakke løs på innholdet, litt etter litt for hver gang. Bare fordi du ser det med "ferske øyne", som jeg holdt på å si. Ja. Du skjønner vel hva jeg mener. Og derfor er det så viktig med å knytte tankene sine sammen med hverandre, gjennom [[linking-your-thinking|linking-your-thinking]].
+Det er vanskelig å skrive kortfatta, men dersom du ser de samme notatene i ny og ne, over lengre tid, vil det være enklere å hakke løs på innholdet, litt etter litt for hver gang. Bare fordi du ser det med "ferske øyne", som jeg holdt på å si. Ja. Du skjønner vel hva jeg mener. Og derfor er det så viktig med å knytte tankene sine sammen med hverandre, gjennom [[linking-your-thinking|linking your thinking]].

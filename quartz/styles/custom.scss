@@ -6,11 +6,16 @@
   line-height: 1.7;
 }
 
+p {
+  line-height: 1.8rem;
+  font-size: 18px;
+}
+
 .text-highlight {
   border-bottom-style: solid;
   border-bottom-width: 1px;
   background-color: #fff23688;
-  padding: 0 0.1rem;
+  padding: 0.1rem 0.2rem;
   border-radius: 0px;
 }
 
@@ -18,7 +23,7 @@ a {
 	.internal {
     text-decoration: none;
     background-color: var(--highlight);
-    padding: 0 0.1rem;
+    padding: 0.1rem 0.2rem;
     border-radius: 0px;
     line-height: 1.4rem;
 	}

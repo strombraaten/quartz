@@ -10,7 +10,7 @@ publish: true
 slug: lare-apent
 ---
 
-Sakte, men sikkert prøver jeg nemlig å forklare hvordan jeg gjør det jeg gjør. Først og fremst med skrivinga, men også til dels [[Hvorfor jeg blir så gira av Obsidian|hvordan jeg bruker Obsidian]], for det får jeg en del spørsmål om.
+Sakte, men sikkert prøver jeg nemlig å forklare hvordan jeg gjør det jeg gjør. Først og fremst med skrivinga, men også til dels [[gira-av-obsidian|hvordan jeg bruker Obsidian]], for det får jeg en del spørsmål om.
 
 Derfor prøver jeg å forklare det fundamentale på best mulig måte – som [[linker|linker]] og [[tilbakekoblinger|tilbakekoblinger]] – så det skal være en lavere terskel for deg å komme i gang, enn det var for min egen del.
 
@@ -26,7 +26,7 @@ En ting jeg setter veldig pris på er folk som lærer i det åpne, som viser det
 > 
 > Siste ord er aldri sagt, det liker jeg
 
-Det blir jo en diskrét måte å skryte av meg sjøl på, jeg skal ikke nekte for det, men det er nettopp det her jeg setter så pris på ved andre. Og i stor grad det som har leda til det [[digitalt hagearbeid|digital hage]]-konseptet som jeg koser meg så mye nå om dagen. For om du fokuserer på at noe skal være perfekt, eller egentlig bare "ferdig" (hva enn definisjonen din av ferdig er) så vil det alltid være en risiko for at det ikke deles med andre. At det bare forblir i hodet ditt.
+Det blir jo en diskrét måte å skryte av meg sjøl på, jeg skal ikke nekte for det, men det er nettopp det her jeg setter så pris på ved andre. Og i stor grad det som har leda til det [[digital-hage|digital hage]]-konseptet som jeg koser meg så mye nå om dagen. For om du fokuserer på at noe skal være perfekt, eller egentlig bare "ferdig" (hva enn definisjonen din av ferdig er) så vil det alltid være en risiko for at det ikke deles med andre. At det bare forblir i hodet ditt.
 
 Det er forbausende hvor ofte jeg kommer tilbake til ordtaket [[hvordan-vi-leser-bøker|"Perfect is the enemy of good altså"]], men det passer like godt her og.
 
