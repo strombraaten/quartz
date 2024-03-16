@@ -10,13 +10,14 @@ const Backlinks: QuartzComponent = ({
   displayClass,
   cfg,
 }: QuartzComponentProps) => {
+
+  // if the page slug is "index", don't render anything
+  if (fileData.slug === "index") {
+    return <></>
+  }
+
   const slug = simplifySlug(fileData.slug!)
   const backlinkFiles = allFiles.filter((file) => file.links?.includes(slug))
-
-  // If the slug is 'index', return an empty component
-  if (slug === 'index') {
-  return <></>
-  }
 
   return (
     <div class={classNames(displayClass, "backlinks")}>
