@@ -33,7 +33,7 @@ export default {
       title: "Alle notater",
     },
     footer: {
-      createdWith: "Lagd med",
+      createdWith: "Laga sjæl med",
     },
     graph: {
       title: "Notatkart",
