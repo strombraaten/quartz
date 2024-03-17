@@ -8,7 +8,7 @@ title: css
 publish: true
 slug: css
 ---
-
+TK
 ## Egenskaper
 
 Når du legger til en egenskap, som f. Eks `color`, med en verdi, som i `color: green;` så lager du en såkalt `declaration`, og det er altså [[notes/CSS|CSS]], og ikke [[notes/HTML|HTML]]. Et eksempel på det kan være f. eks:
@@ -48,7 +48,7 @@ Om du både vil at teksten skal være grønn, men at den også skal stå i kursi
 
 ## Hvordan du slipper å gjøre samme endring mange ganger
 
-I et [[html]]-dokument har du en tag som heter `<head>`. Mellom den introduserende og avsluttende head-tagen kan du legge en `<style>`-tag:
+I et [[html|html]]-dokument har du en tag som heter `<head>`. Mellom den introduserende og avsluttende head-tagen kan du legge en `<style>`-tag:
 
 ```
 <head>
@@ -88,11 +88,11 @@ I tilfellet over kan vi si at `h2` er en `selector`, fordi vi må si i fra hva s
 
 ## Jobb smartere
 
-Du kan altså bake inn all stilendringene dine i en [[html]]-fil, men da blir det fort rotete. Det er derfor man pleier å skille de fra hverandre, og heller referere til en fil som oftest heter `styles.css`, som du linker til i [[html]]-fila.
+Du kan altså bake inn all stilendringene dine i en [[html|html]]-fil, men da blir det fort rotete. Det er derfor man pleier å skille de fra hverandre, og heller referere til en fil som oftest heter `styles.css`, som du linker til i [[html|html]]-fila.
 
 ## Grunnleggende
 
-Først må vi tenke på plasseringa. [[css]] hører hjemme mellom `<head>`-tags i en [[html]]-fil. 
+Først må vi tenke på plasseringa. [[css|css]] hører hjemme mellom `<head>`-tags i en [[html|html]]-fil. 
 
 ```
 <html>
