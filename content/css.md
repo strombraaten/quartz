@@ -8,7 +8,7 @@ title: css
 publish: true
 slug: css
 ---
-KT
+sdafads
 ## Egenskaper
 
 Når du legger til en egenskap, som f. Eks `color`, med en verdi, som i `color: green;` så lager du en såkalt `declaration`, og det er altså [[notes/CSS|CSS]], og ikke [[notes/HTML|HTML]]. Et eksempel på det kan være f. eks:
