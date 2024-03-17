@@ -8,7 +8,6 @@ import { visit } from "unist-util-visit"
 import { Root, Element, ElementContent } from "hast"
 import { GlobalConfiguration } from "../cfg"
 import { i18n } from "../i18n"
-import { RecentNotes } from "./RecentNotes"
 
 interface RenderComponents {
   head: QuartzComponent
@@ -211,8 +210,6 @@ export function renderPage(
     </div>
   )
 
-  const RecentNotes = <RecentNotes {...componentData} />
-
   const lang = componentData.fileData.frontmatter?.lang ?? cfg.locale?.split("-")[0] ?? "en"
   const doc = (
     <html lang={lang}>
@@ -239,7 +236,6 @@ export function renderPage(
             </div>
             {RightComponent}
           </Body>
-          <RecentNotes {...componentData} />
           <Footer {...componentData} />
         </div>
       </body>
