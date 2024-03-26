@@ -9,6 +9,9 @@ title: et oppslagsverk for Vim
 publish: true
 slug: vim-oppslagsverk
 ---
+
+> [!tip] Anbefaler å lese [[vim-introduksjon|en introduksjon til Vim]] før du kaster deg ut i oppslagsverket.
+
 ## Bevegelse
 
 Det er mange måter du kan bevege deg på, eller flytte deg rundt i et tekstdokument med Vim.
