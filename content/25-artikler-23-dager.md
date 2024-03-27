@@ -97,7 +97,7 @@ Lærdommen her er altså at det lønner seg å knytte en vane opp mot noe annet,
 
 ### Forpliktelsen av å gjøre noe _hver_ dag
 
-Jeg har tidligere snakka om det her med å gjøre noe *hver* dag, da jeg snakka om [[eksperimenter i hverdagen|eksperimenter i hverdagen]]. Hvordan du gjør det vanskeligere for deg sjøl å lykkes når du lager et sånt ultimatum. For hva skjer om du bare ikke klarer det, og du må hoppe over en dag? Gir du deg da? Eller fortsetter du dagen etter? Hvor lenge skal du holde det gående _hver_ eneste dag?
+Jeg har tidligere snakka om det her med å gjøre noe *hver* dag, da jeg snakka om [[eksperimenter|eksperimenter]]. Hvordan du gjør det vanskeligere for deg sjøl å lykkes når du lager et sånt ultimatum. For hva skjer om du bare ikke klarer det, og du må hoppe over en dag? Gir du deg da? Eller fortsetter du dagen etter? Hvor lenge skal du holde det gående _hver_ eneste dag?
 
 Det var nettopp derfor jeg avgrensa tida ved å si meg ferdig på julaften. For da har jeg noe konkret å jobbe meg mot, og selv om det definitivt føltes som et hårete mål da jeg starta, så visste jeg at det også hadde en slutt.
 

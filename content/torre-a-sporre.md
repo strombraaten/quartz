@@ -1,7 +1,8 @@
 ---
-date: 2024-03-27
-lastmod: 2024-03-27
-tags: 
+date: 2023-10-29
+lastmod: 2023-10-29
+tags:
+  - nyhetsbrev
 aliases:
   - å tørre og spørre
 title: om det å tørre og spørre

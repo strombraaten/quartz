@@ -70,7 +70,7 @@ _Fleeting notes_ overlapper forøvrig med C'en i Capture, fra [[hva i huleste er
 
 ## Permanent notes
 
-_Permanent notes_ vil være det samme som [[digital-hage|evergreen notes]] som jeg har snakka om tidligere. Dette er steget hvor du utdyper og konkretiserer tanken. De burde skrives i fullstendige setninger (ikke nøkkelord altså), og gjerne formulert som om du skulle forklart det til en person du ikke kjenner. Også kjent som [[ditt framtidige, fremmede jeg]].
+_Permanent notes_ vil være det samme som [[digital-hage|evergreen notes]] som jeg har snakka om tidligere. Dette er steget hvor du utdyper og konkretiserer tanken. De burde skrives i fullstendige setninger (ikke nøkkelord altså), og gjerne formulert som om du skulle forklart det til en person du ikke kjenner. Også kjent som [[ditt-fremmede-jeg]].
 
 Dette er spesielt relevant når du skriver ned noe som andre har sagt, og hvor du prøver å fange noe som resonnerer med deg. For å sitere meg sjøl:
 

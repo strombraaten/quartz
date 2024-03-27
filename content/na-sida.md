@@ -4,9 +4,10 @@ lastmod: 2023-05-10
 title: Akkurat nå
 aliases:
   - nå-sida
-tags: 
+tags:
+  - behind-the-scenes
 publish: true
-slug: nå
+slug: na-sida
 ---
 
 Jeg liker tanken av å vise hva som opptar tankene mine nå for tida. Inspirert av folk som [Derek Sivers](https://sive.rs/nowff?ref=simen-skriver), [Maggie Appleton](https://maggieappleton.com/now?ref=simen-skriver), og [Andy Matuschak](https://notes.andymatuschak.org/About_these_notes?stackedNotes=zUw5PuD8op9oq8kHvni6sug6eRTNtR9Wqma&ref=simen-skriver). Om du vil lese mer om såkalte "Nå"-sider finnes det [en utdypende side for sånt](https://nownownow.com/about?ref=simen-skriver).

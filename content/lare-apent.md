@@ -28,7 +28,7 @@ En ting jeg setter veldig pris på er folk som lærer i det åpne, som viser det
 
 Det blir jo en diskrét måte å skryte av meg sjøl på, jeg skal ikke nekte for det, men det er nettopp det her jeg setter så pris på ved andre. Og i stor grad det som har leda til det [[digital-hage|digital hage]]-konseptet som jeg koser meg så mye nå om dagen. For om du fokuserer på at noe skal være perfekt, eller egentlig bare "ferdig" (hva enn definisjonen din av ferdig er) så vil det alltid være en risiko for at det ikke deles med andre. At det bare forblir i hodet ditt.
 
-Det er forbausende hvor ofte jeg kommer tilbake til ordtaket [[hvordan-vi-leser-bøker|"Perfect is the enemy of good altså"]], men det passer like godt her og.
+Det er forbausende hvor ofte jeg kommer tilbake til ordtaket [[hvordan-vi-leser-boker|"Perfect is the enemy of good altså"]], men det passer like godt her og.
 
 Spørsmålet da blir såklart – **dersom du skulle "lære i det åpne", hvordan hadde det sett ut for din del?**
 

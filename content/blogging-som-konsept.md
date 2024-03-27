@@ -21,7 +21,7 @@ Det du publiserte sist ligger øverst, og får da mest oppmerksomhet. Betyr det 
 
 ## Eldre tanker er ikke nødvendigvis dårlige tanker
 
-På den gamle versjonen av hjemmesida mi, i sin mer tradisjonelle bloggform, kunne du bla deg tilbake for å lese de eldre artiklene mine. Om du tok deg bryet med å gå fire sider tilbake i tid ville du snuble over det jeg skreiv om [[ditt framtidige, fremmede jeg|ditt framtidige, fremmede jeg]]. Tankene der er nøyaktige like relevante som det jeg skreiv om [[syntaks]] eller [[mer-tid|hadde jeg hatt mer tid skulle jeg skrivi en kortere artikkel]].
+På den gamle versjonen av hjemmesida mi, i sin mer tradisjonelle bloggform, kunne du bla deg tilbake for å lese de eldre artiklene mine. Om du tok deg bryet med å gå fire sider tilbake i tid ville du snuble over det jeg skreiv om [[ditt-fremmede-jeg|ditt-fremmede-jeg]]. Tankene der er nøyaktige like relevante som det jeg skreiv om [[syntaks]] eller [[mer-tid|hadde jeg hatt mer tid skulle jeg skrivi en kortere artikkel]].
 
 På én måte kan det være fint med rekkefølge, en reversert kronologisk rekkefølge, for tankene kan sees på som et avtrykk i tid, at du fanga hva du tenkte i det øyeblikket. Samtidig blir tankene nedprioritert desto eldre de er. For hver side som blir lagt til minsker også sjansen for å finne noe gammelt gull.
 
