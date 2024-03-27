@@ -1,6 +1,6 @@
 ---
 date: 2023-11-19
-lastmod: 2024-03-27
+lastmod: 2023-11-19
 tags:
   - nyhetsbrev
   - apper

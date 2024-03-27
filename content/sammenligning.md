@@ -1,6 +1,6 @@
 ---
 date: 2023-11-12
-lastmod: 2024-03-10
+lastmod: 2023-11-12
 tags:
   - tankemat
 aliases: 

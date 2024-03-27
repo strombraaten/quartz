@@ -1,6 +1,6 @@
 ---
 date: 2023-12-18
-lastmod: 2024-03-27
+lastmod: 2023-12-18
 tags:
   - nyhetsbrev
 aliases:

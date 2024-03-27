@@ -1,6 +1,6 @@
 ---
-date: 2023-12-13
-lastmod: 2024-03-27
+date: 2023-12-10
+lastmod: 2023-12-10
 tags:
   - nyhetsbrev
   - tankemat

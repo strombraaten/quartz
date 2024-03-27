@@ -1,6 +1,6 @@
 ---
 date: 2023-11-29
-lastmod: 2024-03-27
+lastmod: 2023-11-29
 tags:
   - nyhetsbrev
   - design

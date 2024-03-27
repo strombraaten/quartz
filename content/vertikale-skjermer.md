@@ -1,6 +1,6 @@
 ---
 date: 2023-10-22
-lastmod: 2024-03-27
+lastmod: 2023-10-22
 tags:
   - teknologi
   - nyhetsbrev
