@@ -19,9 +19,7 @@ Jacky er forøvrig den usynlige internett-legenden som har gjort det mulig for m
 Han delte nemlig nyhetsbrevene sine opp i følgende bolker:
 
 1.  3 things I found interesting
-    
 2.  2 things I've been wondering about
-    
 3.  1 thing I've done
 
 Så jeg tenker vi kan prøve vårs på det formatet der, og se hvordan det går, eller hva tenker du? 🤷‍♂️
@@ -30,13 +28,13 @@ Jeg kommer riktignok til å reversere rekkefølgen, for det er noe morsomt med �
 
 Titlene på de ulike punktene kommer jeg garantert til å endre på, altså at det som var to ting-punktet én uke, plutselig er tre ting-punktet neste uke, bare fordi jeg hadde mer å si om det, men det har jo ingenting å si. Så da klinker vi til! 🥳
 
-## 1 Ting jeg har gjort
+## 1 ting jeg har gjort
 
 Lagd nyhetsbrev! Men det her er nytt for meg, så jeg vil veldig gjerne vite om det er noe "rart" med epostene du får. Denne gangen f. eks får du se hvordan nyhetsbrevet ser ut med kun HTML. Da får du alt jeg har skrivi, men det er også en kritthvit bakgrunn med Times New Roman som skrifttype. Det skal jeg prøve å endre på til neste gang.
 
 Det er derfor jeg trenger deg til å si i fra om noe "skurrer", som ikke virker helt riktig, eller som bare kunne vært bedre. For jeg vil at det her skal være en god leseropplevelse, men det kan hende det ser annerledes ut for deg enn det gjør for meg.
 
-## 2 Ting jeg likte
+## 2 ting jeg likte
 
 1.  [Podcasten med Maggie Appleton](https://open.spotify.com/episode/3wUYDrn5wB7oNDrugprH1F?si=523211ad911247df) om digitalt hagebruk
 	- Bare kom deg gjennom de kleine lydeffektene
@@ -46,7 +44,7 @@ Det er derfor jeg trenger deg til å si i fra om noe "skurrer", som ikke virker 
 
 ![[images/Simens-skjermbilder-12-03-2023.png]]
 
-## 3 Tanker jeg har hatt den siste uka
+## 3 tanker jeg har hatt den siste uka
 
 ### Den første tanken
 

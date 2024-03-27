@@ -32,3 +32,7 @@ For øyeblikket prøver jeg å forstå [design tokens](https://thedesignsystem.
 ### En ting jeg likte
 
 [Supa palette](https://www.supa-palette.com/) er en veldig enkel måte å lage fargepaletter på. Med en inkludert kontrastsjekk underveis. I tillegg til at du kan få inspirasjon fra etablerte designsystemer som Tailwind, Material UI og mange flere. Det er en [figma-plugin](https://www.figma.com/community/plugin/1103648664059257410/Supa-Palette) og, så jeg anbefaler å prøve den, selv om det bare blir en 7-dagers prøveperiode før du må punge ut.
+
+---
+
+![[hva-holder-jeg-på-med|Hva holder jeg på med?]]
