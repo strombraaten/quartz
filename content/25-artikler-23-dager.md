@@ -75,7 +75,7 @@ I løpet av de siste 23 dagene har jeg prøvd meg på nye tilnærminger til skri
 
 Jeg delte [[en tanke i utvikling|tanker som ikke jeg anså som "ferdig"]], som heller var under utvikling. For å oppdatere om hvilke endringer som var gjort begynte jeg å lage en versjonslogg, inspirert av hvordan endringer i apper kommuniseres i app store.
 
-For å motivere meg til å finne flere ideer jeg kunne skrive så [[hva vil du at jeg skal skrive mer om|delte jeg lista jeg kom fram til]]. Og for å lære meg "the ins and outs" av en ny app jeg blei tipsa om så lagde jeg en [[den-ene-funksjonen|steg-for-steg-forklaring om hvordan den fungerte]].
+For å motivere meg til å finne flere ideer jeg kunne skrive så [[skrive-mer-om|delte jeg lista jeg kom fram til]]. Og for å lære meg "the ins and outs" av en ny app jeg blei tipsa om så lagde jeg en [[den-ene-funksjonen|steg-for-steg-forklaring om hvordan den fungerte]].
 
 Og ikke minst, så lagde jeg en introduksjon til [[zettelkasten|en måte å jobbe med tankearbeid på]], for å forstå det bedre sjøl.
 

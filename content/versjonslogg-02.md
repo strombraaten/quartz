@@ -57,12 +57,12 @@ Derfor har jeg lista opp de kategoriene jeg skriver oftest om, inkludert et par 
 - [[digital-hage|Digitalt hagearbeid]]
 - [[zettelkasten|zettelkasten]]
 - [[ett-formal|Ett formål om gangen]]
-- [[Hva vil du at jeg skal skrive mer om|Hva vil du at jeg skal skrive mer om]]
+- [[skrive-mer-om|hva vil du at jeg skal skrive mer om]]
 - [[Hva i huleste er CODE og PARA|Hva i huleste er CODE og PARA]]
 
 ### Ødelagt linker
 
-Til tross for så mye fiksing så er det overraskende få notater som er tilgjengelige nå, eller som *faktisk* fungerer. Det er på grunn av *slugs*. Og at jeg misforstod hvordan det funka med [[github-publisher]]-pluginen til [[obsidian]] 🤦‍♂️
+Til tross for så mye fiksing så er det overraskende få notater som er tilgjengelige nå, eller som *faktisk* fungerer. Det er på grunn av *slugs*. Og at jeg misforstod hvordan det funka med [[github-publisher|Github Publisher]]-pluginen til [[obsidian]] 🤦‍♂️
 
 ## Slugs
 

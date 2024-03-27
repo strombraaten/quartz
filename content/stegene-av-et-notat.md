@@ -57,7 +57,7 @@ Jo, det skal jeg vise deg,
 
 > Idé-Darwinisme: Sterkeste overlever! Sammenligna med å skrive ned alt
 
-Ofte er den såpass kortfatta at med mindre jeg legger til noen oppklarende ord så kan det være litt vrient å forstå. Den er basert på nøkkelord til meg sjøl, som minner meg på tanken. Det viktigste her er altså bare å fange den. Tanker er flyktige. De forsvinner gjerne like fort som de kom. Det er derfor jeg [[hvorfor jeg går rundt med en notatbok i lomma|går rundt med en notatbok i lomma]]. Du kan såklart bruke en app på telefonen din til det stadiet her, i så fall vil jeg absoulutt anbefale en app som er bygd for fart framfor noe annet.
+Ofte er den såpass kortfatta at med mindre jeg legger til noen oppklarende ord så kan det være litt vrient å forstå. Den er basert på nøkkelord til meg sjøl, som minner meg på tanken. Det viktigste her er altså bare å fange den. Tanker er flyktige. De forsvinner gjerne like fort som de kom. Det er derfor jeg [[notatbok|går rundt med en notatbok i lomma]]. Du kan såklart bruke en app på telefonen din til det stadiet her, i så fall vil jeg absoulutt anbefale en app som er bygd for fart framfor noe annet.
 
 I zettelkasten-metoden vil dette være det samme som en _fleeting note_.
 

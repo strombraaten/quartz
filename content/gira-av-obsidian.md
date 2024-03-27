@@ -76,7 +76,7 @@ Personlig har jeg brukt [Minimal](https://minimal.guide/Home?ref=simen-skriver) 
 
 ### Tilgjengelig på tvers av enheter = ✅
 
-Jepp! På iPaden er det overraskende smud for fokusert skriving, og på telefonen fungerer det utmerket for å "fange en flyktig tanke", [[hvorfor jeg går rundt med en notatbok i lomma|som jeg har snakka om tidligere]]. Personlig bruker jeg hovedsakelig den lille notatboka mi til det, men det er godt å ha muligheten.
+Jepp! På iPaden er det overraskende smud for fokusert skriving, og på telefonen fungerer det utmerket for å "fange en flyktig tanke", [[notatbok|som jeg har snakka om tidligere]]. Personlig bruker jeg hovedsakelig den lille notatboka mi til det, men det er godt å ha muligheten.
 
 Men det er mer.. Og her må vi dele det opp i de mer opplagte grunnene, og de mer overraskende grunnene til hvorfor jeg virkelig har begynt å like [[obsidian]].
 

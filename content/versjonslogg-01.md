@@ -54,8 +54,8 @@ Jeg har nemlig "retta opp kursen" på linkene som tidligere har ført deg på en
 - [[lare-apent|å lære åpent]]
 - [[gira-av-obsidian|Hvorfor jeg blir så gira av Obsidian]]
 	- Lagt inn bilder som hadde blitt borte
-- [[hva er egentlig et simen-spørsmål|hva er egentlig et simen-spørsmål]]
-- [[akkurat nå|akkurat nå]]
+- [[simen-sporsmal|Simen-spørsmål]]
+- [[na-sida|nå-sida]]
 - [[hvordan jeg har lagd denne sida|hvordan jeg har lagd denne sida]]
 
 Om du ikke har hørt meg snakke om [[tk-trikset|tk-trikset]] før så finnes det nå også et eget notat om det, med noen [fun facts fra Thomas Knutstad](https://www.linkedin.com/in/thomasknutstad/).

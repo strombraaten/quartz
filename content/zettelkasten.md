@@ -54,7 +54,7 @@ Og det er det vi skal se på nå.
 
 "Fleeting notes" er løse tanker som dukker opp i løpet av dagen, f. eks mens du leser, eller bare en tanke som dukka opp mens du gjorde noe annet.
 
-Det jeg skriver ned i [[hvorfor jeg går rundt med en notatbok i lomma|notatboka jeg har i lomma]] til enhver tid, det kan du se på som "fleeting notes". Flyktige tanker jeg vil fange før de forsvinner.
+Det jeg skriver ned i [[notatbok|notatboka jeg har i lomma]] til enhver tid, det kan du se på som "fleeting notes". Flyktige tanker jeg vil fange før de forsvinner.
 
 Når du skriver løse tanker burde du riktignok legge opp til at skal gå gjennom notatene dine i blant. Det du ser etter da er nyttige, relevante, eller bare fascinerende tanker, som du kan gjøre om til noe mer varig, noe mer permanent.
 

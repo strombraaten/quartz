@@ -31,7 +31,7 @@ Hva er poenget mitt her, lurer du kanskje på. Jo, for en stund siden så jobba 
 > 
 > Nå som vi alle har en felles forståelse går jeg videre. 
 
-Prosessen gikk bare så utrolig treigt, og jeg fikk den fæle følelsen av "[[imposter syndrome|imposter syndrome]]" om at det her burde jeg kunne, og at *alle* hadde gjort den jobben mer effektivt enn meg sjøl. Du veit når du blir konfrontert av ditt eget usikkerhetsmonster™, og plutselig står dere begge der som to idioter i egne liv.
+Prosessen gikk bare så utrolig treigt, og jeg fikk den fæle følelsen av "[[imposter-syndrome|imposter-syndrome]]" om at det her burde jeg kunne, og at *alle* hadde gjort den jobben mer effektivt enn meg sjøl. Du veit når du blir konfrontert av ditt eget usikkerhetsmonster™, og plutselig står dere begge der som to idioter i egne liv.
 
 ![[anerkjenn superkraften din-1685866029060.jpeg|anerkjenn superkraften din-1685866029060.jpeg]]
 
