@@ -22,7 +22,7 @@ Om du skal markere all tekst i et notat, eller i en tekstboks, har du kanskje gj
 
 Det som skjer da er at du hopper ett og ett ord bortover i en setning. Om du holder inne `command`-knappen derimot og trykker på høyrepila hopper du til slutten av den linja du er på (venstrepila sender deg altså til starten). Om du holder inne `shift` samtidig så markerer du også teksten.
 
-Det samme gjelder også med `backspace`-knappen din. Om du holder inne `alt` og trykker på `backspace` sletter du ordet som er til venstre for musepekeren. Om du holder inne `command`i stedet sletter du alle ordene på den linja du er på (til venstre for musepekeren riktignok).
+Det samme gjelder også med `backspace`-knappen din. Om du holder inne `alt` og trykker på `backspace` sletter du ordet som er til venstre for musepekeren. Om du holder inne `command` i stedet sletter du alle ordene på den linja du er på (til venstre for musepekeren riktignok).
 
 De hurtigtastene, eller snarveiene, bygger altså på hverandre. Kun ved å lære at alt/option og command endrer *hvor mye* av teksten du redigerer så kan du bruke det i to ulike situasjoner.
 
@@ -66,7 +66,7 @@ Det som er fascinerende er at det er såpass effektivt at det brukes av mange de
 
 I stedet for å holde inne `alt/option`-knappen og bruke høyre piltast for å bevege deg til slutten av et ord, ville du med Vim bare trykt på `e`. Om du skulle bevegd til starten av et ord ville du trykt på `w`.
 
-![[images/vim-demo-we.gif|images/vim-demo-we.gif]]
+![[images/vim-demo-we.gif]]
 
 Nå tenker du kanskje "Men.. vil det ikke da være en `e` eller `w` i setningen min?". Å neida du! For Vim er bygd opp av ulike moduser.
 
@@ -84,7 +84,7 @@ I hovedsak kan vi fokusere på tre moduser, selv om det finnes flere tydeligvis.
 
 Når du derimot er ferdig med å skrive og skal bevege deg rundt i teksten, kanskje flytte deg lenger opp i avsnittet for å slette noen unødvendig fyllord, trykker du på `escape`-knappen for å aktivere "Normal mode".
 
-![[images/vim-demo.gif|images/vim-demo.gif]]
+![[images/vim-demo.gif]]
 
 ### Normal mode
 

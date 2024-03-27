@@ -25,13 +25,13 @@ Det andre kaninhullet er Excalidraw, som gjør det mulig å lage håndtegna skis
 
 Du trenger ikke registrere deg som bruker, og finne på nok et nytt passord. Du begynner bare å tegne. Om du vil prøve kan du [enkelt teste Excalidraw i nettleseren din](https://excalidraw.com/). Du kan til og med tegne sammen med andre. Tegningene lagres direkte i nettleseren din, så de er ikke synlig for noen andre enn deg.
 
-![[images/Simens-skjermbilder-28-01-2024-kl22.38.png|images/Simens-skjermbilder-28-01-2024-kl22.38.png]]
+![[images/Simens-skjermbilder-28-01-2024-kl22.38.png]]
 
 Som et alternativ kan du også bruke det gjennom [Obsidian](https://obsidian.md/). Det er der motivasjonen min kommer inn i bildet, siden det også er der jeg har alle notatene mine fra før av. For jeg ser definitivt nytten av å kunne inkludere kjappe skisser inn i notatene mine.
 
 Måten du får lagt det inn i Obsidian er ved å installere det som en community plugin. Om du har lasta ned Obsidian fra før av kan du bruke [denne linken for å hoppe direkte til Excalidraw-pluginen](obsidian://show-plugin?id=obsidian-excalidraw-plugin), eller så kan du også [finne mer info på Github](https://github.com/zsviczian/obsidian-excalidraw-plugin/#readme). Du kan også søke den opp ved å gå til `Settings -> Community plugins -> Browse`, også søke opp Excalidraw derfra.
 
-![[images/Simens-skjermbilder-28-01-2024-kl23.10.png|images/Simens-skjermbilder-28-01-2024-kl23.10.png]]
+![[images/Simens-skjermbilder-28-01-2024-kl23.10.png]]
 
 ## Hva er bruksområdene?
 
@@ -39,13 +39,13 @@ Jeg ser at de som bruker Excalidraw ofte er utviklere, eller systemarkitekter av
 
 Overraskende ofte tar jeg meg sjøl i å ville tegne oppå et bilde. Siden det føles så klønete å bruke tegneverktøyene på telefonen så airdropper jeg alltid bildet over til macen, og inn i Figma siden det er det jeg er vant til å bruke. Som i dag, da jeg og kona mi lurte på hvor vi skulle henge opp noen bilder hjemme hos vårs. Til den type ting er Excalidraw helt ypperlig:
 
-![[images/Simens-skjermbilder-28-01-2024-kl23.01.png|images/Simens-skjermbilder-28-01-2024-kl23.01.png]]
+![[images/Simens-skjermbilder-28-01-2024-kl23.01.png]]
 
 ### Uventa stort potensiale
 
 Et annet område, hvor det ser ut som Excalidraw har et overraskende stort potensiale, er rundt det å lage trådskisser – altså enkle skisser på et grensesnitt.
 
-![[images/Simens-skjermbilder-28-01-2024-kl22.12.png|images/Simens-skjermbilder-28-01-2024-kl22.12.png]]
+![[images/Simens-skjermbilder-28-01-2024-kl22.12.png]]
 
 Det som overraska meg, og nå går vi såklart ned på et nerdete nivå her (om vi ikke var der fra før av), er at du kan:
 
@@ -59,19 +59,19 @@ Det som overraska meg, og nå går vi såklart ned på et nerdete nivå her (om 
 
 Faktisk så har du like mye funksjonalitet for å lage den type skisser som du har i Figma-pluginen, Autoflow, som jeg ellers ville brukt til den type ting.
 
-![[images/Simens-skjermbilder-28-01-2024-kl19.17.png|images/Simens-skjermbilder-28-01-2024-kl19.17.png]]
+![[images/Simens-skjermbilder-28-01-2024-kl19.17.png]]
 
 ### En ekstra fordel
 
 En fordel du har med Excalidraw riktignok, sammenligna med blant annet Autoflow, er at du kan lagre tegninger som "gjenbrukbare byggeklosser", ved å legge dem til i det som kalles for *biblioteket*. Som f. eks firkanter som skal representere skjermer i ulike størrelser. Du kan også benytte deg av andre andres byggeklosser, ved å sjekke ut [Excalidraw biblioteket](https://libraries.excalidraw.com/?target=_excalidraw&useHash=true&token=9umLgJD0GqAaOyb4sa3wH&theme=dark&version=2&sort=downloadsTotal). På bildet under kan du se eksempler på noen byggeklosser, med "biblioteket" åpent på høyre side, og redigeringsmulighetene dine på venstre sida. 
 
-![[images/Simens-skjermbilder-28-01-2024-kl22.19.png|images/Simens-skjermbilder-28-01-2024-kl22.19.png]]
+![[images/Simens-skjermbilder-28-01-2024-kl22.19.png]]
 
 ## Bruk i Obsidian
 
 Alt det du ser på bildet befinner seg altså i Obsidian-appen. For at du skal se det tydelig har jeg riktignok tegningen i fullskjermmodus, men personlig liker jeg å ha notatet (hvor jeg skriver ordene du leser nå) på én side, og muligheten for å lage tegningene på den andre sida.
 
-![[images/Simens-skjermbilder-28-01-2024-kl22.31.png|images/Simens-skjermbilder-28-01-2024-kl22.31.png]]
+![[images/Simens-skjermbilder-28-01-2024-kl22.31.png]]
 
 Muligheten til å jobbe offline er enda en fordel med å bruke Excalidraw til å lage trådskisser. For de av dere som har prøvd å jobbe i Miro eller Figma på toget, når du kjører gjennom grisgrendte strøk, veit at det kan bli frustrerende etterhvert siden det er nettbaserte apper.
 
@@ -100,7 +100,7 @@ Akkurat det å bruke ipad-blyanten til å tegne og skrive er helt fint, men det 
 
 For all del, det her er ikke noe du *trenger* å prøve deg på akkurat. For det er utvilsomt noe sannhet i den memen som illustrerer hvordan nybegynneren og "mesteren" begge forholder seg til Apple Notes, som det enkleste valget, for der kan du helt fint kombinere håndtegna skisser og notater i skjønn harmoni.
 
-![[images/Apple notes meme.png|images/Apple notes meme.png]]
+![[images/Apple notes meme.png]]
 
 Mens folk som meg prøver desperat å vedlikeholde intrikate systemer. Som en krakk med tre bein, hvor ingen av beina egentlig er lagd for den krakken til å starte med, men som du har teipa til setet i et håp om å sitte stødig og godt.
 

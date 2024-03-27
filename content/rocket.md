@@ -14,8 +14,8 @@ slug: rocket
 
 Jo, sånn her:
 
-![[images/rocket-demo.gif|images/rocket-demo.gif]]
+![[images/rocket-demo.gif]]
 
-Du begynner altså å skrive navnet på emojien du vil bruke, også Enter for å bekrefte valgte ditt – `:thu` for å få 👍 (heter `thumbs up`).
+Du begynner altså å skrive navnet på emojien du vil bruke, også Enter for å bekrefte valgte ditt –`:thu`for å få 👍 (heter`thumbs up`).
 
 Spesielt nyttig om du er vant til å bruke Slack, siden du da vil kjenne til navnene som brukes på emojiene.

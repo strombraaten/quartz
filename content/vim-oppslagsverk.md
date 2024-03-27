@@ -22,14 +22,14 @@ Først starter du med piltastene. De er plassert på bokstavene h-j-k-l. Grunnen
 
 | Kommando | Forklaring  |
 | -------- | ----------- |
-| `h`        | Pil venstre |
-| `j`        | Pil ned     |
-| `k`        | Pil opp     |
-| `l`        | Pil høyre   |
+| `h`      | Pil venstre |
+| `j`      | Pil ned     |
+| `k`      | Pil opp     |
+| `l`      | Pil høyre   |
 
 ### Navigering i en linje
 
-![[images/vim-demo-we.gif|images/vim-demo-we.gif]]
+![[images/vim-demo-we.gif]]
 
 | Kommando | Forklaring                                                                                                     |
 | -------- | -------------------------------------------------------------------------------------------------------------- |
@@ -40,6 +40,13 @@ Først starter du med piltastene. De er plassert på bokstavene h-j-k-l. Grunnen
 | `b`      | Flytter deg bakover til starten av ordet du står i, deretter hopper du videre til starten av det forrige ordet |
 
 Det vil si at ved å trykke på `e` f. eks flytter du musepekeren til enden av ordet du befinner deg i (inkludert det siste tegnet).
+
+### Navigering utover kun én linje
+
+| Kommando   | Forklaring                   |
+| ---------- | ---------------------------- |
+| `(` og `)` | Flytter deg mellom setninger |
+| `{` og `}` | Flytter deg mellom avsnitt   |
 
 ## Operatorer og bevegelser
 
@@ -69,7 +76,7 @@ Ved å skrive `d0` sletter du alt til venstre for musepekeren, altså til *start
 
 Ved å skrive `d$` vil du slette alt til høyre for musepekeren, altså til *slutten* av linja.:
 
-> For å slette en hel 🐭==linje kan du trykke `dd`==
+> For å slette en hel 🐭==linje kan du trykke== `dd`
 
 Om du vil slette flere linjer samtidig kan du spesifisere antallet først. Om du vil slette to linjer i samme slengen f. eks skriver du `2dd` – Antall + Slett hele linjer.
 
@@ -120,9 +127,10 @@ Du kan også kombinere en teller, operator, og en bevegelse, som f. eks `2dw`.
 
 Når musepekeren er t til venstre for ordet/ordene du vil fjerne, kan du skrive `2dw`. Bokstaven `d` bruker du for å si at noe skal slettes, kombinert med `w` betyr det at du skal slette hele ord, og ikke bare én og én bokstav. Når du i tillegg inkluderer et tall på starten indikerer det hvor mange ord som skal slettes.
 
-> [!question] Spørsmål
-> Hva er forskjellen mellom å skrive `2dw` og `d2w`?
-> Når jeg prøver det i praksis virker det som om de kommandoene gjør nøyaktig det samme.
+> [!question]- Hva er forskjellen mellom å skrive `2dw` og `d2w`?
+> Ingen forskjell faktisk. Truls Henrik forklarte det på en fin måte:
+> > *På samme måte som at det å først gå til venstre og så høyre er det samme som å gå til høyre og så venstre, så kan du velge å slette to ord, eller å slette ett ord to ganger, resultatet blir nøyaktig det samme*
+> 
 
 ### Avansert bruk av piltastene
 
@@ -145,3 +153,6 @@ Piltastene kan også kombineres med en såkalt *teller*, hvor du spesifiserer hv
 - For å avslutte Vim er det to muligheter: 1) `:q!` for å forkaste endringene du har gjort, eller `:wq` for å lagre endringene og lukke endringene du har gjort
 - `dw` = Slett ordet du står i. Skal sies at her må du ha musepekeren plassert på starten av et ord for å slette ordet i sin helhet. Om du har musepekeren midt i ordet "banan" f. eks, at den står ved siden av A´en så vil du kun slette "nan" ikke "ba"-biten
 - Faktisk så er det noen regler som går igjen. For du kan skille mellom operatorer og bevegelser
+	- Om du bruker `diw` (delete in word) derimot så sletter du hele ordet uansett hvor musepekeren din er
+- Faktisk så er det noen regler som går igjen. For du kan skille mellom operatorer og bevegelser
+- `c` + commando for change. feks`ci"` for å endre innhold inni “her”, eller`cw` for å endre ordet. `ciw` (change in word) sletter et ord og går i insert mode der ordet var

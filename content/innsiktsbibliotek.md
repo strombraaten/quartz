@@ -32,7 +32,8 @@ Spesielt i intervjuer og brukertester lærer vi ofte ting og tang som er kjempes
 
 Om du lager din egen kopi av demo-innsiktsbiblioteket vil du se noe sånt som bildet under:
 
-![[Simens-skjermbilder-05-11-2023-kl07.59.png|Simens-skjermbilder-05-11-2023-kl07.59.png]]
+=======
+![[Simens-skjermbilder-05-11-2023-kl07.59.png]]
 
 Om du kikker nærmere på navnene på notatene på venstre side vil du se at jeg har fokusert på rammene rundt innsiktsbiblioteket for øyeblikket. Altså hva som må være på plass for at det skal kunne brukes for nøyaktig detta formålet. I tillegg til grunnleggende opplæring av å bruke Obsidian for nybegynnere. Hittil har det da gått på bekostning av å lage fiktiv innsikt, eller "demo-data", som f. eks "*Saksbehandlere har et stort behov for å sortere etter status på oppgavene sine*"
 
@@ -48,7 +49,7 @@ I løpet av tida som kommer skal jeg prøve å lage mer fiktiv innsikt, og struk
 
 Det å lage fiktive samtaler, tester, funn og rapporter er forøvrig en ypperlig situasjon å bruke kunstig intelligens i. For da slipper jeg jo å finne på en samtale mellom to personer. Jeg har lagd ett eksempel hittil, hvor jeg illustrerte hvordan [Atomic UX Research-modellen](https://blog.prototypr.io/what-is-atomic-research-e5d9fbc1285c) fungerer. Da lagde jeg et AI-generert intervju mellom en UX-designer og en saksbehandler. Det gjør det jo superenkelt for meg å plukke ut fakta fra samtalen, definere innsikt basert på hva vi lærte, og skrive noen hypotetiske forslag/anbefalinger til hva man kunne gjort videre.
 
-![[Simens-skjermbilder-05-11-2023-kl08.01.png|Simens-skjermbilder-05-11-2023-kl08.01.png]]
+![[Simens-skjermbilder-05-11-2023-kl08.01.png]]
 
 Her kan du se instruksene jeg gav til [Raycast AI](https://www.raycast.com/ai) (mitt valg av kunstig intelligens-chat):
 
@@ -113,8 +114,9 @@ For å senke terskelen har jeg lagd et par steg-for-steg-filmer som viser deg [h
 
 <lite-youtube videoid="aO0mAaitUZ4" playlabel="Play: Hvordan komme i gang med innsiktsbiblioteket i Obsidian"></lite-youtube>
 
-![[Simens-skjermbilder-05-11-2023-kl21.31.png|Simens-skjermbilder-05-11-2023-kl21.31.png]]
+![[Simens-skjermbilder-05-11-2023-kl21.31.png]]
 
 Om du laster ned din egen kopi så husk å skriv deg opp i gjesteboka! 👋
 
-![[Simens-skjermbilder-05-11-2023-kl21.54.png|Simens-skjermbilder-05-11-2023-kl21.54.png]]
+![[Simens-skjermbilder-05-11-2023-kl21.54.png]]
+
