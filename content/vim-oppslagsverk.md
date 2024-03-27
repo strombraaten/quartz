@@ -10,7 +10,7 @@ publish: true
 slug: vim-oppslagsverk
 ---
 
-> [!tip] Anbefaler å lese [[vim-introduksjon|en introduksjon til Vim]] før du kaster deg ut i oppslagsverket.
+> [!tip] Anbefaler å lese [[vim|en introduksjon til Vim]] før du kaster deg ut i oppslagsverket.
 
 ## Bevegelse
 
