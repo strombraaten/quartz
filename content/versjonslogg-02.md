@@ -21,7 +21,7 @@ Både lagd og lasta opp nye skjermopptak for å illustrere [[den-ene-funksjonen|
 
 ![[video-avspiller.png]]
 
-I tillegg har jeg lagt ut en kladd hvor jeg snakker om [[kodeverktoy|verktøyene til en dårlig utvikler]] (nemlig meg sjøl). Begynt å skrive om det å [[terskelen-for-publisering|senke terskelen for å publisere]], og samla noen kjappe tanker rundt [[rabatt|mitt syn på rabattkoder]].
+I tillegg har jeg lagt ut en kladd hvor jeg snakker om [[kodeverktoy|verktøyene til en dårlig utvikler]] (nemlig meg sjøl). Begynt å skrive om det å [[senke-terskelen-for-publisering|senke terskelen for å publisere]], og samla noen kjappe tanker rundt [[rabatt|mitt syn på rabattkoder]].
 
 ### Gjort det lettere å utforske
 

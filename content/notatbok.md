@@ -18,7 +18,7 @@ Om jeg drar fram telefonen derimot så er det en annen sak.
 
 ## Den digitale ulempa
 
-Jeg rørte vel innom det her i [[ett formål om gangen|ett formål om gangen]], men til og med når jeg bare skal fokusere på å skrive ned et enkelt notat så må jeg altså vurdere mellom tre ulike apper – hvor hører denne tanken hjemme? Og dersom jeg velger Notion må jeg også vurdere om det er relatert til jobb eller fritid. Og det var grunnen til at jeg begynte å bruke Bear mer og mer, som er en lynkjapp app som jeg kun brukte for å skrive noe ned, og ikke bearbeide tanken noe videre.
+Jeg rørte vel innom det her i [[ett-formal|ett formål om gangen]], men til og med når jeg bare skal fokusere på å skrive ned et enkelt notat så må jeg altså vurdere mellom tre ulike apper – hvor hører denne tanken hjemme? Og dersom jeg velger Notion må jeg også vurdere om det er relatert til jobb eller fritid. Og det var grunnen til at jeg begynte å bruke Bear mer og mer, som er en lynkjapp app som jeg kun brukte for å skrive noe ned, og ikke bearbeide tanken noe videre.
 
 ## Ulike faser
 

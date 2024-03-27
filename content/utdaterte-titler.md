@@ -5,7 +5,7 @@ tags:
   - nyhetsbrev
 aliases:
   - utdaterte titler
-title: utdaterte-titler
+title: Utdaterte titler
 publish: true
 slug: utdaterte-titler
 ---

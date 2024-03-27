@@ -7,7 +7,7 @@ aliases:
   - senke terskelen for å publisere
 title: Senke terskelen for å publisere
 publish: true
-slug: terskelen-for-publisering
+slug: senke-terskelen-for-publisering
 ---
 
 Hittil har jeg ikke skrivi noe helt konkret om det å senke terskelen for å publisere, men det skal jeg gjøre seinere.

@@ -33,7 +33,7 @@ For jeg er godt nok kjent med verktøykassa mi nå til at jeg kan klare å fikse
 
 ### Økte forventninger
 
-I det siste har jeg faktisk tenkt mer og mer på deg. Du som leser disse ordene, også har jeg tenkt mindre på hva jeg sjøl har lyst til å skrive om. Selv om jeg veit jo at jeg burde [[skriv for deg selv|skrive for meg selv]], ikke for andre.
+I det siste har jeg faktisk tenkt mer og mer på deg. Du som leser disse ordene, også har jeg tenkt mindre på hva jeg sjøl har lyst til å skrive om. Selv om jeg veit jo at jeg burde [[skriv-for-deg-selv|skrive for meg selv]], ikke for andre.
 
 Ettersom det har blitt flere av dere som følger med føles det som forventningene har økt for å skrive noe fornuftig. Noe som er verdt tida di. Og helst noe som er designrelatert, siden det er den båsen jeg føler at jeg hører til. 
 

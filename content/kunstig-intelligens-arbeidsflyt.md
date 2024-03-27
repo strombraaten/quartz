@@ -7,11 +7,11 @@ tags:
 aliases:
   - Hvordan passer kunstig intelligens inn i arbeidsflyten min?
   - arbeidsflyt for kunstig intelligens
-title: hvordan passer kunstig intelligens inn i arbeidsflyten min?
+title: Hvordan passer kunstig intelligens inn i arbeidsflyten min?
 publish: true
 slug: kunstig-intelligens-arbeidsflyt
 ---
-### Hvordan passer kunstig intelligens inn i arbeidsflyten min?
+## Hvordan passer kunstig intelligens inn i arbeidsflyten min?
 
 Nå veit jeg ikke hvordan det er i kretsene dine, men jeg opplever at det er voldsomt mye prat om kunstig intelligens nå for tida. I ulike former, til ulike formål.
 
@@ -23,7 +23,7 @@ På [variantdagen](https://blog.variant.no/variantdag-trondheim-oktober-22-7da15
 
 Spørsmålet da er hvordan passer det inn i arbeidsflyten min? Eller din forsåvidt, for jeg kan se for meg at det er mange som lurer på det samme.
 
-#### Fokusområder
+### Fokusområder
 
 For min del er det fire interesseområder jeg har i bakhodet:
 

@@ -1,13 +1,13 @@
 ---
 date: 2023-06-11
-lastmod: 2024-03-27
+lastmod: 2023-06-11
 tags:
   - tankemat
 aliases:
   - gode spørsmål
-title: gode spørsmål
+title: Gode spørsmål
 publish: true
-slug:
+slug: gode-sporsmal
 ---
 
 Henger tett sammen med [[oppfolgingssporsmal|oppfølgingsspørsmål]], siden dette handler om hvordan du starter en samtale, men ikke hvordan du får samtalen til å vare lengre.

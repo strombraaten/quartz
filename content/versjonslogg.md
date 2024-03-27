@@ -4,7 +4,7 @@ lastmod: 2024-03-11
 tags:
   - behind-the-scenes
 aliases: 
-title: versjonslogg
+title: Versjonslogg
 publish: true
 slug: versjonslogg
 ---
