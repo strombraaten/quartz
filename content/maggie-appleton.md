@@ -5,6 +5,7 @@ tags:
   - folk
 aliases:
   - Maggie
+  - Maggie Appleton
 title: Maggie Appleton
 publish: true
 ---

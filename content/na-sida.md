@@ -29,7 +29,7 @@ Jeg liker tanken av å vise hva som opptar tankene mine nå for tida. Inspirert 
 ## Fritidstanker
 
 1. Jeg liker tanken av å være en designer som også kan kode.
-	- Trenger ikke kunne alt akkurat, jeg trenger ikke å være god en gang, men bare ha nok forståelse til at jeg kan lage f. eks [den sida du ser på nå](hvordan%20jeg%20har%20lagd%20denne%20sida) 
+	- Trenger ikke kunne alt akkurat, jeg trenger ikke å være god en gang, men bare ha nok forståelse til at jeg kan lage f. eks [den sida du ser på nå](hvordan-jeg-har-lagd-denne-sida.md) 
 
 > [!example]- Tidligere fritidstanker
 > - Skal jeg fokusere på enkeltstående blogginnlegg, altså å "ytre meninger", eller bearbeide såkalte_"evergreen notes"_

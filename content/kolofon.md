@@ -13,4 +13,4 @@ Ordet kolofon er bare en fancy måte å si "her finner du informasjon om hvordan
 
 En bok kan være et fint eksempel, hvor kolofonsidene gjerne sier noe om hvem som lagde omslaget til boka, forfatteren, utgiveren, trykkeriet, og hvilke skrifttyper som er brukt på teksten.
 
-Det kan også være [[hvordan jeg har lagd denne sida]].
+Det kan også være [[hvordan-jeg-har-lagd-denne-sida|hvordan jeg har lagd denne sida]].

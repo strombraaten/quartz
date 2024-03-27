@@ -56,7 +56,7 @@ Jeg har nemlig "retta opp kursen" på linkene som tidligere har ført deg på en
 	- Lagt inn bilder som hadde blitt borte
 - [[simen-sporsmal|Simen-spørsmål]]
 - [[na-sida|nå-sida]]
-- [[hvordan jeg har lagd denne sida|hvordan jeg har lagd denne sida]]
+- [[hvordan-jeg-har-lagd-denne-sida|hvordan jeg har lagd denne sida]]
 
 Om du ikke har hørt meg snakke om [[tk-trikset|tk-trikset]] før så finnes det nå også et eget notat om det, med noen [fun facts fra Thomas Knutstad](https://www.linkedin.com/in/thomasknutstad/).
 
