@@ -3,6 +3,7 @@ date: 2023-06-25
 lastmod: 2023-06-25
 tags:
   - tankemat
+  - nyhetsbrev
 aliases:
   - Hvorfor vedlikeholder vi vaner?
   - hvorfor vi vedlikeholder vaner
