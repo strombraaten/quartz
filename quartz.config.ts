@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     locale: "nb-NO",
     baseUrl: "https://simenskriver.no",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "modified",
+    defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
