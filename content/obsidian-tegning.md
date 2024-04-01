@@ -15,19 +15,19 @@ slug: obsidian-tegning
 
 Noe av det beste med å ha en ukentlig unnskyldning for å sette meg ned å skrive, er at jeg utfordrer meg sjøl til å tenke nye tanker, revurdere gamle tanker, eller bare prøve noe nytt. Denne gangen blir det sistnevnte.
 
-Som du kanskje har fått med deg så har jeg [dykka dypt i Obsidian før](https://simenskriver.no/Hvorfor-jeg-blir-s%C3%A5-gira-av-Obsidian), men det er to områder – to kaninhull, om du vil – som jeg har vært veldig nølende med å dykke ned i. Rett og slett fordi jeg har vært bekymra for hvor omfattende det vil være. Det ene er [dataview](https://blacksmithgu.github.io/obsidian-dataview/), som gjør at du kan f. eks lage en liste over alle notater som har en sjekkboks i seg + hashtagen `#jobb`, for å lage en løpende oversikt over alle oppgavene du har notert ned fra ulike møter.
+Som du kanskje har fått med deg så har jeg [[gira-av-obsidian|dykka dypt i Obsidian før]], men det er to områder – to kaninhull, om du vil – som jeg har vært veldig nølende med å dykke ned i. Rett og slett fordi jeg har vært bekymra for hvor omfattende det vil være. Det ene er [dataview](https://blacksmithgu.github.io/obsidian-dataview/), som gjør at du kan f. eks lage en liste over alle notater som har en sjekkboks i seg + hashtagen `#jobb`, for å lage en løpende oversikt over alle oppgavene du har notert ned fra ulike møter.
 
 Det andre kaninhullet er Excalidraw, som gjør det mulig å lage håndtegna skisser og notater i Obsidian, men også i nettleseren viser det seg.
 
 ## Hva er Excalidraw?
 
-[Excalidraw](https://excalidraw.com/) er på mange måter likt som (MS) [Paint](https://jspaint.app/), som de fleste av dere sikkert kjenner til fra tidlig 2000-tallet. For mange var det kanskje det aller første møtet med [den digitale blyanten](https://buttondown.email/simenskriver/archive/29-en-hyllest-til-den-digitale-blyanten/). Paint er også den beste sammenligninga for å forklare hva Excalidraw er, og hva det ikke er. Du bare tegner, enkelt og greit. Enten om det betyr å faktisk bruke blyanten (enten den digitale, eller på ipaden), eller bruke ulike former og piler, eventuelt å slenge inn noen bilder her og der.
+[Excalidraw](https://excalidraw.com/) er på mange måter likt som (MS) [Paint](https://jspaint.app/), som de fleste av dere sikkert kjenner til fra tidlig 2000-tallet. For mange var det kanskje det aller første møtet med [[blyanten|den digitale blyanten]]. Paint er også den beste sammenligninga for å forklare hva Excalidraw er, og hva det ikke er. Du bare tegner, enkelt og greit. Enten om det betyr å faktisk bruke blyanten (enten den digitale, eller på ipaden), eller bruke ulike former og piler, eventuelt å slenge inn noen bilder her og der.
 
 Du trenger ikke registrere deg som bruker, og finne på nok et nytt passord. Du begynner bare å tegne. Om du vil prøve kan du [enkelt teste Excalidraw i nettleseren din](https://excalidraw.com/). Du kan til og med tegne sammen med andre. Tegningene lagres direkte i nettleseren din, så de er ikke synlig for noen andre enn deg.
 
 ![[images/Simens-skjermbilder-28-01-2024-kl22.38.png]]
 
-Som et alternativ kan du også bruke det gjennom [Obsidian](https://obsidian.md/). Det er der motivasjonen min kommer inn i bildet, siden det også er der jeg har alle notatene mine fra før av. For jeg ser definitivt nytten av å kunne inkludere kjappe skisser inn i notatene mine.
+Som et alternativ kan du også bruke det gjennom [[obsidian]]. Det er der motivasjonen min kommer inn i bildet, siden det også er der jeg har alle notatene mine fra før av. For jeg ser definitivt nytten av å kunne inkludere kjappe skisser inn i notatene mine.
 
 Måten du får lagt det inn i Obsidian er ved å installere det som en community plugin. Om du har lasta ned Obsidian fra før av kan du bruke [denne linken for å hoppe direkte til Excalidraw-pluginen](obsidian://show-plugin?id=obsidian-excalidraw-plugin), eller så kan du også [finne mer info på Github](https://github.com/zsviczian/obsidian-excalidraw-plugin/#readme). Du kan også søke den opp ved å gå til `Settings -> Community plugins -> Browse`, også søke opp Excalidraw derfra.
 
@@ -69,7 +69,7 @@ En fordel du har med Excalidraw riktignok, sammenligna med blant annet Autoflow,
 
 ## Bruk i Obsidian
 
-Alt det du ser på bildet befinner seg altså i Obsidian-appen. For at du skal se det tydelig har jeg riktignok tegningen i fullskjermmodus, men personlig liker jeg å ha notatet (hvor jeg skriver ordene du leser nå) på én side, og muligheten for å lage tegningene på den andre sida.
+Alt det du ser på bildet befinner seg altså i [[Obsidian]]-appen. For at du skal se det tydelig har jeg riktignok tegningen i fullskjermmodus, men personlig liker jeg å ha notatet (hvor jeg skriver ordene du leser nå) på én side, og muligheten for å lage tegningene på den andre sida.
 
 ![[images/Simens-skjermbilder-28-01-2024-kl22.31.png]]
 
