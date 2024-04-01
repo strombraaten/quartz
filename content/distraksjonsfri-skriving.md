@@ -175,7 +175,7 @@ Samtidig er det noe fristende med en maskin som gjør én ting, og er utelukkend
 
 Med det i tankene er det såklart noen som har lagd sine egne versjoner av en moderne skrivemaskin.
 
-Én mulighet er å kombinere et nettbrett med en e-ink-skjerm (som [Boox Palma](https://shop.boox.com/collections/eink-tablet/products/palma)), og koble det til et bluetooth-tastatur, som du kan se i [denne videoen fra Work From Hype](https://www.youtube.com/watch?v=AkZrlsByNm0).
+Én mulighet er å kombinere et nettbrett med en e-ink-skjerm (som [Boox Palma](https://shop.boox.com/collections/eink-tablet/products/palma)), og koble det til [et bluetooth-tastatur](https://www.amazon.com/dp/B0C7VY5G5C?th=1&linkId=8be684589ca4ff382dfc422ce5e7fe97&language=en_US), som du kan se i [denne videoen fra Work From Hype](https://www.youtube.com/watch?v=AkZrlsByNm0).
 
 ![[images/work-from-hype-boox-palma.png]]
 
