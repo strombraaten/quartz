@@ -48,7 +48,7 @@ En digital hage lar meg velge rekkefølgen til en viss grad, og velge hva jeg vi
 
 Jeg har begynt å utforske mulighetene, som jeg kan få til uten å måtte lære meg så altfor mye kodegreier. For jeg må holde terskelen noenlunde lav for å faktisk klare å gjennomføre. Mer om det kommer etterhvert.
 
-Det er godt mulig jeg endrer på det etterhvert, men er det en ting jeg har lært de siste årene så er det å følge nysgjerrigheten min. Livet er som regel mer moro da.
+Det er godt mulig jeg endrer på det etterhvert, men er det en ting jeg har lært de siste årene så er det å [[folg-nysgjerrigheten|følge nysgjerrigheten]] min. Livet er som regel mer moro da.
 
 ---
 

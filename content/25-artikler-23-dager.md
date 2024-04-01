@@ -29,9 +29,9 @@ Så hva har jeg egentlig lært av å skrive 25 av artikler på 23 dager. Jo, det
 
 ### Verdien av å skrive på flere ideer samtidig
 
-I [[linking-your-thinking]] snakka jeg om hvordan jeg ikke legger alle "skrive-eggene" mine i én kurv. At ved å fordele min totale skrivekapasitet en gitt dag utover flere artikkel-ideer, flere notater, så setter jeg meg sjeldnere fast.
+I [[linking-your-thinking|linking your thinking]] snakka jeg om hvordan jeg ikke legger alle "skrive-eggene" mine i én kurv. At ved å fordele min totale skrivekapasitet en gitt dag utover flere artikkel-ideer, flere notater, så setter jeg meg sjeldnere fast.
 
-For om jeg setter meg fast på en idé så hopper jeg bare videre til den neste. For å sitere meg sjøl fra [[en tanke i utvikling|en tanke i utvikling]]:
+For om jeg setter meg fast på en idé så hopper jeg bare videre til den neste. For å sitere meg sjøl fra [[tanke-i-utvikling|en tanke i utvikling]]:
 
 > Samtidig er det ikke alle dager jeg har en fullkommen tanke å dele. Og det er lettere for meg å skrive *litt* på *flere* notater, enn det er å fullføre ett enkelt.
 
@@ -63,7 +63,7 @@ I denne teksten skreiv jeg f. eks introduksjonen midt i dokumentet. Den hører j
 
 Eksempel på at ideer må utdypes der de oppstår, uavhengig av struktur
 
-Ofte skriver jeg to-tre avsnitt som viste seg å passe bedre inn i en helt annen artikkel, men da er orda allerede til stedet, så det eneste jeg trenger å gjøre da er å flytte det dit det hører hjemme. Det blir en helt annen grei dersom du skal først tenke over "hvor hører disse tankene hjemme?".
+Ofte skriver jeg to-tre avsnitt som viste seg å passe bedre inn i en helt annen artikkel, men da er orda allerede til stedet, så det eneste jeg trenger å gjøre da er å flytte det dit det hører hjemme. Det blir en helt annen greie dersom du skal først tenke over "hvor hører disse tankene hjemme?".
 
 ![[images/Simens skjermbilder 23-12-2022- kl 09.51.44@2x.png]]
 
@@ -73,7 +73,7 @@ Lærdommen er altså å fokusere på skriving først, og ikke hvor de ulike avsn
 
 I løpet av de siste 23 dagene har jeg prøvd meg på nye tilnærminger til skriving som jeg aldri hadde tenkt på før.
 
-Jeg delte [[en tanke i utvikling|tanker som ikke jeg anså som "ferdig"]], som heller var under utvikling. For å oppdatere om hvilke endringer som var gjort begynte jeg å lage en versjonslogg, inspirert av hvordan endringer i apper kommuniseres i app store.
+Jeg delte [[tanke-i-utvikling|tanker som ikke jeg anså som "ferdig"]], som heller var under utvikling. For å oppdatere om hvilke endringer som var gjort begynte jeg å lage en versjonslogg, inspirert av hvordan endringer i apper kommuniseres i app store.
 
 For å motivere meg til å finne flere ideer jeg kunne skrive så [[skrive-mer-om|delte jeg lista jeg kom fram til]]. Og for å lære meg "the ins and outs" av en ny app jeg blei tipsa om så lagde jeg en [[den-ene-funksjonen|steg-for-steg-forklaring om hvordan den fungerte]].
 

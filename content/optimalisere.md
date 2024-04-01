@@ -43,7 +43,7 @@ Jeg har kanskje ikke lest boka, men jeg har da fått med meg noen gullkorn her o
 
 Nå skal det sies at det er sjeldent jeg setter meg ned for å gjøre en "post-choice evaluation", men jeg skjønner jo tanken. I [en artikkel som heter Maximising versus Satisficing: Happiness is a matter of choise"](https://sonjalyubomirsky.com/wp-content/themes/sonjalyubomirsky/papers/SWMLWL2002.pdf) snakker han og noen andre forskere om at det også er en større sannsynlighet for å sammenligne seg selv med andre, blant folk som optimaliserer framfor å fornøydifisere.
 
-Om du ikke har lest det tidligere så har jeg forresten dykka ned i [historien om sosial sammenligning](https://buttondown.email/simenskriver/archive/27-om-sammenligning/) i et tidligere nyhetsbrev, og hvordan vi kan vinkle det til noe positivt.
+Om du ikke har lest det tidligere så har jeg forresten dykka ned i [[sammenligning|historien om sosial sammenligning]] i et tidligere nyhetsbrev, og hvordan vi kan vinkle det til noe positivt.
 
 Utfordringa med å leite etter det *beste* er at det alltid vil dukke opp noe som er bedre. Om ikke i dag eller imorra så iallefall om et år eller to. Ta hodetelefoner som et eksempel.
 

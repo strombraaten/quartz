@@ -3,7 +3,8 @@ date: 2022-12-16
 lastmod: 2024-03-07
 tags:
   - apper
-aliases: 
+aliases:
+  - linking your thinking
 title: Linking your thinking
 publish: true
 slug: linking-your-thinking

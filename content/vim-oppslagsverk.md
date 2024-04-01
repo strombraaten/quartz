@@ -87,6 +87,7 @@ Om du vil slette flere linjer samtidig kan du spesifisere antallet først. Om du
 | `u`          | Angre siste handling                              |
 | `U` (stor u) | Angre alle handlingene på linja du befinner deg i |
 | `ctrl + r`   | Angre på angringa / Gjør endringen igjen          |
+| `g+` & `g-`  | Angre                                             |
 
 ### Erstatt
 
@@ -136,12 +137,12 @@ Når musepekeren er t til venstre for ordet/ordene du vil fjerne, kan du skrive 
 
 Piltastene kan også kombineres med en såkalt *teller*, hvor du spesifiserer hvor langt du vil bevege deg i ett hopp. 
 
-| Kommando     | Forklaring                                                 |
-| ------------ | ---------------------------------------------------------- |
-|  `3k`        | Flytter deg 3 linjer opp (k = oppover-pil)                 |
-|  `3j`        | Flytter deg 3 linjer nedover (j = oppover-pil)             |
-|  `3h`        | Flytter deg 3 bokstaver/tegn til venstre (h = venstre-pil) |
-| `3l`         | Flytter deg 3 bokstaver/tegn til høyre (l = høyre-pil)     |
+| Kommando | Forklaring                                                 |
+| -------- | ---------------------------------------------------------- |
+| `3k`     | Flytter deg 3 linjer opp (k = oppover-pil)                 |
+| `3j`     | Flytter deg 3 linjer nedover (j = oppover-pil)             |
+| `3h`     | Flytter deg 3 bokstaver/tegn til venstre (h = venstre-pil) |
+| `3l`     | Flytter deg 3 bokstaver/tegn til høyre (l = høyre-pil)     |
 
 ## Usorterte notater
 
@@ -156,3 +157,10 @@ Piltastene kan også kombineres med en såkalt *teller*, hvor du spesifiserer hv
 	- Om du bruker `diw` (delete in word) derimot så sletter du hele ordet uansett hvor musepekeren din er
 - Faktisk så er det noen regler som går igjen. For du kan skille mellom operatorer og bevegelser
 - `c` + commando for change. feks`ci"` for å endre innhold inni “her”, eller`cw` for å endre ordet. `ciw` (change in word) sletter et ord og går i insert mode der ordet var
+- `y` er "yank", som er det samme som å kopiere. `p` er "paste", altså å lime inn.
+	- Det blir det samme som `cmd + c` og `cmd + v`
+	- **`y`** to yank (copy) the content
+	- **`p`** to put (paste) the content
+- **`v`** (lowercase) to start selecting individual characters
+- **`V`** (uppercase) to select the entire line
+- **`Ctrl+v`** to select by block
