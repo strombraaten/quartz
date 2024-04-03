@@ -1,12 +1,12 @@
 ---
 date: 2023-11-05
-lastmod: 2023-11-05
+lastmod: 2024-04-03
 tags:
   - nyhetsbrev
   - design
 aliases:
   - innsiktsbibliotek som eksperiment
-title: Innsiktsbibliotek som eksperiment
+title: innsiktsbibliotek
 publish: true
 slug: innsiktsbibliotek
 ---
@@ -106,17 +106,19 @@ Både for at det skal være lettere å kunne introdusere en lavterskels-løsning
 
 ### Hvordan laster du ned din egen kopi?
 
-For å senke terskelen har jeg lagd et par steg-for-steg-filmer som viser deg [hvordan du kommer i gang](https://github.com/varianter/demo-innsiktsbibliotek#hvordan-komme-i-gang), og [hvordan du deler endringene dine med andre](https://github.com/varianter/demo-innsiktsbibliotek#hvordan-dele-endringene-dine-med-andre). 
+For å senke terskelen har jeg lagd et par steg-for-steg-filmer til deg. 
 
-<link rel="stylesheet" href="node_modules/lite-youtube-embed/src/lite-yt-embed.css" />
+#### Hvordan du kommer i gang
 
-<script src="node_modules/lite-youtube-embed/src/lite-yt-embed.js"></script>
+<lite-youtube videoid="aO0mAaitUZ4" playlabel="Play: Hvordan du kommer i gang med innsiktsbiblioteket i Obsidian"></lite-youtube>
 
-<lite-youtube videoid="aO0mAaitUZ4" playlabel="Play: Hvordan komme i gang med innsiktsbiblioteket i Obsidian"></lite-youtube>
+#### Hvordan du deler endringene med andre
 
-![[Simens-skjermbilder-05-11-2023-kl21.31.png]]
+<lite-youtube videoid="DMUQbV-RSRI" playlabel="Play: Hvordan du gjør endringer i innsiktsbiblioteket"></lite-youtube>
+
+<lite-youtube videoid="aO0mAaitUZ4" playlabel="Play: Hvordan du kommer i gang med innsiktsbiblioteket i Obsidian"></lite-youtube>
+### Bonus
 
 Om du laster ned din egen kopi så husk å skriv deg opp i gjesteboka! 👋
 
 ![[Simens-skjermbilder-05-11-2023-kl21.54.png]]
-
