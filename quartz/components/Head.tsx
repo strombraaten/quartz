@@ -46,7 +46,7 @@ export default (() => {
           .map((res) => JSResourceToScriptElement(res, true))}
         <script src="https://tinylytics.app/embed/yeW5HoX3FJHdsswz69gg.js" defer></script>
         <link rel="stylesheet" href="/static/lite-youtube-embed/src/lite-yt-embed.css" />
-        <script src="/quartz/static/lite-youtube-embed/src/lite-yt-embed.js"></script>
+        <script src="/static/lite-youtube-embed/src/lite-yt-embed.js"></script>
       </head>
     )
   }
