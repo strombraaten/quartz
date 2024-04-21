@@ -1,11 +1,18 @@
 ---
-date: 2024-04-06
-lastmod: 2024-04-06
-tags: 
-aliases: 
+date: 2024-04-21
+lastmod: 2024-04-21
+tags:
+  - nyhetsbrev
+  - AI
+  - teknologi
+  - tankemat
+aliases:
+  - Kunstig intelligens som sparringspartner
+  - AI som sparringspartner
+  - hvordan du kan bruke kunstig intelligens som sparringspartner
 title: kunstig-intelligens-som-sparringspartner
-publish: 
-slug: 
+publish: true
+slug: kunstig-intelligens-som-sparringspartner
 ---
 ## Intro
 
