@@ -13,7 +13,7 @@ slug: kunstig-intelligens
 
 *AI* og *kunstig intelligens* er ordene jeg kommer til å bruke. Teknisk sett burde jeg nok forkorte det til KI for å holde fast på det norske språk, men jeg opplever det heller som forvirrende når resten av verden snakker om AI.
 
-En ting man må tenke på er [[hvordan-snakke-med-en-maskin]]? Hvordan veit jeg at det den sier er sant?
+En ting man må tenke på er [[hvordan-snakke-med-en-maskin|hvordan du snakker med en maskin]]. Hvordan veit jeg at det den sier er sant?
 
 ## For de spesielt interesserte
 
