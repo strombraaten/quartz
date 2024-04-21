@@ -10,7 +10,7 @@ aliases:
   - Kunstig intelligens som sparringspartner
   - AI som sparringspartner
   - hvordan du kan bruke kunstig intelligens som sparringspartner
-title: kunstig-intelligens-som-sparringspartner
+title: Kunstig intelligens som sparringspartner
 publish: true
 slug: kunstig-intelligens-som-sparringspartner
 ---
