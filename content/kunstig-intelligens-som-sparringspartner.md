@@ -22,7 +22,7 @@ I det siste har jeg tenkt mye på det å bruke [[kunstig-intelligens|kunstig int
 
 På mange måter overlapper det med [[metaforiske-mentorer|rubberduck-konseptet]], som går ut på å øke din egen forståelse for en problemstilling ved å forklare det for noen andre. Eventuelt en gummiand hvis du ikke har noen andre å forklare det til, derav navnet.
 
-Ikke bare har jeg *tenkt* på å bruke AI som en sparringspartner, men jeg har også gjort brukt en god del. Og følelsen jeg sitter med nå er at det er ganske så *revolusjonerende*. Det er neimen ikke et ord jeg bruker ofte, så la meg heller vise deg hva som er så imponerende.
+Ikke bare har jeg *tenkt* på å bruke AI som en sparringspartner, men jeg har også brukt det en god del. Og følelsen jeg sitter med nå er at det er ganske så *revolusjonerende*. Det er neimen ikke et ord jeg bruker ofte, så la meg heller vise deg hva som er så imponerende.
 
 ![[images/AI-som-samtalepartner-720.mov|AI-som-samtalepartner-720]]
 
