@@ -10,7 +10,7 @@ title: Ekspert-testing som en del av designprosessen
 publish: true
 slug: ekspert-testing
 ---
-I boka ["Don't make me think"](https://www.goodreads.com/book/show/209060.Dont_Make_Me_Think_Revisited) snakker Steve Krug om noe han kaller "expert usability review", og det er et konsept som er verdt å utforske litt nærmere.
+I boka ["Don't make me think"](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited?from_search=true&from_srp=true&qid=MwSkLWxcUt&rank=1) snakker Steve Krug om noe han kaller "expert usability review", og det er et konsept som er verdt å utforske litt nærmere.
 
 ## Hva handler boka om
 
