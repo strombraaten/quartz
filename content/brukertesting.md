@@ -6,6 +6,7 @@ tags:
 aliases:
   - Fortløpende brukertesting, og verdien av det
   - brukertesting
+  - verdien av fortløpende brukertesting
 title: Fortløpende brukertesting, og verdien av det
 publish: true
 slug: brukertesting
