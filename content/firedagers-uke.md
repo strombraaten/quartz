@@ -3,6 +3,7 @@ date: 2024-06-12
 lastmod: 2024-06-12
 tags:
   - tankemat
+  - nyhetsbrev
 aliases:
   - firedagers uke
   - fridager med intensjon
