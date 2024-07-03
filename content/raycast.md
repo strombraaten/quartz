@@ -12,6 +12,8 @@ I sin enkleste form bruker du bare Raycast for å åpne apper på dataen din. De
 
 > [!Tip] [Last ned Raycast her](https://www.raycast.com/?via=simen)
 > Raycast kan brukes helt gratis, men om du vil teste proff-funksjonene i en måned kan du bruke linken ovenfor. Om du liker det, og velger å abonnere på det (som jeg har gjort de siste to årene) får jeg også 30 % av den årlige prisen. Det er altså en indirekte måte å støtte skrivinga mi på.
+> 
+> Om du er skeptisk kan du lese mer om [hvordan rabattprogrammet til Raycast funker her](https://www.raycast.com/settings/affiliate).
 
 Om du kun bruker de innebygde funksjonene som er der fra før av så er det mer enn nok. Du trenger ikke mer enn det. Men. Jeg har såklart dykka dypere enn som så. Raycast er nemlig basert på at alle kan lage egne "utvidelser" som de kalles. Det er faktisk en slags [app store for alle de utvidelsene](https://www.raycast.com/store), hvor du kan bla gjennom og se om det er noe du liker.
 
