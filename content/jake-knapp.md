@@ -6,7 +6,7 @@ tags:
 aliases:
   - Jake Knapp
   - Gleden av å gi et kompliment
-title: jake knapp
+title: Jake Knapp
 publish: true
 slug: jake-knapp
 ---

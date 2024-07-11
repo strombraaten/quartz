@@ -7,7 +7,7 @@ tags:
 aliases:
   - om å bruke det du lærer
   - bruk det du lærer
-title: om å bruke det du lærer
+title: Om å bruke det du lærer
 publish: true
 slug: bruk-det-du-larer
 ---

@@ -5,7 +5,7 @@ tags:
   - tankemat
 aliases:
   - Hvorfor jeg går rundt med en notatbok i lomma
-title: hvorfor jeg går rundt med en notatbok i lomma
+title: Hvorfor jeg går rundt med en notatbok i lomma
 publish: true
 slug: notatbok
 ---

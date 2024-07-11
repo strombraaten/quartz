@@ -6,7 +6,7 @@ tags:
 aliases:
   - det er noe feil med blogging som konsept
   - Det er noe feil med blogging som konsept
-title: det er noe feil med blogging som konsept
+title: Det er noe feil med blogging som konsept
 publish: true
 slug: blogging-som-konsept
 ---

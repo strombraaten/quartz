@@ -4,7 +4,7 @@ lastmod: 2024-03-07
 tags:
   - teknologi
 aliases: 
-title: emneknagger
+title: Emneknagger
 publish: true
 slug: emneknagger
 ---

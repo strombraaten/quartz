@@ -5,7 +5,7 @@ tags:
   - tankemat
 aliases:
   - bedragersyndromet
-title: imposter syndrome
+title: Imposter syndrome
 publish: true
 slug: imposter-syndrome
 ---

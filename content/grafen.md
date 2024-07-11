@@ -4,7 +4,7 @@ lastmod: 2024-03-08
 tags: 
 aliases:
   - interaktive graf
-title: den interaktive grafen
+title: Den interaktive grafen
 publish: true
 slug: grafen
 ---

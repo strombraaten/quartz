@@ -6,7 +6,7 @@ tags:
   - behind-the-scenes
 aliases:
   - hvordan jeg har lagd denne sida
-title: hvordan jeg har lagd denne sida
+title: Hvordan jeg har lagd denne sida
 publish: true
 slug: hvordan-jeg-har-lagd-denne-sida
 ---

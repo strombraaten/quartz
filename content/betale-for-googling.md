@@ -8,7 +8,7 @@ aliases:
   - kagi
   - betale for søketjenesten
   - hva om du hadde betalt for å google
-title: hva om du hadde betalt for å google?
+title: Hva om du hadde betalt for å google?
 publish: true
 slug: betale-for-googling
 ---

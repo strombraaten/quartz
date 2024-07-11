@@ -5,7 +5,7 @@ tags:
   - tankemat
 aliases:
   - eksperimenter
-title: eksperimenter i hverdagen
+title: Eksperimenter i hverdagen
 publish: true
 slug: eksperimenter
 ---

@@ -5,7 +5,7 @@ tags:
   - tankemat
   - skriving
 aliases: 
-title: å skrive er som å ha en samtale med seg selv
+title: Å skrive er som å ha en samtale med seg selv
 publish: true
 slug: samtale-med-seg-selv
 ---

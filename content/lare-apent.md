@@ -5,7 +5,7 @@ tags:
   - læring
 aliases:
   - å lære åpent
-title: å lære åpent
+title: Å lære åpent
 publish: true
 slug: lare-apent
 ---

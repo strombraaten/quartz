@@ -4,7 +4,7 @@ lastmod: 2024-03-07
 tags:
   - apper
 aliases: 
-title: hurtigtaster
+title: Hurtigtaster
 publish: true
 slug: hurtigtaster
 ---

@@ -1,7 +1,7 @@
 ---
 date: 2023-05-07
 lastmod: 2023-05-07
-title: hva andre mener om det jeg skriver
+title: Hva andre mener om det jeg skriver
 tags:
   - skriving
 publish: true

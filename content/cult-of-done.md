@@ -5,7 +5,7 @@ tags:
   - tankemat
 aliases:
   - the cult of done
-title: the cult of done
+title: The cult of done
 publish: true
 slug: cult-of-done
 ---

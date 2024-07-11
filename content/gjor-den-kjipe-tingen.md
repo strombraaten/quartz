@@ -4,7 +4,7 @@ lastmod: 2023-06-18
 tags:
   - tankemat
 aliases: 
-title: gjør den kjipe tingen
+title: Gjør den kjipe tingen
 publish: true
 slug: gjor-den-kjipe-tingen
 ---

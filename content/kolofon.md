@@ -4,7 +4,7 @@ lastmod: 2024-03-08
 tags:
   - språk
 aliases: 
-title: kolofon
+title: Kolofon
 publish: true
 slug: kolofon
 ---

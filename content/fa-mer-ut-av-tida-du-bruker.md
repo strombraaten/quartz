@@ -3,7 +3,8 @@ date: 2022-12-01
 lastmod: 2022-12-01
 tags:
   - tankemat
-aliases: 
+aliases:
+  - få mer ut av tida di
 title: Få mer ut av tida du allerede bruker
 publish: true
 slug: tida-du-bruker

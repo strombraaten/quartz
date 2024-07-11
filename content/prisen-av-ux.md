@@ -5,7 +5,7 @@ tags:
   - design
 aliases:
   - prisen av en dårlig brukeropplevelse
-title: prisen av en dårlig brukeropplevelse
+title: Prisen av en dårlig brukeropplevelse
 publish: true
 slug: prisen-av-ux
 ---

@@ -4,7 +4,7 @@ lastmod: 2024-06-30
 tags:
   - nyhetsbrev
 aliases: 
-title: abonnementer-og-sommerferie
+title: Abonnementer og sommerferie
 publish: true
 slug: abonnementer-og-sommerferie
 ---

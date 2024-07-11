@@ -5,7 +5,7 @@ tags:
   - tankemat
 aliases:
   - Parkinsons lov
-title: fyller arbeidet tida du har tilgjengelig?
+title: Fyller arbeidet tida du har tilgjengelig?
 publish: true
 slug: parkinsons-lov
 ---

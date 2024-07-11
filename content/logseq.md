@@ -4,7 +4,7 @@ lastmod: 2023-10-29
 tags:
   - apper
 aliases: 
-title: logseq
+title: Logseq
 publish: true
 slug: logseq
 ---

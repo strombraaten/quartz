@@ -5,7 +5,7 @@ tags:
   - læring
 aliases:
   - HTML
-title: html
+title: HTML
 publish: true
 slug: html
 ---

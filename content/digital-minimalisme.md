@@ -6,7 +6,7 @@ tags:
   - tankemat
 aliases:
   - digital minimalisme
-title: digital minimalisme
+title: Digital minimalisme
 publish: true
 slug: digital-minimalisme
 ---

@@ -6,7 +6,7 @@ tags:
 aliases:
   - cleanshot
   - den ene funksjonen
-title: den ene funksjonen
+title: Den ene funksjonen
 publish: true
 slug: den-ene-funksjonen
 ---

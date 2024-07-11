@@ -6,7 +6,7 @@ tags:
   - design
 aliases:
   - innsiktsbibliotek som eksperiment
-title: innsiktsbibliotek
+title: Innsiktsbibliotek
 publish: true
 slug: innsiktsbibliotek
 ---

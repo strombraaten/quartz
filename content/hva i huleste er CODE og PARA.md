@@ -5,7 +5,7 @@ tags:
   - teknologi
   - skriving
 aliases: 
-title: hva i huleste er CODE og PARA
+title: Hva i huleste er CODE og PARA
 publish: true
 ---
 

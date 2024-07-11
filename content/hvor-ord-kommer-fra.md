@@ -5,7 +5,7 @@ tags:
   - språk
 aliases:
   - hvor ord egentlig kommer fra
-title: hvor ord egentlig kommer fra
+title: Hvor ord egentlig kommer fra
 publish: true
 slug: hvor-ord-kommer-fra
 ---

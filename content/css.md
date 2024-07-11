@@ -4,7 +4,7 @@ lastmod: 2024-03-07
 tags:
   - læring
 aliases: 
-title: css
+title: CSS
 publish: true
 slug: css
 ---

@@ -1,13 +1,13 @@
 ---
 date: 2023-09-17
 lastmod: 2023-09-17
-title: digital klisterhjerne
 tags:
   - apper
   - læring
 aliases:
   - readwise
   - digital klisterhjerne
+title: Digital klisterhjerne
 publish: true
 slug: klisterhjerne
 ---
