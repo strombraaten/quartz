@@ -27,11 +27,6 @@ const defaultOptions = {
       })
     }
 
-    // Do not render on 'index' page
-    if (fileData.slug === 'index') {
-      return null;
-    }
-
     if (a.file && !b.file) {
       return 1
     } else {
@@ -86,6 +81,12 @@ export default ((userOpts?: Partial<Options>) => {
     displayClass,
     fileData,
   }: QuartzComponentProps) => {
+
+     // Do not render on 'index' page
+    if (fileData.slug === 'index') {
+      return null;
+    }
+    
     constructFileTree(allFiles)
     return (
       <div class={classNames(displayClass, "explorer")}>
