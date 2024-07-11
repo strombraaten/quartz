@@ -6,7 +6,7 @@ tags:
 aliases:
   - Zettelkasten
   - en introduksjon til Zettelkasten
-title: en introduksjon til Zettelkasten
+title: En introduksjon til Zettelkasten
 publish: true
 slug: zettelkasten
 ---

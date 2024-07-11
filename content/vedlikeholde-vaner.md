@@ -5,7 +5,7 @@ tags:
   - tankemat
 aliases:
   - vaner
-title: hvorfor vedlikeholder vi vaner
+title: Hvorfor vedlikeholder vi vaner
 publish: true
 slug: vedlikeholde-vaner
 ---

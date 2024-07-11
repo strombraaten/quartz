@@ -3,9 +3,9 @@ date: 2024-03-26
 lastmod: 2024-03-26
 tags: 
 aliases: 
-title: vim-arbeidsflyt
+title: Arbeidsflyt med Vim
 publish: 
-slug: 
+slug:
 ---
 
 ## Hva er det jeg har lært så langt?

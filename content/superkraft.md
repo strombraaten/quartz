@@ -4,7 +4,7 @@ lastmod: 2024-02-01
 tags:
   - tankemat
 aliases: 
-title: anerkjenn din egen superkraft
+title: Anerkjenn din egen superkraft
 publish: true
 slug: superkraft
 ---

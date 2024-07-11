@@ -5,7 +5,7 @@ tags:
   - skriving
 aliases:
   - hva vil du at jeg skal skrive mer om
-title: hva vil du at jeg skal skrive mer om?
+title: Hva vil du at jeg skal skrive mer om?
 publish: true
 slug: skrive-mer-om
 ---

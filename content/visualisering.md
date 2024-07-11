@@ -6,7 +6,7 @@ tags:
   - design
 aliases:
   - skap en felles forståelse ved å visualisere
-title: skap en felles forståelse ved å visualisere
+title: Skap en felles forståelse ved å visualisere
 publish: true
 slug: visualisering
 ---

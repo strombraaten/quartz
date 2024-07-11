@@ -5,7 +5,7 @@ tags:
   - skriving
   - tankemat
 aliases: 
-title: stadier av gjennomtenkthet
+title: Stadier av gjennomtenkthet
 publish: true
 slug: stadier-av-gjennomtenkthet
 ---

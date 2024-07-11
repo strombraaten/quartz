@@ -4,7 +4,7 @@ lastmod: 2024-03-24
 tags:
   - apper
 aliases: 
-title: rocket
+title: Rocket
 publish: true
 slug: rocket
 ---

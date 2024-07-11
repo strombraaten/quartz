@@ -1,3 +1,12 @@
+---
+date: 2024-07-11
+lastmod: 2024-07-11
+tags: 
+aliases: 
+title: Samtalekort-appen
+publish: true
+slug: samtalekort-appen
+---
 
 Jeg holder på utforske tanken av Samtalekorta som iphone-app, og da har jeg veldig lyst på innspill fra deg, som en av de desidert mest aktive samtalekort-brukerne ❤️For jeg prøver å finne ut hva som er avgjørende for at det skal bli en god brukeropplevelse (å bruke samtalekort som app altså).
 
@@ -14,4 +23,3 @@ Aner ikke om jeg skulle f. Eks solgt appen til samme pris som den fysiske pakka 
 - I hva slags situasjoner er det korta brukes?
 - Hvordan innleder personen bruk av korta?
 	- Hvordan kan jeg gjøre det mindre kleint å faktisk "bruke" samtalekort?
-	

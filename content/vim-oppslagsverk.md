@@ -5,7 +5,7 @@ tags:
   - teknologi
 aliases:
   - et oppslagsverk for Vim
-title: et oppslagsverk for Vim
+title: Et oppslagsverk for Vim
 publish: true
 slug: vim-oppslagsverk
 ---

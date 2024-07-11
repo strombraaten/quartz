@@ -6,7 +6,7 @@ tags:
 aliases:
   - skriveprosessen min på 6 minutter
   - skriveprosessen
-title: skriveprosessen min på 6 minutter
+title: Skriveprosessen min på 6 minutter
 publish: true
 slug: skriveprosessen
 ---

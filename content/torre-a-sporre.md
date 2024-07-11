@@ -5,7 +5,7 @@ tags:
   - nyhetsbrev
 aliases:
   - å tørre og spørre
-title: om det å tørre og spørre
+title: Å tørre og spørre
 publish: true
 slug: torre-a-sporre
 ---

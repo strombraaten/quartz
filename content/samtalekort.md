@@ -4,7 +4,7 @@ lastmod: 2024-07-11
 tags:
   - prosjekter
 aliases: 
-title: samtalekort
+title: Samtalekort
 publish: true
 slug: samtalekort
 ---

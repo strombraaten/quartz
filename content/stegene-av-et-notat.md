@@ -5,7 +5,7 @@ tags:
   - skriving
 aliases:
   - de ulike stegene av et notat
-title: de ulike stegene av et notat
+title: De ulike stegene av et notat
 publish: true
 slug: stegene-av-et-notat
 ---

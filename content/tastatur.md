@@ -7,7 +7,7 @@ tags:
 aliases:
   - tastatur
   - betydningen av at noe er enkelt
-title: tastatur
+title: Tastatur
 publish: true
 slug: tastatur
 ---

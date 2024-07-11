@@ -5,7 +5,7 @@ tags:
   - skriving
 aliases:
   - en tanke i utvikling
-title: en tanke i utvikling
+title: En tanke i utvikling
 publish: true
 slug: tanke-i-utvikling
 ---

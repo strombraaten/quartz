@@ -5,7 +5,7 @@ tags:
   - tankemat
   - teknologi
 aliases: 
-title: skjermbilder
+title: Skjermbilder
 publish: true
 slug: skjermbilder
 ---

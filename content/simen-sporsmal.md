@@ -6,7 +6,7 @@ tags:
 aliases:
   - Simen-spørsmål
   - hva er egentlig et Simen-spørsmål
-title: hva er egentlig et simen-spørsmål?
+title: Hva er egentlig et simen-spørsmål?
 publish: true
 slug: simen-sporsmal
 ---

@@ -6,7 +6,7 @@ tags:
   - design
   - kode
 aliases: 
-title: om det å snakke samme språk
+title: Om det å snakke samme språk
 publish: true
 slug: snakke-samme-sprak
 ---
