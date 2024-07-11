@@ -5,6 +5,7 @@ title: hva andre mener om det jeg skriver
 tags:
   - skriving
 publish: true
+slug: hva-andre-mener-om-det-jeg-skriver
 ---
 
 I ny og ne får jeg tilbakemeldinger på det jeg skriver. I blant er det en feil som pekes ut (som jeg setter utrolig pris på, for det vil jeg såklart fikse opp i), og andre ganger er det noe dere har satt pris.
