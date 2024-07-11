@@ -39,7 +39,7 @@ export default {
       title: "Notatkart",
     },
     recentNotes: {
-      title: "Nylig oppdaterte notater",
+      title: "Alle notater",
       seeRemainingMore: ({ remaining }) => `Se ${remaining} til →`,
     },
     transcludes: {
