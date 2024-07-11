@@ -8,11 +8,6 @@ import { QuartzPluginData } from "../plugins/vfile"
 import { classNames } from "../util/lang"
 import { i18n } from "../i18n"
 
-// Do not render on 'index' page
-if (fileData.slug === 'index') {
-  return null;
-}
-
 // Options interface defined in `ExplorerNode` to avoid circular dependency
 const defaultOptions = {
   folderClickBehavior: "collapse",
@@ -30,6 +25,11 @@ const defaultOptions = {
         numeric: true,
         sensitivity: "base",
       })
+    }
+
+    // Do not render on 'index' page
+    if (fileData.slug === 'index') {
+      return null;
     }
 
     if (a.file && !b.file) {
