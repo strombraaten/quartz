@@ -236,6 +236,12 @@ Noen av dere husker kanskje at jeg har fortalt om hvordan jeg prøver å [[oppme
 
 Jeg er nemlig smertelig klar over hvor avhengig jeg kan være av telefonen min i blant. Og det prøver jeg å motarbeide så godt jeg kan. Enten om det er ved å slette instagram-appen (ikke kontoen riktignok), sette telefonen i flymodus også videre. Så jeg blei såklart gira da jeg så Brandon Shaw snakke om [hvordan han hadde dumma ned telefonen sin](https://youtu.be/_L-WUrZ7tJM?si=6nwoh3ykGaCowZp1&t=139) for å gjøre den mindre spennende å bruke.
 
+Utvikleren av Dumb-phone-appen, [Michael Tigas](https://bento.me/michaeltigas), sa det egentlig på en veldig fin måte:
+
+> I wanted to permanently reduce the amount of visual distractions when I pick up and use my phone, such as colorful app icons and wallpapers, since I would always naturally be drawn towards them.
+> 
+> After creating Dumb Phone and using it every day for over a month, my screen time has nosedived. I notice I’m only opening apps if I really need to use them, since I no longer see their icon and associate it with the dopamine rush I’d get when tapping it.
+
 Personlig så elsker jeg internett altså, men jeg vil gjøre det jeg kan for å være en mindre passiv forbruker. Og heller tilrettelegge for å skape mer – enten det er nyhetsbrev, artikler, eller generelt nye tanker jeg ikke har tenkt på før. Eller nye minner. For selv om jeg kan kose meg med å se på youtube en kveld så leder det sjeldent til et minneverdig øyeblikk, som jeg ser tilbake på når uka eller året er omme.
 
 Om du gir det her et forsøk vil jeg veldig gjerne høre fra deg. Send meg en mail på strombraaten@gmail.com, eller bli med i [discord-gjengen](https://discord.gg/f2ZrnPVbYC), også får du bare spørre hvis jeg kan hjelpe deg med noe.
