@@ -6,6 +6,7 @@ tags:
   - apper
   - teknologi
   - produktivitet
+  - nyhetsbrev
 aliases: 
 title: Dum ned smarttelefonen
 publish: true
