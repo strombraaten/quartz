@@ -6,6 +6,7 @@ tags:
   - tankemat
 aliases:
   - verdien av bøker du ikke har lest
+  - anti-bibliotek
 title: Verdien av bøker du ikke har lest
 publish: true
 slug: boker-du-ikke-har-lest

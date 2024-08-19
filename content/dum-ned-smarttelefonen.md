@@ -7,7 +7,9 @@ tags:
   - teknologi
   - produktivitet
   - nyhetsbrev
-aliases: 
+aliases:
+  - dum ned smarttelefon
+  - hvorfor du burde dumme ned smarttelefonen din
 title: Dum ned smarttelefonen
 publish: true
 slug: dum-ned-smarttelefonen
