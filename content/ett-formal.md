@@ -42,7 +42,7 @@ Hvordan da, lurer du? Jo, for det første så har du tags, eller nøkkelord, som
 
 Nick Milo illustrerer linkinga mellom notater på en veldig god måte i denne videoen:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QgbLb6QCK88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/embed/QgbLb6QCK88)
 
 ### Når det begynner å bli magisk
 
