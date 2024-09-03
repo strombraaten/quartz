@@ -12,7 +12,7 @@ import { i18n } from "../i18n"
 const defaultOptions = {
   folderClickBehavior: "collapse",
   folderDefaultState: "collapsed",
-  useSavedState: false,
+  useSavedState: true,
   mapFn: (node) => {
     return node
   },
