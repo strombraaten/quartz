@@ -1,10 +1,13 @@
 ---
 date: 2024-09-15
 lastmod: 2024-09-15
-tags: 
-aliases: 
+tags:
+  - nyhetsbrev
+  - behind-the-scenes
+aliases:
+  - starter en podkast
 title: Jeg starter en podkast
-publish: 
+publish: true
 slug: starter-en-podkast
 ---
 I det siste har jeg tenkt mye på det å lage en podkast. Og nå er et godt tidspunkt for å si at deeet.. kommer til å skje 🥳
@@ -13,7 +16,7 @@ I det siste har jeg tenkt mye på det å lage en podkast. Og nå er et godt tids
 
 Noen av dere veit kanskje at jeg har lagd en podkast tidligere – hvor jeg intervjua eldre folk om livene deres. Det er ganske nøyaktig 5 år siden jeg starta [sesong 2 av Folk om fortida](https://open.spotify.com/episode/6TDf550J9OM7QmXWqJTBmP?si=d645e30134f74b1e). Og i mars 2020 publiserte jeg episoden om Maria Gabrielsen, hvor hu forteller den tragiske historien om hvordan mora hennes var årsaken til at Maria – og resten av familien – blei sendt i konsentrasjonsleirer under andre verdenskrig.
 
-![[Pasted image 20240915195331.png]]
+![[folk-om-fortida-sesong2.jpg]]
 
 Da jeg publiserte den episoden i mars 2020 visste jeg ikke at det skulle bli den siste. Jeg hadde mange planer for en ny sesong, men med flere store endringer i livet på den tida, klarte jeg ikke å finne motivasjonen til å dra i gang en ny runde. Og siden den gang har det ikke føltes riktig å begynne på'n igjen.
 
