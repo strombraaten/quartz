@@ -3,7 +3,8 @@ date: 2024-09-22
 lastmod: 2024-09-22
 tags:
   - skriving
-aliases: 
+aliases:
+  - assosiativ skriving
 title: Gleden av assosiativ skriving
 publish: true
 slug: assosiativ-skriving
