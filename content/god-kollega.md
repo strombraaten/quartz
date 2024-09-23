@@ -22,7 +22,7 @@ Ikke at det er mitt personlige ansvar at alle har det bra, men jeg kan iallefall
 
 Jeg er på ingen måte en basketspiller nå lenger, [den tittelen har ærlig talt gått ut på holdbarhet for min del](https://buttondown.email/simenskriver/archive/23-utdaterte-titler-siste-nytt/), men jeg var det i tenåra. Jeg var på ingen måte den beste spilleren på laget, men jeg skapte meg en rolle med noen egenskaper som skilte meg fra andre. Nå til dags hører jeg bare på tidligere NBA-spillere fortelle historier på ymse podkaster, i tillegg til at de analyserer hvorfor noe funker bra eller dårlig.
 
-De historiene og synspunktene har riktignok lært meg å sette mer pris på idretten. Spesielt de mindre konkrete egenskapene som må ligge til rette for å skape en "vinnende kultur". Hittil har jeg kommet fram til fire stykker:
+De historiene og synspunktene har riktignok lært meg å sette mer pris på selve idretten. Spesielt de mindre konkrete egenskapene som må ligge til rette for å skape en "vinnende kultur". Hittil har jeg kommet fram til fire stykker:
 
 1. Vær en stjerne i din egen rolle
 2. Vær åpen for tilbakemelding
@@ -35,19 +35,27 @@ Det er én ting som nevnes igjen og igjen blant disse basket-podkastene jeg hør
 
 [Kevon Looney fra Golden State Warriors](https://www.nba.com/warriors/news/how-kevon-looneys-rebounding-is-impacting-teams-success-20230427) er et kjempegodt eksempel. For i sluttspillet i fjor, altså da det gjaldt som mest, så hadde han flere kamper hvor han samla inn mellom 14 til 22 returer. For å gi deg et perspektiv på ting så var det høyeste gjennomsnittet i fjorårets sesong på 12,8 returer per kamp. Han overgikk altså forventningene så til de grader, og ikke minst på et kritisk tidspunkt.
 
-Andre folk, som [T.J. McConnell er eksepsjonelt gode til å bare stjele ballen](https://www.theguardian.com/sport/2023/jan/10/i-make-it-miserable-for-them-tj-mcconnell-and-the-art-of-the-nba-pest) fra det andre laget, spesielt etter de har scora og det andre laget skal kaste ballen inn. Her snakker vi nisjen av alle nisjer altså! Mens andre spillere igjen kommer med sabla mye entusiasme og innsats, og hauser opp stemninga på laget, og spiller dermed lagkameratene sine gode på en helt annen måte enn det som faktisk skjer på banen.
+Om du ikke er kjent med basket kan det være kjekt å nevne at når noen tar en retur betyr det at noen har tatt et skudd, for å prøve å score, men bomma, og du henter inn ballen for at laget ditt kan gå i angrep eller prøve å score igjen. Det vil si at folka som drar ned mange returer gir laget sitt ekstra sjanser til å score, som igjen øker sjansen for å vinne kampen.
+
+Andre folk, som [T.J. McConnell er eksepsjonelt gode til å bare stjele ballen](https://www.theguardian.com/sport/2023/jan/10/i-make-it-miserable-for-them-tj-mcconnell-and-the-art-of-the-nba-pest) fra det andre laget. Spesielt etter laget hans har scora, og motstanderlaget skal kaste ballen inn. Her snakker vi nisjen av alle nisjer altså! 
+
+Mens andre spillere igjen kommer med sabla mye entusiasme og innsats, og hauser opp stemninga på laget, og spiller dermed lagkameratene sine gode på en helt annen måte enn det som faktisk skjer på banen.
 
 ### Hvordan overføres det til arbeidsplassen?
 
 Personlig har jeg selvinnsikt nok til å se at jeg er ikke den kjappeste, eller mest kreative designeren når det kommer til å lage nydelige grensesnitt. Det ække meg altså. For all del, jeg kan gjøre en solid jobb og lage noen fine greier. Ingen tvil om det, men jeg kommer aldri til å vinne en pris for et vakkert app-design akkurat. Og det er greit.
 
-Samtidig er det mange andre styrker jeg har som skiller meg fra andre designere. Jeg er knallgod til å intervjue og snakke med folk, og stille gjennomtenkte spørsmål. Jeg har mange års erfaring med å håndtere kunder, på godt og vondt, så jeg er trygg på at jeg kan håndtere en vanskelig situasjon på en god måte. Også syns jeg det er oppriktig gøy å lære meg nye og bedre måter å organisere tilbakemeldinger og innsiktsarbeid på, som gir teamet jeg jobber med et bedre grunnlag for å ta beslutninger.
+Samtidig er det mange andre styrker jeg har som skiller meg fra andre designere. Jeg har mine [[superkraft|superkrefter]] foråsirresånn.
 
-Det fikk jeg masse erfaring med da jeg jobba med AtB (kollektivtransporten i Trøndelag), hvor jeg fikk svare på mange av tilbakemeldingene som dukka opp i chatten i appen.
+Jeg er f. eks knallgod til å intervjue og snakke med folk, og stille gjennomtenkte spørsmål. Jeg har mange års erfaring med å håndtere kunder, på godt og vondt, så jeg er trygg på at jeg kan håndtere en vanskelig situasjon på en god måte. Også syns jeg det er oppriktig gøy å lære meg nye og bedre måter å organisere tilbakemeldinger og innsiktsarbeid på. Som gir teamet jeg jobber med et bedre grunnlag for å ta beslutninger.
 
-Å kunne snu noens negative opplevelse ved å både kunne si "Tusen takk for at du sier i fra, dette jobber vi faktisk med as we speak", men også kunne følge opp i etterkant å si "Nå er problemet ditt løst!", (og slenge på en liten party-emoji 🥳), det er en god følelse altså.
+#### Eksempel
 
-Det er såklart ikke alltid man treffer, men da får du muligheten til å dykke dypere og justere brukeropplevelsen til å være enda mer presis. Og DER er jeg bedre enn mange. Den empatien, nysgjerrigheten, og systematiske tilnærmingen som trengs i den samtalen er et eksempel på hvordan jeg kan være en stjerne i min rolle som UX designer i et større team.
+Det fikk jeg masse erfaring med da jeg jobba med AtB (kollektivtransporten i Trøndelag), hvor jeg svarte på mange av tilbakemeldingene som dukka opp i chatten, i appen.
+
+Å kunne snu noens negative opplevelse ved å både kunne si "Tusen takk for at du sier i fra, dette jobber vi faktisk med, as we speak", men også kunne følge opp i etterkant å si "Nå er problemet ditt løst!", (og slenge på en liten party-emoji 🥳), det er en god følelse altså.
+
+Det er såklart ikke alltid man treffer, men da får du muligheten til å dykke dypere og justere brukeropplevelsen til å være enda mer presis. Og DER er jeg bedre enn mange. Den empatien, nysgjerrigheten, og systematiske tilnærmingen som trengs i den samtalen er et eksempel på hvordan jeg kan være en stjerne i min rolle som UX-designer i et større team.
 
 Ved å bli mer bevisst på hva jeg er unikt god på kan jeg også bruke det når jeg jobber med andre, for at andre skal få fokusere på det de er gode på. Det gjelder ikke bare de faglige ferdighetene dine forresten, men ulike personlighetstrekk kan også være bedre egna i noen situasjoner framfor andre.
 
@@ -55,7 +63,7 @@ Ved å bli mer bevisst på hva jeg er unikt god på kan jeg også bruke det når
 
 På engelsk snakker man om det å være "coachable". Med det så menes det at du skal evne å ta til deg tilbakemelding. At du skal være åpen for veiledning. Det er nok vanskeligere enn det høres ut som. For hvis du har gjort noe på samme måte flere ganger, om ikke flere år, hvor "åpen" tror du virkelig at du hadde vært dersom noen sa til deg "Hvis du bare endrer sånn og sånn så kan det hende du vil oppnå det du prøver på"?
 
-[Ta Mason Plumlee som et eksempel](https://www.espn.com/nba/story/_/id/35380575/the-nba-vet-rookie-whove-embraced-their-unusual-shooting-forms-happy-made-change). Han er 33 år gammel, og har sannsynligvis spilt organisert basket i nærmere 25 år. Han er opprinnelig høyrehendt, og har hatt samme teknikk, altså samme bevegelse for hvordan han skyter en basketball i lang, lang tid. Da han derimot skada den ene fingeren på høyrehanda i fjor så sleit han med straffeskudda sine, og var blant de aller dårligste i NBA det året, med en treffprosent på 39 %.
+[Ta Mason Plumlee som et eksempel](https://www.espn.com/nba/story/_/id/35380575/the-nba-vet-rookie-whove-embraced-their-unusual-shooting-forms-happy-made-change). Han er 33 år gammel, og har sannsynligvis spilt organisert basket i nærmere 25 år. Han er opprinnelig høyrehendt, og har sannsynligvis hatt samme teknikk, altså samme bevegelse for hvordan han skyter en basketball siden han var 8 år gammel. Da han derimot skada den ene fingeren på høyrehanda i fjor så sleit han med straffeskudda sine, og var blant de aller dårligste i NBA det året, med en treffprosent på 39 %.
 
 Siden han uansett ikke hadde mye å tape var det noen som foreslo at han skulle begynne å skyte med venstrehånda i stedet. Det er noe de fleste trener på, men samtidig så har man jo _langt_ mer mengdetrening på å skyte med den dominante hånda. Derfor er det desto mer imponerende at han faktisk har økt treffprosenten sin, opp til 59 % på straffene sine, og begynt å skyte alle skudda sine med venstre.
 
