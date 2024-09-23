@@ -4,6 +4,7 @@ lastmod: 2024-09-23
 tags:
   - teknologi
   - tankemat
+  - nyhetsbrev
 aliases:
   - hva om favoritt-podkasten din hadde en egen chatbot
 title: Hva om favoritt-podkasten din hadde en egen chatbot?
