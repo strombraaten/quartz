@@ -1,6 +1,6 @@
 ---
 date: 2022-12-20
-lastmod: 2024-03-07
+lastmod: 2022-12-20
 tags:
   - skriving
 aliases:
