@@ -1,6 +1,7 @@
 $pageWidth: 640px;
 $mobileBreakpoint: 600px;
 $tabletBreakpoint: 1000px;
+$desktopBreakpoint: 1024px;
 $sidePanelWidth: 380px;
 $topSpacing: 6rem;
 $boldWeight: 700;
@@ -40,3 +41,6 @@ $desktopGrid: (
       "sidebar-left page-center sidebar-right"\
       "sidebar-left page-footer sidebar-right"',
 );
+
+$mobile: "max-width: #{$mobileBreakpoint}";
+$desktop: "min-width: #{$desktopBreakpoint}";
