@@ -8,6 +8,13 @@ $boldWeight: 700;
 $semiBoldWeight: 600;
 $normalWeight: 400;
 
+// Define breakpoints
+$breakpoints: (
+  mobile: $mobileBreakpoint,
+  tablet: $tabletBreakpoint,
+  desktop: $desktopBreakpoint
+);
+
 $mobileGrid: (
   templateRows: "auto auto auto auto auto",
   templateColumns: "auto",
@@ -43,4 +50,5 @@ $desktopGrid: (
 );
 
 $mobile: "max-width: #{$mobileBreakpoint}";
+$tablet: "max-width: #{$tabletBreakpoint}";
 $desktop: "min-width: #{$desktopBreakpoint}";
