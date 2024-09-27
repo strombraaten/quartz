@@ -1,16 +1,22 @@
+import React from 'react'
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/footer.scss"
 import { version } from "../../package.json"
 import { i18n } from "../i18n"
+import { WebsiteCarbonBadge } from 'react-websitecarbon-badge'
 
 interface Options {
   links: Record<string, string>
 }
 
+const CarbonBadge: React.FC = () => {
+  return <WebsiteCarbonBadge co2="0.08" percentage="92" lang="en" />
+}
+
 export default ((opts?: Options) => {
   const Footer: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
-    const year = new Date().getFullYear()
     const links = opts?.links ?? []
+
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
@@ -24,6 +30,7 @@ export default ((opts?: Options) => {
             </li>
           ))}
         </ul>
+        <CarbonBadge />
       </footer>
     )
   }
