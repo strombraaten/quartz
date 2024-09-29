@@ -6,6 +6,7 @@ tags:
   - læring
 aliases:
   - metaforiske-mentorer
+  - rubberducking
 title: Metaforiske mentorer
 publish: true
 slug: metaforiske-mentorer
