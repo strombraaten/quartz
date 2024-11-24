@@ -24,7 +24,6 @@ export default ((opts?: Options) => {
             </li>
           ))}
         </ul>
-        <CarbonBadge />
       </footer>
     )
   }
