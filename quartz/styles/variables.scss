@@ -1,8 +1,8 @@
-$pageWidth: 640px;
+$pageWidth: 720px;
 $mobileBreakpoint: 600px;
 $tabletBreakpoint: 1000px;
-$desktopBreakpoint: 1024px;
-$sidePanelWidth: 380px;
+$desktopBreakpoint: 1200px;
+$sidePanelWidth: 320px;
 $topSpacing: 6rem;
 $boldWeight: 700;
 $semiBoldWeight: 600;
@@ -18,8 +18,8 @@ $breakpoints: (
 $mobileGrid: (
   templateRows: "auto auto auto auto auto",
   templateColumns: "auto",
-  rowGap: "5px",
-  columnGap: "5px",
+  rowGap: "4px",
+  columnGap: "4px",
   templateAreas:
     '"grid-sidebar-left"\
       "grid-header"\
@@ -30,8 +30,8 @@ $mobileGrid: (
 $tabletGrid: (
   templateRows: "auto auto auto auto",
   templateColumns: "#{$sidePanelWidth} auto",
-  rowGap: "5px",
-  columnGap: "5px",
+  rowGap: "8px",
+  columnGap: "8px",
   templateAreas:
     '"grid-sidebar-left grid-header"\
       "grid-sidebar-left grid-center"\
@@ -41,8 +41,8 @@ $tabletGrid: (
 $desktopGrid: (
   templateRows: "auto auto auto",
   templateColumns: "#{$sidePanelWidth} auto #{$sidePanelWidth}",
-  rowGap: "5px",
-  columnGap: "5px",
+  rowGap: "8px",
+  columnGap: "24px",
   templateAreas:
     '"grid-sidebar-left grid-header grid-sidebar-right"\
       "grid-sidebar-left grid-center grid-sidebar-right"\
