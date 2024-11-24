@@ -15,46 +15,62 @@ article {
 */
 
 /* New styles */
-article {
-  font-size: 1.1rem;
-  line-height: 1.6;
-  max-width: 70ch;
-  margin: 0 auto;
-  
-  p, ul, ol {
-    margin-bottom: 1.5em;
-  }
-
-  // Improve list spacing
-  ul, ol {
-    padding-left: 1.5em;
+.page {
+  article {
+    font-size: 1.5rem;
+    line-height: 1.8;
+    max-width: 70ch;
+    margin: 0 auto;
+    padding: 0 2rem;
     
-    li {
-      margin: 0.5em 0;  // Add vertical space between list items
-      padding-left: 0.5em;  // Add some indent for better readability
+    p, ul, ol {
+      margin-bottom: 2em;
+    }
+
+    // Improved list spacing
+    ul, ol {
+      padding-left: 2em;
+      
+      li {
+        margin: 0.8em 0;
+        padding-left: 0.8em;
+      }
+    }
+
+    // Add spacing between paragraphs and other block elements
+    p + p,
+    p + blockquote,
+    blockquote + p,
+    p + h2,
+    p + h3 {
+      margin-top: 2em;
     }
   }
 }
 
+.explorer {
+  font-size: 0.95rem;
+}
+
 h1 {
-  font-size: 2.5rem;
+  font-size: 3rem;
   line-height: 1.2;
-  margin-top: 2em;
-  margin-bottom: 1em;
+  margin-top: 2.5em;
+  margin-bottom: 1.2em;
 }
 
 h2 {
-  font-size: 1.8rem;
+  font-size: 2.2rem;
   line-height: 1.3;
-  margin-top: 1.8em;
-  margin-bottom: 0.8em;
+  margin-top: 2.2em;
+  margin-bottom: 1em;
 }
 
 h3 {
-  font-size: 1.4rem;
+  font-size: 1.7rem;
   line-height: 1.4;
-  margin-top: 1.6em;
-  margin-bottom: 0.6em;
+  margin-top: 2em;
+  margin-bottom: 0.8em;
 }
 
 :root {
@@ -81,4 +97,31 @@ a.internal {
 a.tag-link {
   border-bottom: none;
   opacity: 1;
+}
+
+// Add some extra breathing room for blockquotes
+blockquote {
+  margin: 2em 0;
+  padding: 1em 2em;
+  border-left: 3px solid var(--secondary);
+  background-color: var(--light);
+  border-radius: 4px;
+}
+
+// Improve spacing around code blocks
+pre {
+  margin: 2em 0;
+  padding: 1.5em;
+}
+
+// Add some subtle spacing adjustments for mobile
+@media (max-width: 600px) {
+  .page article {
+    font-size: 1.25rem;
+    padding: 0 1rem;
+    
+    p, ul, ol {
+      margin-bottom: 1.5em;
+    }
+  }
 }
