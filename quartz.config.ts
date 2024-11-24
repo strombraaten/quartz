@@ -13,6 +13,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: "tinylytics",
+      siteId: "yeW5HoX3FJHdsswz69gg",
     },
     locale: "nb-NO",
     baseUrl: "https://simenskriver.no",
@@ -48,6 +49,7 @@ const config: QuartzConfig = {
           secondary: "#5FE1B5",
           tertiary: "#84a59d",
           highlight: "rgba(44, 44, 48, 1)",
+          textHighlight: "#fff23688",
         },
       },
     },
