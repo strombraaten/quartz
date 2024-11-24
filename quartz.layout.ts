@@ -31,12 +31,10 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
-  ],
-  afterBody: [
     Component.Backlinks(),
     Component.Graph(),
-    Component.RecentNotes(),
-    ],
+    //Component.RecentNotes(),
+  ],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
