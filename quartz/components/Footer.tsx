@@ -7,10 +7,6 @@ interface Options {
   links: Record<string, string>
 }
 
-const CarbonBadge = () => {
-  return <WebsiteCarbonBadge co2="0.08" percentage="92" lang="en" />
-}
-
 export default ((opts?: Options) => {
   const Footer: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
     const links = opts?.links ?? []
