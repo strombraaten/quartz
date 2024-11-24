@@ -24,9 +24,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif",
-        body: "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif",
-        code: "IBM Plex Mono",
+        header: "Source Sans Pro, -apple-system, BlinkMacSystemFont...",
+        body: "Source Serif Pro, -apple-system, BlinkMacSystemFont, 'Segoe UI', serif",
+        code: "JetBrains Mono, IBM Plex Mono, monospace",
       },
       colors: {
         lightMode: {
