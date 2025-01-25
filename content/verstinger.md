@@ -36,15 +36,14 @@ Du kan faktisk se en oversikt over hva som er samla inn hittil, og la deg inspir
 
 > [!success] 4 dingsebomser resirkulert så langt! 💪
 > 
-> 
+> **Start:** 23.01.2025.
+> **Sist oppdatert:** 25.01.2025
+
 | Antall | Resirkulert duppeditt |
 | ------ | --------------------- |
 | 2      | Telefoner             |
 | 1      | Stavmikser            |
 | 1      | Melkesteamer          |
-> 
-> **Start:** 23.01.2025.
-> **Sist oppdatert:** 25.01.2025
 
 Denne oversikten kommer altså til å oppdatere seg fortløpende. Alt du trenger å gjøre er å si i fra til meg når jeg skal legge til en ny ting på lista. Ta kontakt på en eller annen måte som funker for deg, eller <a href="mailto:strombraaten@gmail.com?subject=Resirkulert%20dingseboms" target="_top">send meg en mail ved å trykke på denne linken.</a>
 
@@ -55,6 +54,7 @@ Kanskje du skal finne fram én ting nå, mens du har det ferskt i minne?
 Når du og jeg resirkulerer går det gjennom systemet for EE-avfall, og råmaterialene går da tilbake igjen i det sirkulære kretsløpet, sånn at man kan lage nye ting. 
 
 Bare for å gi deg et bilde på hvor stor forskjell resirkulering *kan* gjøre så kan du prøve å se for deg et [Boing 747-fly](https://www.reddit.com/r/aviation/comments/68gwhg/human_for_scale/). Det ser altså sånn her ut:
+
 ![[resirkulering-747.jpg]]
 
 Ser du han lille mannen i refleksvesten der? Ja, det sier noe om hvor stort flyet er.
@@ -97,7 +97,7 @@ Om du av en eller annen grunn ikke vil kaste en av telefonene, kan du kanskje gi
 
 Visste du at en gammel Nokia 3210 kan faktisk være *mer* verdifull enn nyere telefoner? I følge Stig Ervik, som er daglig leder i [Norsirk](https://norsirk.no/):
 
-> En Nokia 3210 har faktisk mer av enkelte mineraler i seg, både av kobber og mer gull og sølv. ([kilde](https://www.nrk.no/rogaland/det-kan-ligge-10-millioner-gamle-mobiler-rundt-omkring-i-norske-hjem-1.15918520))
+> *En Nokia 3210 har faktisk mer av enkelte mineraler i seg, både av kobber og mer gull og sølv.* ([kilde](https://www.nrk.no/rogaland/det-kan-ligge-10-millioner-gamle-mobiler-rundt-omkring-i-norske-hjem-1.15918520))
  
 Smelteverdien på en telefon fra 1999 vil altså være *høyere* enn en telefon fra 2025!
 
@@ -113,12 +113,9 @@ Når du finner noe som du ikke trenger lenger er det verdt å vite noen få ting
 
 #### Personvern
 
-Og en ting som kan betrygge deg. Selv om du leverer inn en gammel telefon til f. eks Elkjøp, så trenger du ikke være redd for at innholdet på telefonen skal oppdages av noen andre. 
+Og en ting som kan betrygge deg. Selv om du leverer inn en gammel telefon til f. eks Elkjøp, så trenger du ikke være redd for at innholdet på telefonen skal oppdages av noen andre. Ifølge Norsirk "har de fleste steder nemlig en såkalt s-boks (sikker boks). Selve denne boksen er låst, og oppbevares trygt innelåst fram til Norsirk henter den."
 
-Ifølge Norsirk:
-> ..har de fleste steder nemlig en såkalt s-boks (sikker boks). Selve denne boksen er låst, og oppbevares trygt innelåst fram til Norsirk henter den.
-
-Norsirk er de eneste som har nøkkelen til de sikre boksene. I selve gjenvinningsprosessen blir også harddisken kverna som kjøttdeig.
+Norsirk er nemlig de eneste som har nøkkelen til de sikre boksene. I tillegg blir også harddisken kverna som kjøttdeig i selve gjenvinningsprosessen.
 
 ### Eksempel på hva som kan skje når det resirkuleres
 
@@ -132,8 +129,8 @@ Til tross for at [Apple har et eget resirkuleringsprogram](https://www.apple.com
 
 ## Vil du lære mer?
 
-I podkast-episoden med Elisabeth Nissen Eide snakker vi blant annet om dette med resirkulering av elektronisk avfall, og [den kan du høre her](link).
+[I podkast-episoden min med Elisabeth Nissen Eide](https://simenspor.transistor.fm/s1/14) snakker vi blant annet om dette med resirkulering av elektronisk avfall, hvor hun kommer med enda mer spinnvill statistikk.
 
-[Rapporten fra FN (2024) som utdyper avfallsmengden](https://unitar.org/about/news-stories/press/global-e-waste-monitor-2024-electronic-waste-rising-five-times-faster-documented-e-waste-recycling) (hva den innebærer og hvordan den er fordelt på de ulike verdensdelene)
+[Rapporten fra FN (2024) som utdyper avfallsmengden](https://unitar.org/about/news-stories/press/global-e-waste-monitor-2024-electronic-waste-rising-five-times-faster-documented-e-waste-recycling) (hva den innebærer og hvordan den er fordelt på de ulike verdensdelene).
 
-[Denne artikkelen fra UNICEF (2022)](https://www.unicef.no/nyheter/helse-miljo-og-ernaering/nordmenns-overforbruk-odelegger-miljoet-barn-i-andre-land) ser på hvordan levevanene våre i Norge, og vårt overforbruk, negativt påvirker folkehelsa til folk andre steder i verden
+[Denne artikkelen fra UNICEF (2022)](https://www.unicef.no/nyheter/helse-miljo-og-ernaering/nordmenns-overforbruk-odelegger-miljoet-barn-i-andre-land) ser på hvordan levevanene våre i Norge, og vårt overforbruk, negativt påvirker folkehelsa til folk andre steder i verden.
