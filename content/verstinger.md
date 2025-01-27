@@ -34,7 +34,7 @@ For å gjøre det mer motiverende vil jeg se hvor mye vi klarer å samle inn, so
 
 Du kan faktisk se en oversikt over hva som er samla inn hittil, og la deg inspirere.
 
-> [!success] 4 dingsebomser resirkulert så langt! 💪
+> [!success] 5 dingsebomser resirkulert så langt! 💪
 > 
 > **Start:** 23.01.2025.
 > **Sist oppdatert:** 25.01.2025
@@ -44,6 +44,7 @@ Du kan faktisk se en oversikt over hva som er samla inn hittil, og la deg inspir
 | 2      | Telefoner             |
 | 1      | Stavmikser            |
 | 1      | Melkesteamer          |
+| 1      | Rettetang          |
 
 Denne oversikten kommer altså til å oppdatere seg fortløpende. Alt du trenger å gjøre er å si i fra til meg når jeg skal legge til en ny ting på lista. Ta kontakt på en eller annen måte som funker for deg, eller <a href="mailto:strombraaten@gmail.com?subject=Resirkulert%20dingseboms" target="_top">send meg en mail ved å trykke på denne linken.</a>
 
