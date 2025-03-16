@@ -26,29 +26,43 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
   ],
   left: [
-    // First row: Explorer, Spacer (mobile only), PageTitle
-    Component.Flex({
-      components: [
-        { Component: Component.Explorer() },
-        { Component: Component.MobileOnly(Component.Spacer()) },
-        { Component: Component.PageTitle() },
-      ],
-      direction: "row",
-      gap: "1rem",
-    }),
-    // Second row: Search, Spacer, Darkmode
-    Component.Flex({
-      components: [
-        { 
-          Component: Component.Search(),
-          grow: true,
-        },
-        { Component: Component.Spacer() },
-        { Component: Component.Darkmode() },
-      ],
-      direction: "row",
-      gap: "1rem",
-    }),
+    // Desktop only components
+    Component.DesktopOnly(
+      Component.Search(),
+      Component.Explorer()),
+    
+    // Mobile layout with nested flex components
+    Component.MobileOnly(
+      Component.Flex({
+        direction: "column",
+        gap: "1rem",
+        components: [
+          // First row flex container
+          {
+            Component: Component.Flex({
+              direction: "row",
+              gap: "1rem",
+              components: [
+                { Component: Component.Explorer() },
+                { Component: Component.MobileOnly(Component.Spacer()) },
+                { Component: Component.PageTitle(), grow: true }
+              ],
+            })
+          },
+          // Second row flex container
+          {
+            Component: Component.Flex({
+              direction: "row",
+              gap: "1rem",
+              components: [
+                { Component: Component.Search(), grow: true },
+                { Component: Component.Darkmode() }
+              ],
+            })
+          }
+        ],
+      })
+    ),
   ],
   right: [
     Component.DesktopOnly(
