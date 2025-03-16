@@ -26,18 +26,28 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
   ],
   left: [
-    Component.Explorer(),
-    Component.MobileOnly(
-      Component.PageTitle(),
-      (Component.Spacer())),
+    // First row: Explorer, Spacer (mobile only), PageTitle
     Component.Flex({
       components: [
-        {
+        { Component: Component.Explorer() },
+        { Component: Component.MobileOnly(Component.Spacer()) },
+        { Component: Component.PageTitle() },
+      ],
+      direction: "row",
+      gap: "1rem",
+    }),
+    // Second row: Search, Spacer, Darkmode
+    Component.Flex({
+      components: [
+        { 
           Component: Component.Search(),
           grow: true,
         },
+        { Component: Component.Spacer() },
         { Component: Component.Darkmode() },
       ],
+      direction: "row",
+      gap: "1rem",
     }),
   ],
   right: [
@@ -47,7 +57,6 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   afterBody: [
     Component.Backlinks(),
-    Component.Graph(),
     Component.RecentNotes(),
   ],
 }
