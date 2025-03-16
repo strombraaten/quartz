@@ -22,7 +22,7 @@ Når man snakker om en digital hage er det altså en samling med ideer som utvik
 I stedet for å publisere artikkel nummer to i det tilfellet kunne jeg bare redigert den første, for å tydeligere beskrive hva jeg mente. Det er digitalt hagearbeid. Når du luker vekk ugrasset, og bearbeider omgivelsene for tankefrøet du har planta. Notatene er også ment til å være mer utforskende, ved at de knyttes sammen gjennom konteksten de deler. Altså kontekstuell assosiasjon for å si det på en fin måte.
 
 > [!quote] Som Maggie selv sier:
-> 
+>
 > *They aren't refined or complete - notes are published as half-finished thoughts that will grow and evolve over time. They're less rigid, less performative, and less perfect than the personal websites we're used to seeing.*
 
 ## Bruksområde
