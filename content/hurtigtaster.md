@@ -3,7 +3,6 @@ date: 2023-03-03
 lastmod: 2024-03-07
 tags:
   - apper
-aliases: 
 title: Hurtigtaster
 publish: true
 slug: hurtigtaster

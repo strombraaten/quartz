@@ -3,7 +3,6 @@ date: 2023-06-18
 lastmod: 2023-06-18
 tags:
   - tankemat
-aliases: 
 title: Gjør den kjipe tingen
 publish: true
 slug: gjor-den-kjipe-tingen

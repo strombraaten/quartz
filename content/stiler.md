@@ -3,7 +3,6 @@ date: 2023-09-24
 lastmod: 2023-09-24
 tags:
   - nyhetsbrev
-aliases: 
 title: Stiler, regler, og vaner
 publish: true
 slug: stiler

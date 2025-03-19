@@ -5,7 +5,6 @@ tags:
   - nyhetsbrev
   - design
   - kode
-aliases: 
 title: Om det å snakke samme språk
 publish: true
 slug: snakke-samme-sprak

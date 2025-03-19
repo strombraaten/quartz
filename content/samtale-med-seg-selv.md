@@ -4,7 +4,6 @@ lastmod: 2023-04-16
 tags:
   - tankemat
   - skriving
-aliases: 
 title: Å skrive er som å ha en samtale med seg selv
 publish: true
 slug: samtale-med-seg-selv

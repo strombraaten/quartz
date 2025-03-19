@@ -3,7 +3,6 @@ date: 2023-05-10
 lastmod: 2024-03-07
 tags:
   - apper
-aliases: 
 title: Raycast
 publish: true
 slug: raycast

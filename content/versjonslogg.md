@@ -3,7 +3,6 @@ date: 2024-03-11
 lastmod: 2024-03-11
 tags:
   - behind-the-scenes
-aliases: 
 title: Versjonslogg
 publish: true
 slug: versjonslogg

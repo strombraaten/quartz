@@ -3,7 +3,6 @@ date: 2023-06-04
 lastmod: 2024-02-01
 tags:
   - tankemat
-aliases: 
 title: Anerkjenn din egen superkraft
 publish: true
 slug: superkraft

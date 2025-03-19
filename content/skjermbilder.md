@@ -4,7 +4,6 @@ lastmod: 2024-03-07
 tags:
   - tankemat
   - teknologi
-aliases: 
 title: Skjermbilder
 publish: true
 slug: skjermbilder

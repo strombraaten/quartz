@@ -2,7 +2,6 @@
 date: 2024-03-26
 lastmod: 2024-03-26
 tags: 
-aliases: 
 title: Arbeidsflyt med Vim
 publish: 
 slug:

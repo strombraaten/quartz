@@ -3,7 +3,6 @@ date: 2024-03-24
 lastmod: 2024-03-24
 tags:
   - apper
-aliases: 
 title: Rocket
 publish: true
 slug: rocket

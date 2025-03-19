@@ -3,7 +3,6 @@ date: 2023-04-07
 lastmod: 2024-03-07
 tags:
   - teknologi
-aliases: 
 title: Emneknagger
 publish: true
 slug: emneknagger

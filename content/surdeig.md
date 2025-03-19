@@ -3,8 +3,6 @@ date: 2023-04-09
 lastmod: 2024-12-16
 tags:
   - læring
-aliases:
-  - surdeig
 title: Surdeig for nybegynnere
 publish: true
 slug: surdeig

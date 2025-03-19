@@ -1,8 +1,6 @@
 ---
 date: 2024-07-11
 lastmod: 2024-07-11
-tags: 
-aliases: 
 title: Samtalekort-appen
 publish: true
 slug: samtalekort-appen

@@ -4,7 +4,6 @@ lastmod: 2024-02-24
 tags:
   - kode
   - apper
-aliases: 
 title: Verktøyene til en dårlig utvikler
 publish: true
 slug: kodeverktoy

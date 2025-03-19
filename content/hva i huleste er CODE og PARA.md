@@ -4,7 +4,6 @@ lastmod: 2023-03-12
 tags:
   - teknologi
   - skriving
-aliases: 
 title: Hva i huleste er CODE og PARA
 publish: true
 ---

@@ -1,10 +1,14 @@
 ---
 date: 2024-03-24
 lastmod: 2024-03-24
-tags: 
-aliases: 
+tags:
+  - læring
+  - apper
+aliases:
+  - Bruk av Vim i obsidian
+  - Vim i Obsidian
 title: Bruk av Vim i obsidian
-publish: 
+publish: true
 slug: vim-obsidian
 ---
 

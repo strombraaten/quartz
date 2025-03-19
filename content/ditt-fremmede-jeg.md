@@ -3,7 +3,6 @@ date: 2023-03-04
 lastmod: 2024-03-27
 tags:
   - tankemat
-aliases: 
 title: Ditt framtidige, fremmede jeg
 publish: true
 slug: ditt-fremmede-jeg

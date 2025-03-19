@@ -3,8 +3,6 @@ date: 2023-03-04
 lastmod: 2024-03-07
 tags:
   - tankemat
-aliases:
-  - syntaks
 title: Syntaks er nok mer interessant enn du tror
 publish: true
 slug: syntaks

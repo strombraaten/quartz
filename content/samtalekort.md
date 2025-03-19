@@ -3,7 +3,6 @@ date: 2024-04-28
 lastmod: 2024-07-11
 tags:
   - prosjekter
-aliases: 
 title: Samtalekort
 publish: true
 slug: samtalekort

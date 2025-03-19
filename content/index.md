@@ -1,13 +1,6 @@
 ---
 date: 2024-02-21
 lastmod: 2024-03-07
-tags:
-  - tankemat
-  - skriving
-  - apper
-  - teknologi
-  - læring
-aliases: 
 title: Simen skriver
 enableToc: false
 publish: true

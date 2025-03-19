@@ -3,7 +3,6 @@ date: 2023-11-12
 lastmod: 2023-11-12
 tags:
   - tankemat
-aliases: 
 title: Om sammenligning
 publish: true
 slug: sammenligning

@@ -3,7 +3,6 @@ date: 2023-05-21
 lastmod: 2024-03-07
 tags:
   - læring
-aliases: 
 title: CSS
 publish: true
 slug: css

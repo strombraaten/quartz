@@ -3,7 +3,6 @@ date: 2023-05-10
 lastmod: 2024-03-08
 tags:
   - språk
-aliases: 
 title: Kolofon
 publish: true
 slug: kolofon

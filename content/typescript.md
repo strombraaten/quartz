@@ -4,7 +4,6 @@ lastmod: 2024-03-07
 tags:
   - læring
   - teknologi
-aliases: 
 title: Typescript
 publish: true
 slug: typescript
