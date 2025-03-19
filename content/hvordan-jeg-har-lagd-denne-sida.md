@@ -4,8 +4,6 @@ lastmod: 2024-03-27
 tags:
   - teknologi
   - behind-the-scenes
-aliases:
-  - hvordan jeg har lagd denne sida
 title: Hvordan jeg har lagd denne sida
 publish: true
 slug: hvordan-jeg-har-lagd-denne-sida

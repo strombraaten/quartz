@@ -5,7 +5,6 @@ tags:
   - skriving
 aliases:
   - skriveprosessen min på 6 minutter
-  - skriveprosessen
 title: Skriveprosessen min på 6 minutter
 publish: true
 slug: skriveprosessen

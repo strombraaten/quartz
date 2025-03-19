@@ -4,8 +4,6 @@ lastmod: 2024-09-22
 tags:
   - produktivitet
   - tankemat
-aliases:
-  - en stor avgjørelse
 title: Én stor avgjørelse i stedet for mange små
 publish: true
 slug: en-stor-avgjørelse

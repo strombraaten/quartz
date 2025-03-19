@@ -6,7 +6,6 @@ tags:
   - nyhetsbrev
 aliases:
   - hva er et rikt liv for deg?
-  - rikt liv
 title: Hva er et rikt liv for deg?
 publish: true
 slug: rikt-liv

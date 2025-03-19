@@ -4,8 +4,6 @@ lastmod: 2024-03-29
 tags:
   - skriving
   - teknologi
-aliases:
-  - distraksjonsfri skriving
 title: Distraksjonsfri skriving
 publish: true
 slug: distraksjonsfri-skriving

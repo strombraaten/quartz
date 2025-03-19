@@ -5,7 +5,7 @@ tags:
 aliases:
   - interaktive graf
 title: Den interaktive grafen
-publish: true
+publish: false
 slug: grafen
 ---
 Den interaktive grafen er en visuell måte å se hvordan notater er tilknytta til hverandre.

@@ -5,7 +5,6 @@ tags:
   - nyhetsbrev
   - læring
 aliases:
-  - metaforiske-mentorer
   - rubberducking
 title: Metaforiske mentorer
 publish: true

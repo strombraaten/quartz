@@ -5,8 +5,6 @@ tags:
   - nyhetsbrev
   - design
   - kode
-aliases:
-  - samtalekort som app
 title: Samtalekort som app
 publish: true
 slug: samtalekort-som-app

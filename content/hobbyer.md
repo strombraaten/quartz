@@ -3,8 +3,6 @@ date: 2024-02-04
 lastmod: 2024-02-04
 tags:
   - nyhetsbrev
-aliases:
-  - hobbyer
 title: Hobbyer
 publish: true
 slug: hobbyer

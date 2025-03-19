@@ -5,7 +5,6 @@ tags:
   - teknologi
 aliases:
   - AI
-  - kunstig intelligens
 title: Kunstig intelligens
 publish: true
 slug: kunstig-intelligens

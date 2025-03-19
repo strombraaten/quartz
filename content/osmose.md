@@ -3,8 +3,6 @@ date: 2022-12-10
 lastmod: 2022-12-10
 tags:
   - nyhetsbrev
-aliases:
-  - osmose
 title: Å lære gjennom osmose
 publish: true
 slug: osmose

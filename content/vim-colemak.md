@@ -1,11 +1,14 @@
 ---
 date: 2024-03-27
 lastmod: 2024-03-27
-tags: 
-aliases: 
+tags:
+  - teknologi
+  - læring
+aliases:
+  - Vim med Colemak-layout
 title: Vim-colemak
-publish: 
-slug:
+publish: true
+slug: vim-colemak
 ---
 Det å bruke [[vim|Vim]] med Colemak-layouten kan by på en del problemer, men dersom du først rocker Colemak er det også en god sjanse for at du har et programmerbart tastatur, vil jeg si. Og i det tilfellet skal det gå greit.
 

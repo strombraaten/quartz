@@ -1,10 +1,12 @@
 ---
 date: 2024-03-26
 lastmod: 2024-03-26
-tags: 
+tags:
+  - teknologi
+  - læring
 title: Arbeidsflyt med Vim
-publish: 
-slug:
+publish: true
+slug: vim-arbeidsflyt
 ---
 
 ## Hva er det jeg har lært så langt?

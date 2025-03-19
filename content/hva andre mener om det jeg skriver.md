@@ -28,7 +28,7 @@ Det er virkelig en av de beste grunnene til å starte et nyhetsbrev, vil jeg si.
 >
 >Detta er interessant og lærerikt!
 
->[!Quote] Person 3, etter å ha lest "[[det er noe feil med hvordan vi leser bøker|det er noe feil med hvordan vi leser bøker]]"
+>[!Quote] Person 3, etter å ha lest "[[hvordan-vi-leser-boker|det er noe feil med hvordan vi leser bøker]]"
 >
 >Denne var knallbra, Simen!
 

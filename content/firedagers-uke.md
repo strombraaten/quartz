@@ -5,7 +5,6 @@ tags:
   - tankemat
   - nyhetsbrev
 aliases:
-  - firedagers uke
   - fridager med intensjon
 title: Firedagers uke
 publish: true

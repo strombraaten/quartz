@@ -3,9 +3,6 @@ date: 2023-05-08
 lastmod: 2023-05-08
 tags:
   - tankemat
-aliases:
-  - Mentale modeller
-  - mentale modeller
 title: Mentale modeller
 publish: true
 slug: mentale-modeller

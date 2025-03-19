@@ -3,8 +3,6 @@ date: 2022-12-06
 lastmod: 2022-12-06
 tags:
   - tankemat
-aliases:
-  - eksperimenter
 title: Eksperimenter i hverdagen
 publish: true
 slug: eksperimenter

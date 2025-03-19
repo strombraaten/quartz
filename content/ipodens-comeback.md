@@ -5,8 +5,6 @@ tags:
   - teknologi
   - tankemat
   - nyhetsbrev
-aliases:
-  - ipodens comeback
 title: iPodens comeback
 publish: true
 slug: ipodens-comeback
