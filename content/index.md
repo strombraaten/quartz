@@ -39,7 +39,7 @@ Bli med **48 andre lesere** som får skriveriene mine rett i innboksen. Det er l
 
 <iframe
 scrolling="no"
-style="width:100%!important;height:220px;border:1px #ccc solid !important"
+style="width:100%!important;height:220px;background-color:#161618;border-radius:8px"
 src="https://buttondown.com/simenskriver?as_embed=true"
 ></iframe>
 
