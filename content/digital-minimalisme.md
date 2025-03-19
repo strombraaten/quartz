@@ -4,8 +4,6 @@ lastmod: 2024-03-07
 tags:
   - teknologi
   - tankemat
-aliases:
-  - digital minimalisme
 title: Digital minimalisme
 publish: true
 slug: digital-minimalisme
