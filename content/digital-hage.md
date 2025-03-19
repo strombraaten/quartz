@@ -5,7 +5,6 @@ tags:
   - skriving
   - behind-the-scenes
 aliases:
-  - digital hage
   - evergreen notes
   - digitalt hagearbeid
 title: Digitalt hagearbeid
