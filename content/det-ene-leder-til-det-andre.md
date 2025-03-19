@@ -4,8 +4,6 @@ lastmod: 2024-09-29
 tags:
   - nyhetsbrev
   - tankemat
-aliases:
-  - det ene leder til det andre
 title: Det ene leder til det andre
 publish: true
 slug: det-ene-leder-til-det-andre

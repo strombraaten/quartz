@@ -5,8 +5,6 @@ tags:
   - nyhetsbrev
   - tankemat
   - apper
-aliases:
-  - abonnementer
 title: Den årlige ABO-dagen
 publish: true
 slug: abonnementer
