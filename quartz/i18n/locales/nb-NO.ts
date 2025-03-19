@@ -30,7 +30,7 @@ export default {
       darkMode: "Mørk modus",
     },
     explorer: {
-      title: "Utforsker",
+      title: "Alle notater",
     },
     footer: {
       createdWith: "Laget med",
@@ -48,7 +48,7 @@ export default {
     },
     search: {
       title: "Søk",
-      searchBarPlaceholder: "Søk etter noe",
+      searchBarPlaceholder: "Se hva du finner",
     },
     tableOfContents: {
       title: "Oversikt",
@@ -65,7 +65,7 @@ export default {
     error: {
       title: "Ikke funnet",
       notFound: "Enten er denne siden privat eller så finnes den ikke.",
-      home: "Returner til hovedsiden",
+      home: "Gå tilbake til forsida",
     },
     folderContent: {
       folder: "Mappe",
