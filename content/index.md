@@ -1,17 +1,16 @@
 ---
-title: Simen skriver
+title: Velkommen til Simen skriver
 enableToc: false
 publish: true
 slug: index
 ---
+## 🙋‍♂️ Om meg
 
-## Heisann! 
-
-### 🙋‍♂️ Om meg
-
-Simen heter jeg, og jeg lager digitale greier som skal føles bra, være lett å forstå, og gjerne se fint ut i samme slengen. En UX-designer, med andre ord.
+Heisann! Simen heter jeg, og jeg lager digitale greier som skal føles bra, være lett å forstå, og gjerne se fint ut i samme slengen. En UX-designer, med andre ord.
 
 I tillegg dypdykker jeg i ting som fascinerer meg, og det skriver jeg om her.
+
+Jeg er også en [[god-designer-darlig-utvikler|dårlig utvikler]], så jeg håper du [sier i fra](mailto:strombraaten@gmail.com?subject=Noe%20som%20skurrer%20på%20Simen%20Skriver) hvis det er noe som skurrer.
 
 > [!INFO]- Om denne sida
 > 
@@ -35,7 +34,7 @@ Det er noen overordnede kategorier som går igjen, men start med det som virker 
 
 ### 📬 Bli med i nyhetsbrevgjengen
 
-Bli med **48 andre lesere** som får skriveriene mine rett i innboksen. Det er lett å tro at det ikke er så mange, men det betyr at det er **tre minibusser med folk**, akkurat som deg, som tydeligvis liker det jeg skriver. Og det tar jeg som et skikkelig kompliment.
+Bli med **48 andre lesere** som får skriveriene mine rett i innboksen. Det betyr at det er **tre minibusser med folk**, akkurat som deg, som tydeligvis liker det jeg skriver. Og det tar jeg som et skikkelig kompliment.
 
 <iframe
 scrolling="no"
