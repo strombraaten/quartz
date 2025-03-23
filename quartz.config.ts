@@ -62,9 +62,9 @@ const config: QuartzConfig = {
         priority: ["frontmatter", "filesystem"], // prioritize frontmatter date over filesystem
       }),
       Plugin.SyntaxHighlighting(),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
+      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: true }),
       Plugin.GitHubFlavoredMarkdown(),
-      Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
+      Plugin.CrawlLinks({ markdownLinkResolution: "absolute" }),
       Plugin.Latex({ renderEngine: "katex" }),
       Plugin.Description(),
     ],
