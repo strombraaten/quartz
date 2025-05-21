@@ -17,7 +17,7 @@ Siden sist har jeg lagt til såkalt *analytics* på sida mi. Det betyr bare at j
 
 Tanken er nemlig å samle inn så lite informasjon som mulig, men nok til at jeg kan lære av det. Her kan du se et utdrag:
 
-![[images/tinylytics-dashboard.png|images/tinylytics-dashboard.png]]
+![[images/tinylytics-dashboard.png]]
 
 25 besøkende på én uke er jo ikke mange akkurat, men siden jeg skriver så muntlig anser jeg det nesten som 25 separate samtaler jeg har hatt. Og når du vinkler det sånn så blir det plutselig kjempemange, på kun en uke.
 
@@ -63,11 +63,11 @@ Om du ikke har hørt meg snakke om [[tk-trikset|tk-trikset]] før så finnes det
 
 Kanskje den største jobben jeg har gjort er å rydde opp i gamle filer. Stor takk til [Kjartan](https://www.dovenpels.no/) som hjalp meg med å organisere skjermbildene og skjermopptakene mine [med Eagle](https://eagle.cool/). Det var faktisk utrolig hjelpsomt, for det lar meg organisere bilder på en helt annen måte enn jeg har gjort hittil.
 
-![[images/eagle-tagging.png|images/eagle-tagging.png]]
+![[images/eagle-tagging.png]]
 
 Om du ikke kjenner til Eagle fra før av er det [definitivt verdt en kikk](https://www.youtube.com/watch?v=z9jxhN7dV-U&pp=ygUJZWFnbGUgYXBw). Det er ikke perfekt, men det fungerer utrolig bra til å organisere alt av bilder/gifer/filmklipp osv. Så lenge du gjør grunnarbeidet med å tægge det riktignok.
 
-![[images/eagle-organisering.png|images/eagle-organisering.png]]
+![[images/eagle-organisering.png]]
 
 Alt jeg trengte var en 7 timer lang togtur fra Oppdal til Heggedal så var det plenty med tid til å tægge/organisere rundt 800 bilder, i tillegg til å skrive denne versjonsloggen.
 

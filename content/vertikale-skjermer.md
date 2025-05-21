@@ -24,7 +24,7 @@ Nu kör vi.
 
 Igjen så er det utviklerne som inspirer meg, for det er hovedsakelig de som velger å rotere skjermene sine 90 grader. 
 
-![[Simens-skjermbilder-22-10-2023-kl19.16.png]]
+![[images/Simens-skjermbilder-22-10-2023-kl19.16.png]]
 
 Skal sies at de færreste bruker nok en vertikal skjerm ene og aleine. I stedet kombineres det vel heller med en "vanlig" horisontal skjerm i tillegg, sånn at den vertikale skjermen blir mer en "referanse-monitor", hvor du får et helhetlig oversiktsbilde.
 
@@ -87,7 +87,7 @@ To av de tre er vertikale av natur, eller av standard iallefall. I og med at de 
 
 Når jeg tenker ut noe i Figjam, eller jobber med et grensesnitt i Figma er det også noenlunde likt, bare langt flere verktøy.
 
-![[Simens-skjermbilder-22-10-2023-kl07.08.png]]
+![[images/Simens-skjermbilder-22-10-2023-kl07.08.png]]
 
 Spørsmålet da er om "tavlejobbing" trenger å være fordypende på samme måte som et spill eller en film. Høyst sannsynlig er det nok smak og behag, men jeg tok såklart en svipptur innom ergonomi og anatomi, for å forstå bagrunnen bedre.
 

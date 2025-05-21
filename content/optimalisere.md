@@ -27,7 +27,7 @@ Et slags paradoks derimot, som jeg syns er spennende, er at du ikke nødvendigvi
 
 Selv om vi liker å plassere mennesker i ulike båser, som en måte å forstå verden på, så setter jeg pris på nyansene av ulike situasjoner. For jeg tror mange av vårs optimaliserer i *noen* situasjoner, og fornøydifiserer i *andre* situasjoner. Eller omvendt. At det er som en "slider" som definerer hvor ofte du gjør det ene framfor det andre.
 
-![[optimalisere-fornøydifisere.jpg]]
+![[images/optimalisere-fornøydifisere.jpg]]
 
 Personlig optimaliserer jeg nok mer enn jeg *fornøydifiserer* foråsirresånn. Jeg liker å vite at jeg har gjort et godt valg. Et gjennomtenkt, og gjerne langsiktig valg. Uansett om det er snakk om [vannflaska jeg drikker av](https://lesstrash.no/products/big-ocean-bottle-gjenbruksflaske-farge-obsidian-black-1-liter), [tastaturet jeg skriver på](https://dygma.com/pages/defy), [t-skjortene jeg bruker](https://www.northernplayground.no/nb/shop/t-skjorte), eller [techpouchen jeg har ledninger i](https://www.amazon.com/BAGSMART-Electronic-Organizer-Storage-Fastening/dp/B086TRLVYC?crid=3GDLRUDU50DOL&keywords=bagsmart+electronic+organizer&qid=1702934293&sprefix=bagsmart+electronic,aps,536&sr=8-11&th=1). Det er ingen tvil om at jeg bruker mye tid på å forstå hva som er det beste valget for meg, i min situasjon.
 

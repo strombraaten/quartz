@@ -16,7 +16,7 @@ I det siste har jeg tenkt mye på det å lage en podkast. Og nå er et godt tids
 
 Noen av dere veit kanskje at jeg har lagd en podkast tidligere – hvor jeg intervjua eldre folk om livene deres. Det er ganske nøyaktig 5 år siden jeg starta [sesong 2 av Folk om fortida](https://open.spotify.com/episode/6TDf550J9OM7QmXWqJTBmP?si=d645e30134f74b1e). Og i mars 2020 publiserte jeg episoden om Maria Gabrielsen, hvor hu forteller den tragiske historien om hvordan mora hennes var årsaken til at Maria – og resten av familien – blei sendt i konsentrasjonsleirer under andre verdenskrig.
 
-![[folk-om-fortida-sesong2.jpg]]
+![[images/folk-om-fortida-sesong2.jpg]]
 
 Da jeg publiserte den episoden i mars 2020 visste jeg ikke at det skulle bli den siste. Jeg hadde mange planer for en ny sesong, men med flere store endringer i livet på den tida, klarte jeg ikke å finne motivasjonen til å dra i gang en ny runde. Og siden den gang har det ikke føltes riktig å begynne på'n igjen.
 
@@ -32,7 +32,7 @@ Det er noe klokt i det å starte før du er klar. Da finner du heller ut av rest
 
 Som forøvrig er et morsomt bilde å se for seg! For det må jo være noe sånt som det AI-bildet her, bare med en *langt* mer kaotisk stemning:
 
-![[bygger-båten-mens-man-ror.jpg]]
+![[images/bygger-båten-mens-man-ror.jpg]]
 
 *Psst! Et aldri så lite innsmett fra redigerings-Simen her. Etter et skråblikk fra min kjære kone viser det seg at utrykket handler ikke om å "bygge båten mens du ror", men "båten **blir til** mens du ror". Som jeg syns er to sider av samme sak, for å være ærlig, men rett skal være rett.*
 
@@ -60,7 +60,7 @@ Og jeg mener det er viktig å slå til når entusiasmen din kan kombineres med n
 
 I tillegg har jeg både det tekniske utstyret, og ferdighetene som trengs for å lage noe som bare føles *smud*. At det har "høy produksjonskvalitet" med andre ord.
 
-![[podkast-studio.jpg]]
+![[images/podkast-studio.jpg]]
 
 Som du kanskje ser så nerder jeg mye ut på utstyr, så det skal ikke akkurat være til noe hinder.
 

@@ -56,7 +56,7 @@ Når du og jeg resirkulerer går det gjennom systemet for EE-avfall, og råmater
 
 Bare for å gi deg et bilde på hvor stor forskjell resirkulering *kan* gjøre så kan du prøve å se for deg et [Boing 747-fly](https://www.reddit.com/r/aviation/comments/68gwhg/human_for_scale/). Det ser altså sånn her ut:
 
-![[resirkulering-747.jpg]]
+![[images/resirkulering-747.jpg]]
 
 Ser du han lille mannen i refleksvesten der? Ja, det sier noe om hvor stort flyet er.
 
@@ -64,11 +64,11 @@ I 2022 var det så mye som 6 milliarder kilo metaller som kom tilbake i det sirk
 
 Det er jo et vanvittig tall å se for seg, men det er omtrent det samme som vekten til 13 000 Boeing 747-fly (kilde: The Global E-Waste Monitor 2024).
 
-![[resirkulering-747-for-scale.jpg|illustrasjon fra Norsirk]]
+![[images/resirkulering-747-for-scale.jpg|illustrasjon fra Norsirk]]
 
 Problemet er bare i det samme året, 2022, var det også 14 milliarder kilo med elektronisk avfall globalt sett, som blei kasta i restavfallet. Hvor det ikke gjenvinnes.
 
-![[resirkulering-fail.jpg]]
+![[images/resirkulering-fail.jpg]]
 
 ([illustrasjonene er lånt fra Norsirk](https://info.norsirk.no/ee-avfallsdagen?hsCtaAttrib=117229786572))
 

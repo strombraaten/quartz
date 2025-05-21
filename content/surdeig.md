@@ -53,7 +53,7 @@ Når vi snakker om mating består det av:
 ## Selve bakinga
 
 Surdeigen skal gjerne boble når du tar den i bruk. Sånn som det her:
-![[surdeig-bobler.jpg]]
+![[images/surdeig-bobler.jpg]]
 
 
 > [!hint] Men! Jeg vil bare ha sagt det.
@@ -74,7 +74,7 @@ Da starter jeg med å helle vannet i bollen, og legger surdeigen oppi. Da kan du
 
 Etter jeg har rørt alt rundt så ser deigen omtrent sånn her ut:
 
-![[surdeig.jpg]]
+![[images/surdeig.jpg]]
 
 ### Heving
 

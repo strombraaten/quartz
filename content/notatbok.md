@@ -47,13 +47,13 @@ Nå har jeg en følelse om at [lommene på damebukser ikke er like romslige](htt
 
 Nå har det vel gått ca en måneds tid, med notatboka i lomma, og til min store overraskelse kjenner jeg aldri at den er der. Til og med om jeg ligger i en rar vinkel på sofaen, eller om jeg sitter lange timer på en kontorstol, så kjenner jeg aldri behovet for å ta den ut av lomma.
 
-![[images/squashedIMG_8614.jpg|images/squashedIMG_8614.jpg]]
+![[images/squashedIMG_8614.jpg]]
 
 ## Pennen
 
 Hva er vel en notatbok uten en penn? Og det her er langt mindre tilfeldig. For du kjenner når du har en penn i lomma. Den er lenger, og "stikker" litt i hofta når du setter deg ned. Heldigvis hadde jeg en bitteliten penn liggende fra før av, for nøyaktig en sånn situasjon. Det er en Fisher Space Bullet penn, og [kan kjøpes på Lush Dive](https://www.lushdive.no/products/fisher-spacepen-black-matte?ref=simen-skriver), om du har lyst på en sjøl.
 
-![[images/Simens skjermbilder 05-03-2023- kl 16.27.16@2x-squashed.jpg|images/Simens skjermbilder 05-03-2023- kl 16.27.16@2x-squashed.jpg]]
+![[images/Simens skjermbilder 05-03-2023- kl 16.27.16@2x-squashed.jpg]]
 
 ## Avsluttende tanker
 

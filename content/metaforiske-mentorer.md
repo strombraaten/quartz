@@ -44,7 +44,7 @@ Denne tanken om å bruke en person for å guide handlingene våres, selv når de
 
 Når jeg sitter fast med en kode-utfordring så prøver jeg først å chatte meg fram til en bedre forståelse med [AI-chatten til Raycast](https://www.raycast.com/pro).
 
-![[Simens-skjermbilder-24-02-2024-kl16.37.jpg]]
+![[images/Simens-skjermbilder-24-02-2024-kl16.37.jpg]]
 
 Når jeg virkelig står bom fast derimot sender jeg en melding til [Truls Henrik](https://www.truls.dev/). Eller. Som oftest så *skriver* jeg en melding til Truls Henrik, men jeg sender den ikke nødvendigvis. Det er nemlig en forskjell der.
 

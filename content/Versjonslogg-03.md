@@ -15,6 +15,6 @@ På forsida kan du nå se en liste over alle artiklene jeg har skrevet, for å g
 
 I samme slengen fjerna jeg komponenten som kalles `file-explorer` fra forsida. Som er det området i venstremargen hvor du ser en oversikt over alle notatene jeg har skrevet.
 
-![[Simens-skjermbilder-25-08-2024-kl17.00.png]]
+![[images/Simens-skjermbilder-25-08-2024-kl17.00.png]]
 
 Den oversikten (over alle notater) vises fremdeles på hver enkelte artikkelside, som gir deg muligheten til å utforske videre, men den virka overflødig da jeg fikk lista over alle artiklene på plass på forsida.

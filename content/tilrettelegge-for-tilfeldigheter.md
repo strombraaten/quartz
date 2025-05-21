@@ -54,11 +54,11 @@ Denne tanken om at du selv kan tilrettelegge for positive tilfeldigheter som opp
 
 For litt siden var jeg med i [en paneldebatt på IXDA i Oslo](https://live.ixda.no/157/register), sammen med tre andre designere – [Sonja Porter](https://www.linkedin.com/in/sarahsonja/), [Kim Feenstra Kuiper](https://www.linkedin.com/in/kimfeenstrakuiper/), i tillegg til [India Anderson](https://www.linkedin.com/in/indiamaydesign/) som var moderator eller ordstyrer. Der var det plass til rundt 200 folk, og alle billettene blei snappa opp i løpet av 24 timer 🤯
 
-![[IxDA_Simen-2.jpg]]
+![[images/IxDA_Simen-2.jpg]]
 
 Skal sies at billettene var gratis, og at paneldebatten vår var én av **to** innslag den kvelden, det er altså ikke utelukkende vi som trakk alle folka dit, men fremdeles! Jeg kan love deg at det er både kult og skummelt samtidig, å sitte på en scene og se ut mot såpass mange folk.
 
-![[IxDA_Simen-3.jpg]]
+![[images/IxDA_Simen-3.jpg]]
 
 Men.. hvordan havna jeg egentlig der?
 
@@ -78,7 +78,7 @@ Austin Kleon har en superrelevant bok om det her, som heter [Show your work](htt
 
 Og det er nå det begynner å bli morsomt. For hva har Sonja Porter, fra USA, og India Anderson, fra Australia, til felles? Jo, de begge er med i et snevert Slack-samfunn som handler om det som kalles "[ResearchOps](https://researchops.community/)".
 
-![[Sonja-and-India.jpg]]
+![[images/Sonja-and-India.jpg]]
 
 Der blir de kjent på grunn av at Sonja har inkludert et norgesflagg i slack-profilen sin for å vise at hu holder til i Norge, mer spesifikt Oslo, noe India også gjør – heia Norge! 🇳🇴
 
@@ -96,7 +96,7 @@ Desember, 2023 – Jeg publiserer en serie med artikler.
 
 Selv om snøballen begynner å rulle så tar ting tid. Derfor er det viktig å forstå *når* hendelsene skjer:
 
-![[India-slack.jpg]]
+![[images/India-slack.jpg]]
 
 - Januar, 2024 – Sonja leser artiklene mine, og tipser India om at jeg kan være relevant for artiklene hu skriver om ResearchOps
 - Januar – India spør meg om jeg vil bidra
@@ -131,7 +131,7 @@ For det andre fikk jeg en viktig oppfølging i februar av [Variant-kollegaen min
 
 Lærdommen her, for min del, er at, for det første – artiklene jeg skreiv, for å lære meg mer om et tema som jeg ikke kunne fra før av, viser andre at jeg er både interessert i det temaet, og kan noe om det. Som i og for seg er sant, men jeg begynte jo å skrive artiklene nettopp _for_ å lære meg det.
 
-![[IxDA_Simen-4.jpg]]
+![[images/IxDA_Simen-4.jpg]]
 
 Skal sies at jeg kan temmelig mye om innsiktsarbeid generelt, men det var "innpakkingen" og profesjonaliseringen av det hele som jeg ville lære mer om.
 
@@ -156,6 +156,6 @@ Nøyaktig hvor utslagsgivende det var i dette eksempelet er jeg neimen ikke sikk
 
 ## Avslutning
 
-![[IxDA_Simen-1.jpg]]
+![[images/IxDA_Simen-1.jpg]]
 
 Tilfeldigheter skjer, for all del, ofte utenom at du har noe du skulle sagt. Samtidig så tror jeg du definitivt kan øke sannsynligheten for hvor ofte de skjer, ved å vise verden at du faktisk finnes. Ved å vise hva du er interessert i. Uavhengig om du kan noe om det eller ikke, for det er ikke skamfullt å lære seg noe nytt. Tvert imot! Det viser bare at du tør å ta en sjanse.

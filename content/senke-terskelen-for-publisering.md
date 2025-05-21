@@ -19,4 +19,4 @@ Enn så lenge kan jeg nevne at det handler om, for min del, å:
 
 Også kommer det nok mer etterhvert.
 
-![[github-publisher-demo.mov]]
+![[images/github-publisher-demo.mov]]

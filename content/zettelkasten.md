@@ -23,7 +23,7 @@ Som jeg nevnte tidligere virker det som Zettelkasten dukka opp til overflaten ig
 
 Der forteller han om [Niklas Luhmann](https://en.wikipedia.org/wiki/Niklas_Luhmann?ref=simen-skriver), den tyske sosiologen, som hadde utallige trebokser med nøye organiserte papirlapper. Sammen utgjør alle de lappene et nettverk av tanker og kunnskap. Ikke bare oppfordrer det til mer aktiv lesing, men resultatet er også at det forenkler skriveprosessen betraktelig, siden du alltid kan spille videre på det du har lært fra før.
 
-![[notecards.jpg]]
+![[images/notecards.jpg]]
 
 Bildet er lånt fra [Journal of the History of Ideas](https://jhiblog.org/2019/04/17/ruminant-machines-a-twentieth-century-episode-in-the-material-history-of-ideas/?ref=simen-skriver).
 

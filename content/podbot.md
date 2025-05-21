@@ -62,7 +62,7 @@ Det som er litt komisk er at Tim Ferriss og Andrew Huberman er to typer som er g
 
 Det første du blir møtt med er som sagt et søkefelt:
 
-![[Simens-skjermbilder-23-09-2024-kl09.08.jpg]]
+![[images/Simens-skjermbilder-23-09-2024-kl09.08.jpg]]
 
 Deretter kan vi stille det samme spørsmålet som jeg nevnte tidligere. Her har det faktisk ingenting å si om du skriver på engelsk eller norsk. Den forstår begge deler, som egentlig er skikkelig kult.
 
@@ -72,7 +72,7 @@ Spørsmålet jeg stilte var altså:
 
 Og svaret jeg fikk var det her:
 
-![[timferriss-ai-result.jpg]]
+![[images/timferriss-ai-result.jpg]]
 
 I tilfelle det er vanskelig å lese hva som står på bildet kan du lese teksten nedenfor, eventuelt bare å hoppe glatt over til neste overskrift.
 
@@ -88,7 +88,7 @@ Personlig har jeg hørt mye på den podcasten, og mye av det som nevnes her virk
 
 Her har de faktisk tatt tak i det som Dan Shipper nevnte tidligere, hvor du får linker til episodene hvor informasjonen er henta fra.
 
-![[timferris-ai-result-links.jpg]]
+![[images/timferris-ai-result-links.jpg]]
 
 Derimot så får du ikke det nøyaktige tidspunktet, eller *tidskoden* som det heter, som hadde gjort det enda mer brukervennlig, og økt troverdigheten i større grad, men det er definitivt en god start. For hvis jeg da vil lære mer om søvn kan jeg høre på de spesifikke episodene som er nevnt der.
 
