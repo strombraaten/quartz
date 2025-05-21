@@ -19,7 +19,7 @@ Her kan du se en kort demonstrasjon, hvor jeg sletter noe tekst i et notat, og p
 
 Øverst i høyre hjørnet ser du at det dukker opp noen infobokser som forklarer hva som skjer. Når den grønne bokser dukker opp betyr det at endringen din er publisert.
 
-![[github-publisher-demo.mov]]
+![[images/github-publisher-demo.mov]]
 Her er det [en bruksanvisning for hvordan du kommer i gang](https://flowerbed.bluerose.garden/Using-Quartz-&-Github-Publisher).
 
 ### Hvorfor stoppa jeg med det?

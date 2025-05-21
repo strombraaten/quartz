@@ -19,11 +19,11 @@ slug: dum-ned-smarttelefonen
 
 For øyeblikket ser telefonen min sånn her ut:
 
-![[dum-telefon1.jpg]]
+![[images/dum-telefon1.jpg]]
 
 Eller.. teknisk sett har jeg to andre hjem-skjermer som jeg også hopper mellom:
 
-![[dum-smarttelefon.jpg]]
+![[images/dum-smarttelefon.jpg]]
 
 Nå lurer du kanskje på – hvorfor er alt svart-hvitt? Og hvor er app-ikonene? La meg spole tilbake, så skal jeg fortelle deg om hvordan jeg havna her. Og hvordan du kan gjøre det samme. Før vi runder av med å se på hvorfor jeg har gjort det i det hele tatt.
 
@@ -33,7 +33,7 @@ Du skjønner, Kindle er en av mine favoritt-duppeditter noensinne. Av to grunner
 1. Den symboliserer en enkeltstående handling – nemlig å lese
 2. Samtidig er det noe med skjermen som jeg liker veldig godt (antakeligvis at den er [av typen "e-ink"](https://en.wikipedia.org/wiki/E_Ink)), men skjermen er altså matt, så den gir ikke noe gjenskinn
 
-![[kindle-highlight-compressed.jpg]]
+![[images/kindle-highlight-compressed.jpg]]
 
 En tredje grunn er også at selve brukergrensesnittet bærer ikke preg av at det skal være så fancy, eller rope etter oppmerksomheten din. Det er ikke noe "bells and whistles", som man sier. Det er bare ord på en skjerm.
 
@@ -81,7 +81,7 @@ Om du er blant de overmenneskene som klarer å overse de 732 uleste epostene, de
 
 Personlig ville jeg riktignok ta det lenger enn som så, og blei dermed skikkelig gira da jeg fant ut om kategorien av "Minimalist app launchers".
 
-![[dumbphone_device_combo.png]]
+![[images/dumbphone_device_combo.png]]
 
 ### Minimalistiske app-åpnere
 
@@ -91,13 +91,13 @@ Ser ut som at alle appene har en prøveperiode, så du kan teste det ut en ukes 
 
 Resultatet jeg kom fram til var da det her:
 
-![[dum-telefon1.jpg]]
+![[images/dum-telefon1.jpg]]
 
 ### Hvordan gjør du det?
 
 Utvikleren av Dumb Phone-appen har lagd [en grundig gjennomgang av hvordan du setter det opp](https://michaeltigas.notion.site/Dumb-Phone-FAQ-0c2334cd28ca40a2a3a57691358623b5), så jeg anbefaler å heller lese gjennom den enn at jeg skal prøve å gjengi det her. Jeg kan riktignok gi deg en liten forsmak på det første steget (etter du har lasta ned appen) så du kan se hva det går i:
 
-![[dumb-phone-installation-step-1.mp4]]
+![[images/dumb-phone-installation-step-1.mp4]]
 
 ### Disclaimer og nørd-alert
 
@@ -140,7 +140,7 @@ Jo, du kan lage snarveier til de handlingene du utfører oftest. For min del er 
 
 Resultatet av det kan du se på de to skjermbildene nedenfor. Den minimalistiske snarvei-sida blir da den primære hjem-skjermen som jeg bruker mest, men dersom jeg blar til sida får jeg en oversikt over alt annet jeg har bruk for.
 
-![[dum-smarttelefon.jpg]]
+![[images/dum-smarttelefon.jpg]]
 
 Det er såklart bare et knippe muligheter så her bør du heller utforske hva som kan være relevant for deg.
 
@@ -165,23 +165,23 @@ Vi tar det steg-for-steg:
 1. Først går du inn på innstillinger.
 2. Velg "Tilgjengelighet"
 
-![[IMG_1327.jpg]]
+![[images/IMG_1327.jpg]]
 
 3. Gå videre til "Berøring", under "Fysikk og motorikk"
 
-![[IMG_1328.jpg]]
+![[images/IMG_1328.jpg]]
 
 4. Helt i bunnen finner du et punkt som heter "Trykk på baksiden"
 
-![[IMG_1329.jpg]]
+![[images/IMG_1329.jpg]]
 
 5. Velg "Dobbelttrykk"
 
-![[IMG_1330.jpg]]
+![[images/IMG_1330.jpg]]
 
 6. Bla ned til du ser "Fargefiltre", og velg den
 
-![[IMG_1331.jpg]]
+![[images/IMG_1331.jpg]]
 
 7. Voilá! Nå kan du prøv å trykke to ganger bakpå telefonen din for å se om det blir aktivert. 
 
@@ -201,7 +201,7 @@ Apropos søkefunksjonen. Visste du at du kan dra ned fra midten av skjermen for 
 
 På hovedskjermen min nå sitter jeg igjen med Safari (internett), Spotify (musikk), og [Reader (artikler)](https://readwise.io/simenleser/), i tillegg til de mer "vanlige" appene som Meldinger, Telefon, og Bilder. Hittil har det vært de jeg har hatt oftest bruk for i løpet av dagen. 
 
-![[IMG_1333.jpg]]
+![[images/IMG_1333.jpg]]
 
 I tillegg til at Artikkel-snarveien er et forsøk på å lure meg sjøl til å velge å lese en artikkel jeg har spart til seinere, framfor å se på youtube. Det er ofte mer fristende å se på youtube, men jeg føler meg som regel mer inspirert av å ha lest en artikkel, så derfor har jeg gjort den lett tilgjengelig.
 
@@ -211,7 +211,7 @@ Personlig har jeg eksperimentert fram og tilbake med ulike valg i løpet av de s
 
 En annen ting Kjartan tipsa meg om var å skru av de automatiske forslagene som dukker opp i søket, på hvilke apper du sannsynligvis vil bruke der og da. Og jeg hadde ærlig talt ikke trodd at jeg skulle like det så godt.
 
-![[IMG_1348.jpg]]
+![[images/IMG_1348.jpg]]
 
 For de "forslagene fra Siri", som det står, er da ganske nyttig, er de ikke det? Det er jo tross alt basert på hvordan *du* bruker telefonen din. Fremdeles. Bare gi det et forsøk. Bare *prøv* å skru det av i noen dager. Hvert søk blir plutselig mer bevisst, med en tydeligere intensjon enn før.
 
@@ -223,15 +223,15 @@ Ved å skru av Siri-forslag begrenser du i alle fall at det skjer.
 
 1. Gå inn på Innstillinger, og scroll deg ned til du ser "Siri". Velg den.
 
-![[IMG_1346.jpg]]
+![[images/IMG_1346.jpg]]
 
 2. Huk av "Foreslå apper før søk"
 
-![[IMG_1347.jpg]]
+![[images/IMG_1347.jpg]]
 
 Voilà! Du kan nå søke etter det du *faktisk* skulle gjøre, ikke det Apple foreslår at du skal gjøre.
 
-![[søkeforslag.jpg]]
+![[images/søkeforslag.jpg]]
 
 ## Men.. hvorfor?
 

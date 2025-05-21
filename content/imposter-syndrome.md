@@ -16,7 +16,7 @@ Imposter syndrome – eller bedragersyndromet som jeg kommer til å kalle det �
 
 Bedragersyndrom, sånn jeg ser det, handler om usikkerhet i stor grad. For å beskrive tydeligere hvordan jeg ser på det så vil jeg introdusere en venn av meg, nemlig usikkerhetsmonsteret.
 
-![[imposter syndrome-1685863336554.jpeg|imposter syndrome-1685863336554.jpeg]]
+![[images/imposter syndrome-1685863336554.jpeg]]
 *(leika meg i Midjourney nå ja)*
 
 Usikkerhetsmonsteret er en nervøs type, sånn jeg kjenner han. Han har lett for å hause opp små ting til å bli noe større, og er generelt god til å få folk til å tvile på ting de vanligvis er trygge på.

@@ -56,21 +56,21 @@ Det som imponerer meg er at når jeg vurderer [[obsidian]] ut fra de kriteriene 
 
 Hurtigtaster så langt øye kan se! Og alt kan tilpasses etter dine egne, sære behov.
 
-![[obsidian-hurtigtaster.png]]
+![[images/obsidian-hurtigtaster.png]]
 
 ### Åpenhet rundt hva som videreutvikles = ✅
 
 Yes, sir! For hver gang de oppdaterer appen får du en liste over endringene som er gjort, rett i appen. 
 
-![[obsidian-release-notes.png]]
+![[images/obsidian-release-notes.png]]
 
-![[obsidian-release-notes-canvas.png]]
+![[images/obsidian-release-notes-canvas.png]]
 
 ### Light/dark Mode = ✅
 
 Å jada! Riktignok litt avhengig av hvilket "theme" du velger, men om jeg tolker det riktig, så er det ca 115 stykker som tilbyr på lys og mørk modus. Om du syns det blei for mye å velge mellom så er jeg veldig enig i denne [oversikten over 5 minimale themes](https://elizabethbutlermd.com/5-of-the-best-custom-minimalist-digital-note-taking-themes-for-obsidian-in-2022/?ref=simen-skriver).
 
-![[Simens skjermbilder 20-12-2022- kl 07.19.29.gif]]
+![[images/Simens skjermbilder 20-12-2022- kl 07.19.29.gif]]
 
 Personlig har jeg brukt [Minimal](https://minimal.guide/Home?ref=simen-skriver) over en lengre periode, som er laget av [Stephan Ango](https://stephanango.com/?ref=simen-skriver), men jeg bytter nok utseendet på Obsidian annenhver måned, bare for moro skyld. Noen av favorittene mine så langt er AnuPpuccin, Border, Typewriter, Things.
 
@@ -100,7 +100,7 @@ Både gjennom youtube-kanaler, som [FromSergio](https://www.youtube.com/watch?v=
 
 I tillegg til [Discorden](https://obsidian.md/community?ref=simen-skriver) til [[obsidian]], som er _vanvittig aktiv_, med hele 81 000 medlemmer! I tillegg til at du har egne "sub-communities" som f. eks en plugin som heter [Make.md](https://www.make.md/?ref=simen-skriver), som igjen har nærmere 1000 folk på Discorden sin.
 
-![[obsidian-community.png]]
+![[images/obsidian-community.png]]
 
 ### Plugins
 
@@ -120,10 +120,10 @@ Siden alt er basert på tekstfiler som ligger lokalt på dataen min. Og siden de
 
 Så hvis jeg ville bytta til [Craft](https://www.craft.do/?ref=simen-skriver) f. eks kunne jeg importert den samma mappa med tekstfiler, som jeg bruker til [[obsidian]] uten noe mer trøbbel enn som så. 
 
-![[craft-note.png]]
+![[images/craft-note.png]]
 <figcaption>Samme notat i Craft</figcaption>
 
-![[ia-writer-note.png]]
+![[images/ia-writer-note.png]]
 <figcaption>Samme notat i iA Writer</figcaption>
 
 Nå tenker du kanskje "Men Simen, hvorfor velger du å bruke en app som du allerede planlegger å droppe?" Jo, det er ganske så enkelt. For en eller annen dag så kommer jeg til å gjøre det. Og da vil jeg helst ikke at filene mine, altså tankearbeidet jeg har gjort over mange år, skal låses inn i et eller annet system som jeg ikke lenger vil benytte meg av.

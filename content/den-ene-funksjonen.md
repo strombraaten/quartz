@@ -19,16 +19,16 @@ Det har totalt endra seg for min del nå.
 
 Det er egentlig bedre om du bare ser det sjøl. Nedenfor kan du se et før- og etter-bilde. Det første bildet er det jeg ser i sin helhet, og like under er det jeg endte opp med.
 
-![[Simens-skjermbilder-06-03-2024-kl19.40.png]]
+![[images/Simens-skjermbilder-06-03-2024-kl19.40.png]]
 Eksempelet over er [fra en rapport](https://klimatsmartsemester.se/sites/default/files/metodrapport-klimatsmart-semester-version3.pdf?ref=simen-skriver) som forklarer hvordan noen har [estimert karbonutslippene](https://klimatsmartsemester.se/?ref=simen-skriver) til blant annet flyreiser. Og jeg ville dele noen av nøkkelpunktene derfra med kollegaene mine i Variant, siden vi har jobba mye med å bli [karbonnøytrale de siste årene](https://blog.variant.no/n%C3%A5dde-vi-m%C3%A5let-om-karbonn%C3%B8ytralitet-5f95c4114285?ref=simen-skriver).
 
-![[Simens-skjermbilder-06-03-2024-kl19.41.png]]
+![[images/Simens-skjermbilder-06-03-2024-kl19.41.png]]
 
 [Appen jeg bruker heter Cleanshot X](cleanshot.sjv.io/simenskriver), og jeg skal komme tilbake til prising seinere, men først vil jeg vise deg hvordan jeg kom fram til sluttresultatet over. 
 
 Utgangspunktet er altså en helt alminnelig pdf, og magien slår til med en gang. For nå trenger jeg ikke prøøøve og være presis med siktet mitt en gang. I det neste bildet ser du at jeg bare markerer det som er av interesse, selv om det da vil være mer hvitt på venstresida enn det er på høyresida.
 
-![[CleanShot 2022-12-13 at 08.19.16.gif]]
+![[images/CleanShot 2022-12-13 at 08.19.16.gif]]
 
 Kan kjapt nevne at hurtigtastene du er vant til på mac (som `cmd + shift + 4` som du ville brukt for å markere et begrensa område) er nøyaktig det samme i Cleanshot også. De erstatter hverandre. Hvorfor det vises en annen hurtigtast underveis i gifen over er jeg neimen ikke sikker på.
 
@@ -36,7 +36,7 @@ Kan kjapt nevne at hurtigtastene du er vant til på mac (som `cmd + shift + 4` s
 
 Deretter kommer vi til selve nøkkelfunksjonen, som tok kaka for min del – nemlig Auto-balance.
 
-![[CleanShot X-autobalance.mp4]]
+![[images/CleanShot X-autobalance.mp4]]
 
 Den lar deg utvide bakgrunnen basert på fargen i bildet ditt 🤯 Og ikke bare det, men den jevner også ut mellomrommet på alle sidene rundt bildet ditt. Så det at jeg var litt kjapp i vendinga da jeg tok bildet til å starte med har ingen verdens ting å si lenger, fordi Cleanshot retter det opp i etterkant.
 
@@ -46,7 +46,7 @@ For de av vårs som har manuelt utvida bakgrunnen på skjermbilder tidligere, og
 
 Du kan også slenge på en fin bakgrunn, om du vil gjøre det lille ekstra. Her kan du enten velge mellom en håndfull alternativer som er der fra før av, eller legge til dine egne.
 
-![[cleanShotX-background.mp4]]
+![[images/cleanShotX-background.mp4]]
 
 ### Fysen på mer?
 
@@ -66,4 +66,4 @@ Som du kanskje har skjønt tar jeg mange skjermbilder. Så da Erlend fra [Havn.b
 
 Appen koster riktignok 290 kr (engangskjøp) så det er sikkert ikke nødvendig for alle og enhver, men om du tar så mye som to skjermbilder i uka så er det her en no-brainer. Jeg slenger inn detaljene under, om du er nysgjerrig.
 
-![[Simens-skjermbilder-06-03-2024-kl19.35.png]]
+![[images/Simens-skjermbilder-06-03-2024-kl19.35.png]]

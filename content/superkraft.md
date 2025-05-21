@@ -47,7 +47,7 @@ Og plutselig gikk prosessen mye fortere! I stedet for å prøve å **tenke** meg
 
 I all ydmykhet så veit jeg at jeg er god til å snakke med folk, og at det er noe jeg koser meg med. Det har jeg fått bekrefta både fra andre, men også meg sjøl, såpass mange ganger, at det er jeg trygg på. Samtidig hadde jeg ikke sett på det som et verktøy jeg kan bruke for å bearbeide noe jeg sliter med.
 
-![[anerkjenn din egen superkraft-1685867151883.jpeg|anerkjenn din egen superkraft-1685867151883.jpeg]]
+![[images/anerkjenn din egen superkraft-1685867151883.jpeg]]
 
 Jeg tror nettopp det kan være en av fordelene med å anerkjenne hva superkraften din er. Hva du er unikt god på, men som du kanskje tar som en selvfølge. Hvor du ikke tenker over at.. ikke alle hadde gjort det der like enkelt. Når du har et bevisst forhold til din egen superkraft vil du også kunne bruke den mer aktivt.
 

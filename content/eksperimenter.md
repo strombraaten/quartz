@@ -55,7 +55,7 @@ Om du vil fokusere på å drikke mindre alkohol i løpet av en uke så burde ikk
 
 Her er et seks år gammelt eksempel fra da jeg prioriterte yoga for å bli mer fleksibel:
 
-![[images/Simens-skjermbilder-29-04-2023-kl08.08.png|images/Simens-skjermbilder-29-04-2023-kl08.08.png]]
+![[images/Simens-skjermbilder-29-04-2023-kl08.08.png]]
 
 Med trening f. eks, det som har holdt meg gående over lengst tid, er å tenke at jeg skal trene tre ganger på én uke. Også fokuserer jeg på én uke om gangen. Og nå har jeg holdt det gående i 21 uker i strekk. Ikke at jeg sier det for å skryte nødvendigvis, selv om jeg er jo stolt av det, men det er heller et eksempel på at en uke om gangen kan bli mange over tid.
 

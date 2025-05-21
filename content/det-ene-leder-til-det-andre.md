@@ -19,7 +19,7 @@ I ny og ne setter jeg meg nemlig ned for å skrive, uten noe mål og mening. Bar
 
 Siden jeg har alle skriveriene mine lett tilgjengelig i [[obsidian]], min foretrukne skrive-app, kan jeg kjapt hoppe mellom gamle og nye tanker. Som du kan se på bildet under, har jeg oversikten over alle filene på venstresida (1), og som regel et annet notat åpent på høyresida (2) av det jeg faktisk skriver på (3). 
 
-![[obsidian-skrive-notater.jpg]]
+![[images/obsidian-skrive-notater.jpg]]
 
 Som oftest er det flere faner og, hvis jeg har marinert i tankene over en times tid.
 

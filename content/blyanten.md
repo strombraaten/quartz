@@ -95,7 +95,7 @@ Spør du meg, så blir de beste ideene alltid skapt sammen med andre. For å få
 
 Siden blyantstreken blir temmelig stygg så stiller alle mer eller mindre likt i diskusjonen. Både tegneglade designere og de folka som er mindre glade i å tegne. Du åpner opp for at "*det her kan hvem som helst få til*", for det handler bare om å lage en runding rundt noe, eller en strek fra ett sted til et annet.
 
-![[Blyanten-senker-terskelen-spisse-sammendrag.jpg]]
+![[images/Blyanten-senker-terskelen-spisse-sammendrag.jpg]]
 
 > **Petter:**
 > Siden det ser uferdig ut så skjønner alle at tankene man illustrerer er "halvtygde" - dermed åpner man opp for innspill og diskusjon. Så lenge det er mulig å skjønne hva som tegnes, og dermed mulig å kritisere og være enig eller uenig (uenig er best, da får man luket ut misforståelser i samtalen) i poenger/ideer, fungerer blyantstrekene!

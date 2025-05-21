@@ -43,7 +43,7 @@ Men som sagt, så virker det som at alle kommer tilbake igjen. For hvis ikke mus
 
 ## Blir det egentlig bedre?
 
-![[ipod.jpg]]
+![[images/ipod.jpg]]
 
 Dersom du går for iPod-livet, og sånn sett tar et stort steg tilbake i tid, blir det bedre? Eller blir det verre? Vanskeligere? Vil det gi deg mer glede? Eller fylle deg med mer frustrasjon? Ikke veit jeg.
 
@@ -71,7 +71,7 @@ Om du er nysgjerrig kan du se [denne filmen av hvordan Rockbox ser ut i praksis]
 
 ## Convenience vs verdier
 
-![[convenience.jpg]]
+![[images/convenience.jpg]]
 
 Når man snakker om gode brukeropplevelser ser man ofte på om noe er "convenient", som de sier på engelsk. Er det lett tilgjengelig? Enkelt å bruke? Det skal ikke komme i veien, men heller hjelpe deg med å gjøre det du vil. Med lite innsats fra din side. Ordet defineres som "the state of being able to proceed with something with little effort or difficulty". I tillegg til "a thing that contributes to an easy and effortless way of life".
 

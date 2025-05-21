@@ -45,7 +45,7 @@ Før eller seinere må du uansett innom terminalen. Jeg har tidligere kalt den f
 
 ### Github desktop
 
-![[Pasted image 20240224180641.png]]
+![[images/Pasted image 20240224180641.png]]
 
 https://desktop.github.com/
 
@@ -63,7 +63,7 @@ Når desperasjonen er nær, og frustrasjonen er her, så er gode råd dyre. AI-h
 
 Nedenfor kan du se et eksempel hvor jeg spørte AI-chatten i [[raycast|raycast]] om hjelp med å implementere tinylytics på hjemmesida mi. *Tinylytics* gjør det samme som google analytics, bare på en veldig liten skala, med personvern i fokus, og med muligheten for mer menneskelig kontakt.
 
-![[Simens-skjermbilder-24-02-2024-kl16.37.jpg]]
+![[images/Simens-skjermbilder-24-02-2024-kl16.37.jpg]]
 
 ## Outline
 
