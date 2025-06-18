@@ -34,7 +34,7 @@ Det er jo mye som kan trigge en "transformativ" tanke – fra bøker, artikler, 
 
 Du veit, de øyeblikkene som får deg til å tenke, "_Å, det var jeg ikke klar over!_", eller "_Hmm, det var en fin måte å si det på._"
 
-Skriver du det da i et notat på telefonen, eller en notatbok, og lagrer de for deg sjøl?
+Skriver du det da i et notat på telefonen, eller en notatbok, og lagrer de for deg sjøl? Eller lar du tanken bare fly avgårde, som en fugl som flyr forbi?
 
 Å bruke det man lærer vil sannsyligvis se annerledes ut fra person til person. Samtidig tror jeg vi alle har levd mange år uten å nødvendigvis ta i bruk den kunnskapen vi tilegner vårs.
 
