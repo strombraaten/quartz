@@ -23,12 +23,19 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
   ],
   left: [
-    Component.MobileOnly(Component.Explorer()),
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.DesktopOnly(Component.Darkmode()),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.Flex({
+      components: [
+        {
+          Component: Component.Search(),
+          grow: true,
+        },
+        { Component: Component.Darkmode() },
+        { Component: Component.ReaderMode() },
+      ],
+    }),
+    Component.Explorer(),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
