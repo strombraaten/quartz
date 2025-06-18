@@ -17,4 +17,4 @@ Du skulle tro det bare var noe som skjedde en gang i blant, men ettersom jeg skr
 
 I stedet for å se på det som et artig unntakstilfelle prøver jeg nå å tilrettelegge for det. For ved å skrive ned tankene mine som om det var ment til én person — og fokusere på [[lare-apent|å lære åpent]] — kan jeg også dele det med alle i etterkant. Og den ene personen du skriver til kan gjerne være til [[ditt-fremmede-jeg|ditt framtidige, fremmede jeg]]:
 
-> Hvorfor det? Fordi om noen år kommer jeg høyst sannsynlig ikke til å huske hva jeg tenkte i det øyeblikket jeg leste en spesifikk setning, dersom jeg kun kopierer den ord-for-ord. Og sånn sett _blir_ jeg den personen jeg ikke kjenner.
+> ..Om noen år kommer jeg høyst sannsynlig ikke til å huske hva jeg tenkte i det øyeblikket jeg leste en spesifikk setning, dersom jeg kun kopierer den ord-for-ord. Og sånn sett _blir_ jeg den personen jeg ikke kjenner.
