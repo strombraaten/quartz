@@ -31,7 +31,7 @@ På den måten snubler jeg stadig over noe jeg har skrevet om tidligere, som han
 
 Det er også noe av det jeg liker aller best med å skrive – det å hoppe fra én tanke til den neste. Å bare utforske hvor tankene tar veien. Du kan se på det som *assosiativ skriving*.
 
-## Hva er [[assosiativ-skriving|assosiativ skriving]]?
+## Hva er assosiativ skriving?
 
 Ofte starter det med at jeg rabler ned noen tanker, skriver tre-fire avsnitt, og plutselig skriver jeg noe som burde utdypes i større grad. Hvor en setning utløser en rekke med andre tanker, som er vel så spennende å utforske. Det er da jeg begynner på et nytt notat, som altså blir en ny fane i Obsidian. Som fort vekk leder til enda et nytt notat og enda en ny fane.
 
@@ -45,7 +45,7 @@ For det er lettere å løpe 5 km når du allerede har gått 500 meter. Og det er
 
 Dette gjelder så mange ulike områder, men la meg gi deg noen eksempler.
 
-## Hvordan [[momentum|momentum skaper momentum]]
+## Hvordan momentum skaper momentum
 
 ### Ekspert-testing som alternativ til brukertesting
 
