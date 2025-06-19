@@ -23,8 +23,33 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
   ],
   left: [
+    // PageTitle at the top (for both mobile and desktop)
     Component.PageTitle(),
-    // Mobile layout: Search and Darkmode on a separate row below PageTitle
+    
+    // For desktop: Search and Darkmode below PageTitle
+    Component.DesktopOnly(
+      Component.Flex({
+        components: [
+          {
+            Component: Component.Search(),
+            grow: true,       // Search will expand to fill available space
+            align: "center",  // Center vertically
+          },
+          { 
+            Component: Component.Darkmode(),
+            grow: false,      // Keep natural size
+            align: "center",  // Center vertically
+          },
+        ],
+        direction: "row",     // Arrange components horizontally
+        gap: "1rem",          // Space between components
+      })
+    ),
+    
+    // Explorer (for both mobile and desktop)
+    Component.Explorer(),
+    
+    // For mobile only: Search and Darkmode below Explorer
     Component.MobileOnly(
       Component.Flex({
         components: [
@@ -49,26 +74,6 @@ export const defaultContentPageLayout: PageLayout = {
         gap: "0.75rem",       // Space between components
       })
     ),
-    // Desktop layout: Keep the original layout with enhanced options
-    Component.DesktopOnly(
-      Component.Flex({
-        components: [
-          {
-            Component: Component.Search(),
-            grow: true,       // Search will expand to fill available space
-            align: "center",  // Center vertically
-          },
-          { 
-            Component: Component.Darkmode(),
-            grow: false,      // Keep natural size
-            align: "center",  // Center vertically
-          },
-        ],
-        direction: "row",     // Arrange components horizontally
-        gap: "1rem",          // Space between components
-      })
-    ),
-    Component.Explorer(),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
