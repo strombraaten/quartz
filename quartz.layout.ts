@@ -6,7 +6,10 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-    Component.Backlinks(),
+    Component.ConditionalRender({
+      condition: (props) => props.fileData.slug !== "index",
+      component: Component.Backlinks(),
+    }),
   ],
   footer: Component.Footer({
     links: {
@@ -24,10 +27,51 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     // Desktop layout (unchanged)
-    Component.PageTitle(),
     Component.DesktopOnly(
       Component.Flex({
+        direction: "column",  // Vertical arrangement (column)
+        gap: "1rem",          // Space between items
         components: [
+          {
+            Component: Component.Flex({
+              direction: "row",     // Horizontal arrangement
+              gap: "0.75rem",       // Space between PageTitle and Explorer
+              components: [
+                {
+                  Component: Component.Explorer(),
+                },
+                {
+                  Component: Component.PageTitle(),
+                },
+              ]
+            }),
+          },
+          {
+            Component: Component.Flex({
+              direction: "row",     // Horizontal arrangement
+              gap: "0.75rem",       // Space between Search and Darkmode
+              components: [
+                {
+                  Component: Component.Search(),
+                },
+                { 
+                  Component: Component.Darkmode()
+                },
+              ]
+            }),
+          },
+        ],
+      })
+    ),
+    Component.MobileOnly(
+      Component.Flex({
+        components: [
+          {
+            Component: Component.PageTitle(),
+          },
+          {
+            Component: Component.Explorer(),
+          },
           {
             Component: Component.Search(),
             grow: true,
@@ -38,7 +82,6 @@ export const defaultContentPageLayout: PageLayout = {
         gap: "1rem",
       })
     ),
-    Component.DesktopOnly(Component.Explorer()),
     
     // Mobile layout: Column with PageTitle, Explorer, and then Search+Darkmode row
     Component.MobileOnly(
