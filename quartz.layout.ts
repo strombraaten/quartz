@@ -6,11 +6,11 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-    Component.ConditionalRender({
-      condition: (props) => props.fileData.slug !== "index",
-      component: Component.Backlinks(),
-    }),
-  ],
+  Component.ConditionalRender({
+    condition: (props) => props.fileData.slug !== "index",
+    component: Component.Backlinks(),
+  }),
+],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/strombraaten/quartz",
@@ -26,104 +26,18 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
   ],
   left: [
-    // Desktop layout (unchanged)
-    Component.DesktopOnly(
-      Component.Flex({
-        direction: "column",  // Vertical arrangement (column)
-        gap: "1rem",          // Space between items
-        components: [
-          {
-            Component: Component.Flex({
-              direction: "row",     // Horizontal arrangement
-              gap: "0.75rem",       // Space between PageTitle and Explorer
-              components: [
-                {
-                  Component: Component.Explorer(),
-                },
-                {
-                  Component: Component.PageTitle(),
-                },
-              ]
-            }),
-          },
-          {
-            Component: Component.Flex({
-              direction: "row",     // Horizontal arrangement
-              gap: "0.75rem",       // Space between Search and Darkmode
-              components: [
-                {
-                  Component: Component.Search(),
-                },
-                { 
-                  Component: Component.Darkmode()
-                },
-              ]
-            }),
-          },
-        ],
-      })
-    ),
-    Component.MobileOnly(
-      Component.Flex({
-        components: [
-          {
-            Component: Component.PageTitle(),
-          },
-          {
-            Component: Component.Explorer(),
-          },
-          {
-            Component: Component.Search(),
-            grow: true,
-          },
-          { Component: Component.Darkmode() },
-        ],
-        direction: "row",
-        gap: "1rem",
-      })
-    ),
-    
-    // Mobile layout: Column with PageTitle, Explorer, and then Search+Darkmode row
-    Component.MobileOnly(
-      Component.Flex({
-        direction: "column",  // Vertical arrangement (column)
-        gap: "1rem",          // Space between items
-        components: [
-          {
-            // First item: PageTitle and Explorer, side-by-side
-            Component: Component.Flex({
-              direction: "row",     // Horizontal arrangement
-              gap: "0.75rem",       // Space between PageTitle and Explorer
-              components: [
-                {
-                  Component: Component.PageTitle(),
-                },
-                {
-                  Component: Component.Explorer(),
-                }
-              ]
-            }),
-          },
-          {
-            // Second item: Row with Search and Darkmode
-            Component: Component.Flex({
-              direction: "row",     // Horizontal arrangement
-              gap: "0.75rem",       // Space between Search and Darkmode
-              components: [
-                {
-                  Component: Component.Search(),
-                  grow: true,       // Search expands to fill width
-                },
-                {
-                  Component: Component.Darkmode(),
-                  grow: false,      // Darkmode uses only needed space
-                }
-              ]
-            }),
-          }
-        ]
-      })
-    )
+    Component.PageTitle(),
+    Component.MobileOnly(Component.Spacer()),
+    Component.Flex({
+      components: [
+        {
+          Component: Component.Search(),
+          grow: true,
+        },
+        { Component: Component.Darkmode() },
+      ],
+    }),
+    Component.Explorer(),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
