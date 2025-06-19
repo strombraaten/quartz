@@ -24,16 +24,50 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
-        { Component: Component.Darkmode() },
-      ],
-    }),
+    // Mobile layout: Search and Darkmode on a separate row below PageTitle
+    Component.MobileOnly(
+      Component.Flex({
+        components: [
+          {
+            Component: Component.Search(),
+            grow: true,       // Search will expand to fill available space
+            shrink: true,     // Allow shrinking if needed
+            basis: "0",       // Start with minimum size and grow from there
+            align: "center",  // Center vertically
+            justify: "start", // Align to start of main axis
+          },
+          { 
+            Component: Component.Darkmode(),
+            grow: false,      // Don't expand beyond natural size
+            shrink: false,    // Don't shrink below natural size
+            align: "center",  // Center vertically
+            justify: "end",   // Align to end of main axis
+          },
+        ],
+        direction: "row",     // Arrange components horizontally
+        wrap: "nowrap",       // Don't wrap to next line
+        gap: "0.75rem",       // Space between components
+      })
+    ),
+    // Desktop layout: Keep the original layout with enhanced options
+    Component.DesktopOnly(
+      Component.Flex({
+        components: [
+          {
+            Component: Component.Search(),
+            grow: true,       // Search will expand to fill available space
+            align: "center",  // Center vertically
+          },
+          { 
+            Component: Component.Darkmode(),
+            grow: false,      // Keep natural size
+            align: "center",  // Center vertically
+          },
+        ],
+        direction: "row",     // Arrange components horizontally
+        gap: "1rem",          // Space between components
+      })
+    ),
     Component.Explorer(),
   ],
   right: [
