@@ -23,57 +23,64 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
   ],
   left: [
-    // PageTitle at the top (for both mobile and desktop)
+    // Desktop layout (unchanged)
     Component.PageTitle(),
-    
-    // For desktop: Search and Darkmode below PageTitle
     Component.DesktopOnly(
       Component.Flex({
         components: [
           {
             Component: Component.Search(),
-            grow: true,       // Search will expand to fill available space
-            align: "center",  // Center vertically
+            grow: true,
           },
-          { 
-            Component: Component.Darkmode(),
-            grow: false,      // Keep natural size
-            align: "center",  // Center vertically
-          },
+          { Component: Component.Darkmode() },
         ],
-        direction: "row",     // Arrange components horizontally
-        gap: "1rem",          // Space between components
+        direction: "row",
+        gap: "1rem",
       })
     ),
+    Component.DesktopOnly(Component.Explorer()),
     
-    // Explorer (for both mobile and desktop)
-    Component.Explorer(),
-    
-    // For mobile only: Search and Darkmode below Explorer
+    // Mobile layout: Column with PageTitle, Explorer, and then Search+Darkmode row
     Component.MobileOnly(
       Component.Flex({
+        direction: "column",  // Vertical arrangement (column)
+        gap: "1rem",          // Space between items
         components: [
           {
-            Component: Component.Search(),
-            grow: true,       // Search will expand to fill available space
-            shrink: true,     // Allow shrinking if needed
-            basis: "0",       // Start with minimum size and grow from there
-            align: "center",  // Center vertically
-            justify: "start", // Align to start of main axis
+            // First item: PageTitle and Explorer, side-by-side
+            Component: Component.Flex({
+              direction: "row",     // Horizontal arrangement
+              gap: "0.75rem",       // Space between PageTitle and Explorer
+              components: [
+                {
+                  Component: Component.PageTitle(),
+                },
+                {
+                  Component: Component.Explorer(),
+                }
+              ]
+            }),
           },
-          { 
-            Component: Component.Darkmode(),
-            grow: false,      // Don't expand beyond natural size
-            shrink: false,    // Don't shrink below natural size
-            align: "center",  // Center vertically
-            justify: "end",   // Align to end of main axis
-          },
-        ],
-        direction: "row",     // Arrange components horizontally
-        wrap: "nowrap",       // Don't wrap to next line
-        gap: "0.75rem",       // Space between components
+          {
+            // Second item: Row with Search and Darkmode
+            Component: Component.Flex({
+              direction: "row",     // Horizontal arrangement
+              gap: "0.75rem",       // Space between Search and Darkmode
+              components: [
+                {
+                  Component: Component.Search(),
+                  grow: true,       // Search expands to fill width
+                },
+                {
+                  Component: Component.Darkmode(),
+                  grow: false,      // Darkmode uses only needed space
+                }
+              ]
+            }),
+          }
+        ]
       })
-    ),
+    )
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
