@@ -1,6 +1,16 @@
 @use "./base.scss";
 @use "./variables.scss" as *;
 
+@media all and not ($mobile) {
+  .page {
+    & > #quartz-body {
+      & > .center {
+        max-width: 70ch;
+      }
+    }
+  }
+}
+
 /**
  * Custom Theme Overrides
  * ----------------------
