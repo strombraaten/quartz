@@ -3,8 +3,6 @@ date: 2025-05-18
 lastmod: 2025-05-21
 tags:
   - læring
-aliases:
-  - del med alle
 title: Skriv til en, del med alle
 publish: true
 slug: del-med-alle
