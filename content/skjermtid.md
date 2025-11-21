@@ -50,7 +50,7 @@ Og i et forsøk om å ta tilbake kontrollen over sin egen telefonbruk er det man
 
 I prosessen av å dumme ned iphonen min kikka jeg også på hva som finnes av dum-telefoner i dag. Det er jo lett å tenke på sånne Nokia-telefoner f. eks, som mange av vårs hadde på 90-og tidlig 2000-tallet. Samtidig finnes det noen moderne alternativer der ute, som: 
 
-- Light phone 2 og 3
+- [Light phone 2 og 3](https://www.thelightphone.com/shop)
 - [Punkt mp01 og mp02](https://www.punkt.ch/en/products/mp02-4g-mobile-phone/)
 - [Mudita Kompakt](https://mudita.com/products/phones/mudita-kompakt/)
 - [Minimal phone](https://minimalcompany.com/)
