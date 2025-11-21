@@ -53,8 +53,8 @@ I prosessen av å dumme ned iphonen min kikka jeg også på hva som finnes av du
 - Light phone 2 og 3
 - [Punkt mp01 og mp02](https://www.punkt.ch/en/products/mp02-4g-mobile-phone/)
 - [Mudita Kompakt](https://mudita.com/products/phones/mudita-kompakt/)
-- Minimal phone
-- CAT S22 flip
+- [Minimal phone](https://minimalcompany.com/)
+- [CAT S22 flip](https://thecatphones.com/)
 
 Helt fram til jeg så noen på Reddit som nevnte at de hadde brukt en Apple Watch som telefon over en lengre stund. For på papiret har jo den faktisk alt du trenger. Du kan ringe, sende meldinger, høre på musikk, lydbøker, og podkaster, bruke google maps til å navigere. Kan det være "the holy grail"? Kort fortalt, nei. 
 
@@ -62,7 +62,7 @@ Helt fram til jeg så noen på Reddit som nevnte at de hadde brukt en Apple Watc
 
 Det å bruke en smartklokke som en dum-telefon er egentlig en utrolig spennende tanke. For det fysiske formatet aleine begrenser hva du vil bruke den til. Den eneste utfordringa er at.. Det fungerer ikke i praksis. Ikke på den måten du er vant til å stole på en telefon. 
 
-Vi er alle vant til forutsigbarheten av at du får varselet om en ny melding eller telefonsamtale – uansett om du vil eller ikke. Hvis du vil dykke ned i *hvorfor* det ikke funker, kan du lese mer om [[private/smartklokke som dumtelefon|hva jeg lærte av å bruke en Apple Watch som dum-telefon]].
+Vi er alle vant til forutsigbarheten av at du får varselet om en ny melding eller telefonsamtale – uansett om du vil eller ikke. Hvis du vil dykke ned i *hvorfor* det ikke funker, kan du lese mer om [[smartklokke-som-dumtelefon|hva jeg lærte av å bruke en Apple Watch som dum-telefon]].
 
 ### Paradokset med dum-telefoner
 
@@ -84,11 +84,11 @@ Sånn sett går vi "full circle", for da er vi tilbake på smarttelefonen. Men h
 
 Jo, den ser sånn her ut:
 
-> [!todo]  Ta bilde av telefonen, og sett det inn her
+![[images/jelly-star.avif]]
 
-Det du ser her er en såkalt [Jelly Star](https://www.unihertz.com/products/jelly-star?variant=44179567968495), fra et selskap som heter Unihertz. Det er en fullt fungerende Android-telefon, bare at den er knøttliten. Hvor liten, lurer du på? Jo, den er 9,5 cm høy, 5 cm bred, 1,9 cm tjukk. Til sammenligning er bredden og høyden omtrent like stor som en vanlig datamus. Eller så kan du se den ved siden av en iphone 13 mini. Som jo ligger i navnet, at den er blant de desidert mindre telefonene du finner nå til dags, men ikke i nærheten så mini som Jelly Star.
+Det du ser her er en såkalt [Jelly Star, fra et selskap som heter Unihertz](https://www.unihertz.com/products/jelly-star?variant=44179567968495). Det er en fullt fungerende Android-telefon, bare at den er knøttliten. Hvor liten, lurer du på? Jo, den er 9,5 cm høy, 5 cm bred, 1,9 cm tjukk. Til sammenligning er bredden og høyden omtrent like stor som en vanlig datamus. Eller så kan du se den ved siden av en iphone 13 mini. Som jo ligger i navnet, at den er blant de desidert mindre telefonene du finner nå til dags, men ikke i nærheten så mini som Jelly Star.
 
-> [!todo] Sett inn bildet av telefonene ved siden av hverandre
+![[images/iphone13mini-vs-jellystar 5.jpg]]
 
 Denne lille rakkeren kosta meg 2500 kr, og etter litt knoting vil jeg si det er et av de bedre kjøpene jeg har gjort på lenge.
 
