@@ -2,9 +2,7 @@
 @use "./variables.scss" as *;
 
 @media all and not ($mobile) {
-  .page {
-    & > #quartz-body {
-      & > .center {
+  .page { & > #quartz-body { & > .center {
         max-width: 70ch;
       }
     }
@@ -29,38 +27,6 @@
  * - --highlight: Internal link background, highlighted text
  * - --textHighlight: Markdown highlighted text background
  */
-
-// Light Mode Theme: Dark text on a light background
-html[data-theme="light"] {
-  // Core Colors
-  --light: #fafafa;                     // Page background (Primary light color)
-  --darkgray: #09090b;                 // Body text (Primary dark color)
-  --dark: #09090b;                     // Header text & icons (Matches body text)
-  --secondary: #09090b;                // Link color (Matches body text)
-
-  // Supporting Colors (Derived from the primary dark color #09090b)
-  --lightgray: rgba(9, 9, 11, 0.15);   // Borders
-  --gray: rgba(9, 9, 11, 0.30);        // Heavier borders, graph links
-  --tertiary: rgba(9, 9, 11, 0.70);    // Hover states
-  --highlight: rgba(9, 9, 11, 0.05);   // Internal link background, highlighted text
-  --textHighlight: rgba(9, 9, 11, 0.1);// Markdown highlighted text background
-}
-
-// Dark Mode Theme: Light text on a dark background
-html[data-theme="dark"] {
-  // Core Colors
-  --light: #09090b;                     // Page background (Primary dark color)
-  --darkgray: #fafafa;                 // Body text (Primary light color)
-  --dark: #fafafa;                     // Header text & icons (Matches body text)
-  --secondary: #fafafa;                // Link color (Matches body text)
-
-  // Supporting Colors (Derived from the primary light color #fafafa)
-  --lightgray: rgba(250, 250, 250, 0.20); // Borders
-  --gray: rgba(250, 250, 250, 0.40);      // Heavier borders, graph links
-  --tertiary: rgba(250, 250, 250, 0.70);  // Hover states
-  --highlight: rgba(250, 250, 250, 0.05); // Internal link background, highlighted text
-  --textHighlight: rgba(250, 250, 250, 0.1);// Markdown highlighted text background
-}
 
 // You can add any other custom CSS rules below this line.
 // For example, custom font styles, component adjustments, etc.
