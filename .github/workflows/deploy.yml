@@ -6,7 +6,8 @@ on:
       - v4
  
 env:
-  THEME_NAME: <flexoki-warm>
+  # Name of the Quartz theme to fetch; avoid shell redirection chars
+  THEME_NAME: flexoki-warm
 
 permissions:
   contents: read
