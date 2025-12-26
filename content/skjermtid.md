@@ -96,4 +96,4 @@ Mange vil nok si at iphonen min også så ganske kjedelig ut, men det er så let
 
 Og jeg tror størrelsen på telefonene egentlig er relevant her. For det er bare mer engasjerende. Det er jo morsommere å se en film på kino, sammenligna med en liten ipad. Det er det ikke noe tvil om. Det samme gjelder bilder av venner, filmsnutter av det ene og det andre, og hva enn du bruker dine [fire timer med skjermtid om dagen på](https://www.forskning.no/internett-ntb-sosiale-medier/nordmenn-er-pa-internett-rundt-4-timer-daglig/2189717). 
 
-Størrelsen er jo én ting, men det skal sies at jeg har gjort en del tilpasninger på den. Det kan du lese mer om her [[minste-telefonen]].
+Størrelsen er jo én ting, men det skal sies at jeg har gjort en del tilpasninger på den. Les mer om [[minste-telefonen|tilpasningene på den minste telefonen]].
