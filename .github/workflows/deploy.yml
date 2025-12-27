@@ -6,7 +6,6 @@ on:
       - v4
  
 env:
-  # Name of the Quartz theme to fetch; avoid shell redirection chars
   THEME_NAME: flexoki-warm
 
 permissions:
@@ -31,7 +30,7 @@ jobs:
       - name: Install Dependencies
         run: npm ci
       - name: Fetch Quartz Theme
-        run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- ${{ env.THEME_NAME }}
+        run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- $THEME_NAME
       - name: Build Quartz
         run: npx quartz build
       - name: Upload artifact
