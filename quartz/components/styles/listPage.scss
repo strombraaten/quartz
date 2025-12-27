@@ -19,6 +19,10 @@ li.section-li {
       }
     }
 
+    & > .tags {
+      justify-content: flex-end;
+    }
+
     & > .desc > h3 > a {
       background-color: transparent;
     }
