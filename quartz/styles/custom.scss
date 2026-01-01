@@ -3,6 +3,19 @@
 @use "./variables.scss" as *;
 // Put custom styles here
 
+@media all and ($desktop) {
+  body div#quartz-root.page div#quartz-body {
+    width: 100%;
+    max-width: 100%;
+    padding: 0 auto;
+    div.center, footer {
+      max-width: min(75ch, 85%);
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+}
+
 // Adding some spacing between entries in the explorer
 div.explorer {
   .overflow {
