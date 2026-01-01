@@ -14,11 +14,21 @@ div.explorer {
   .overflow {
       li {
           li {
-              margin-bottom: 0.7rem;
+              margin-bottom: 0.3rem;
           }
           &:last-child {
               margin-bottom: 0;
           }
       }
+  }
+}
+
+// Change style for external links
+a {
+  &.external {
+      text-decoration: underline;
+      text-decoration-color: var(--secondary);
+      color: var(--darkgray);
+      background-color: var(--light);
   }
 }
