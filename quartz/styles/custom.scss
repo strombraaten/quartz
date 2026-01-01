@@ -1,14 +1,6 @@
 @use "./base.scss";
 @use "./variables.scss" as *;
 
-@media all and not ($mobile) {
-  .page { & > #quartz-body { & > .center {
-        max-width: 70ch;
-      }
-    }
-  }
-}
-
 // Adding some spacing between entries in the explorer
 div.explorer {
   .overflow {
