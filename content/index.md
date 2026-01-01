@@ -23,11 +23,11 @@ Jeg er også en [[god-designer-darlig-utvikler|dårlig utvikler]], så jeg håpe
 
 Det er noen overordnede kategorier som går igjen, men start med det som virker mest relevant for deg:
 
-- **[Tankemat](https://simenskriver.no/tags/tankemat)** 
+- [**Tankemat**](https://simenskriver.no/tags/tankemat) 
 	- Start med [[sammenligning]], eller [[superkraft|anerkjenn din egen superkraft]]
 - [**Skriving**](https://simenskriver.no/tags/skriving) 
 	- Start med [[25-artikler-23-dager|hva jeg lærte av å skrive 25 artikler på 23 dager]], eller se [[skriveprosessen|skriveprosessen min på 6 minutter]] i praksis
-- **[Apper](https://simenskriver.no/tags/apper)** og [**teknologi**](https://simenskriver.no/tags/teknologi) 
+- [**Apper**](https://simenskriver.no/tags/apper) og [**teknologi**](https://simenskriver.no/tags/teknologi) 
 	- Start med [[klisterhjerne]], eller [[den-ene-funksjonen|den ene funksjonen]]
 - [**Læring**](https://simenskriver.no/tags/l%C3%A6ring)
 	- Start med [[bruk-det-du-larer|å bruke det du lærer]], eller se et eksempel fra notatene mine om [[css|CSS]]
