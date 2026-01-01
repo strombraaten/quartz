@@ -1,5 +1,7 @@
 @use "./base.scss";
 @use "./variables.scss" as *;
+@use "sass:map";
+// Put custom styles here
 
 // Adding some spacing between entries in the explorer
 div.explorer {
