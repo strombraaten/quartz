@@ -9,24 +9,16 @@
   }
 }
 
-/**
- * Custom Theme Overrides
- * ----------------------
- * This section defines a two-tone minimalist theme, overriding the default
- * Quartz color palette. It establishes distinct color schemes for light and dark
- * modes, primarily utilizing #fafafa (as the light base) and #09090b (as the dark base).
- *
- * The color variables map to the roles defined in the Quartz documentation:
- * - --light: Page background
- * - --darkgray: Body text
- * - --dark: Header text and icons
- * - --secondary: Link color
- * - --lightgray: Borders
- * - --gray: Heavier borders, graph links
- * - --tertiary: Hover states
- * - --highlight: Internal link background, highlighted text
- * - --textHighlight: Markdown highlighted text background
- */
-
-// You can add any other custom CSS rules below this line.
-// For example, custom font styles, component adjustments, etc.
+// Adding some spacing between entries in the explorer
+div.explorer {
+  .overflow {
+      li {
+          li {
+              margin-bottom: 0.3rem;
+          }
+          &:last-child {
+              margin-bottom: 0;
+          }
+      }
+  }
+}
