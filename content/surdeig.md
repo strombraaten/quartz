@@ -11,17 +11,25 @@ description:
 
 ## Surdeig for nybegynnere
 
-Surdeig er en av de tinga som virker mer komplisert enn det er. I praksis slenger du bare mel og vann i et syltetøyglass, fram til du har en havregrøt-lignende konsistens.
+Surdeig er en av de tinga som virker mer komplisert enn det er. I praksis slenger du bare mel og vann i et syltetøyglass, fram til du har en havregrøt-lignende konsistens. Det er ikke verre.
+
+### Kjekt å vite
 
 Jeg tar utgangspunkt i at du har fått henda dine på en surdeigsstarter fra en venn eller fjernt bekjent, og skal bare hindre at den rakkeren dør, så du kjøper deg nok tid til å bake ditt første brød.
 
 Du kan definitivt lage det helt fra bunnen, men om du aldri har gjort det før kan det være nyttig med drahjelp til å starte med. Bare så du veit at du starter med et godt utgangspunkt.
 
+Utover det er det to deler å tenke på:
+1. Hvordan holder du den i live?
+2. Hvordan bruker du den faktisk i baking?
+
 ## Hvordan holde den i live
 
-Surdeigen burde mates én gang i uka, hvis du har den i kjøleskapet. Om den står på benken i romtemperatur må du mate den oftere.
+For å senke terskelen så mye som mulig, kan du mate den én gang i uka. Gitt at du lar den stå i kjøleskapet resten av uka. Dersom du lar den stå på kjøkkenbenken i romtemperatur må du mate den oftere.
 
 ### Hvordan mate surdeigen?
+
+Før du skal mate den bør du sørge for at surdeigsstarteren har sånn ca romtemperatur. Min står alltid i kjøleskapet (for å begrense vedlikeholdet), så da tar jeg den ut to-tre timer før jeg skal mate den. Typisk sett gjør jeg det før jeg spiser middag. Da blir det en naturlig rutine å mate den før jeg legger meg.
 
 Når vi snakker om mating består det av:
 1. Finne fram et nytt og reint glass
@@ -29,26 +37,11 @@ Når vi snakker om mating består det av:
 3. Legg til 40 gram mel, og 40 gram vann
 	- Økologisk mel funker mye bedre enn ikke-økologisk (veit ikke hvorfor)
 4. Rør rundt
-	- Det som er viktigst er at det ser ut som en fuktig grøtlignende konsistens. Ærlig talt så tar jeg detta på slump nå. Og slenger oppi et par skjeer mel, og så mye vann som jeg trenger rett fra krana. Trenger ikke være rakettforskning akkurat.
+	- Det som er viktigst er at det ser ut som en fuktig grøtlignende konsistens.
+		- Ærlig talt så tar jeg detta på slump nå. Og slenger oppi et par skjeer mel, og så mye vann som jeg trenger rett fra krana. Trenger ikke være rakettforskning akkurat.
+5. Sett det nye glasset i kjøleskapet, eller vent ca 12 timer til å se at den lever
 
-
-1. Den gamle surdeigsstarteren kan du enten bruke til bakst med en gang, gi til en venn, eller holde en begravelsesseremoni for i søpla.
-
-
-#### På kjøkkenbenken
-
-- 2 skjeer mel (ikke toppa)
-- 4 skjeer vann
-- Rør rundt
-- La stå på benken
-- Repeter igjen annenhver dag ca
-- Én gang i uka kan du gjerne bytte glass og
-
-#### I kjøleskapet
-
-- Mat surdeigen din én gang i uka
-- Før du skal mate den så må du la den stå ca 2 timer på kjøkkenbenken for å få en omtrentlig romtemperatur. 
-- Følg instruksene ovenfor
+Det som gjenstår av surdeigsstarteren din kan du bruke til bakst med en gang, gi til en venn, lag en backup-starter, eller bare tøm det ut i vasken.
 
 ## Selve bakinga
 
@@ -56,51 +49,102 @@ Surdeigen skal gjerne boble når du tar den i bruk. Sånn som det her:
 ![[images/surdeig-bobler.jpg]]
 
 
-> [!hint] Men! Jeg vil bare ha sagt det.
-> Jeg har bakt utallige brød med en surdeigsstarter som ikke har bobla. Og veit du hva? Det har jammen meg smakt godt det og.
+> [!hint] Bare så du veit det
+> Jeg har bakt utallige brød med en surdeigsstarter som ikke har bobla. Og veit du hva? I følge kona mi har de brøda ofte vært blant de aller beste. Så det virker ikke som det er så voldsomt viktig som mange skal ha det til.
 
-Jeg pleier å bruke den oppskriften her som et utgangspunkt:
+### Enkel oppskrift på brød
 
 - 500 gram vann
 - 450 gram mel
-	- Personlig pleier jeg å bruke 250 gram fint speltmel, og 200 gram grovt speltmel
+	- Personlig pleier jeg å bruke 250 gram grovt speltmel (eller rug), og 200 gram fint speltmel
 - 7-10 g salt
-- 1-6 gode spiseskje med surdeig (eller bare det som gjenstår etter matinga)
-- 50-150 gram med frø som du har i selve brøddeigen
-	- For eksempel 50 gr valnøtter +
-	- 75 gram med en blanding av gresskarkjerner, sesamfrø, og chiafrø
+- 6 gode spiseskjeer med surdeig (eller bare det som gjenstår etter matinga)
+- 50-100 gram med frø som du har i selve brøddeigen, avhengig av hva du liker
+	- For eksempel 50 gr valnøtter
+	- 50 gram med en blanding av chiafrø, solsikkefrø, og gresskarkjerner
 
-Da starter jeg med å helle vannet i bollen, og legger surdeigen oppi. Da kan du nemlig sjekke om den flyter, for da skal den tydeligvis være på sitt aller mest "bake-klare".
+#### Hva du gjør helt konkret
 
-Etter jeg har rørt alt rundt så ser deigen omtrent sånn her ut:
+Jeg pleier å bruke oppskriften ovenfor som et utgangspunkt, men det hele starter med at jeg setter en stor bakebolle oppå en kjøkkenvekt. Da går det fort å måle opp alt. 
+
+Faktisk så fort at jeg som regel slenger sammen en brøddeig på ca 10-15 minutter på kvelden nå.
+
+1. Hell vannet i bollen
+2. Deretter surdeigsstarteren
+	1. Om den flyter er det supert, for da skal den tydeligvis være på sitt aller mest "bake-klare"
+	2. Om den synker så går det som regel bra det og
+3. Rør rundt
+4. Ta oppi salt
+5. Ta oppi melet du vil bruke
+6. Sleng oppi frø eller nøtter
+
+Etter jeg har rørt alt rundt ser deigen omtrent sånn her ut:
 
 ![[images/surdeig.jpg]]
 
 ### Heving
 
-Hevetiden kan variere, men med oppskriften over lar jeg den gjerne heve på kjøkkenbenken i 6-24 timer. Avhengig av hvor mye surdeigstarter jeg har i brødet, og hva som passer best den dagen.
+Hevetiden kan variere, men med oppskriften over lar jeg den gjerne heve på kjøkkenbenken i ca 12-18 timer. 
 
-Mer surdeigstarter betyr nemlig at brødet ikke trenger å heve like lenge. Om jeg har 5-6 spiseskjeer i deigen, altså rundt 50-60 gram surdeigsstarter, lar jeg deigen heve i 6-8 timer. Hvis jeg kun bruker 1-2 spiseskjeer surdeigstarter lar jeg den som oftest heve i 18-24 timer.
+Hevetida er avhengig av hvor mye surdeigsstarter jeg har i brødet, og strengt talt hva som passer meg best den dagen. Dersom jeg trenger å utsette det mer, altså ha en lengre hevetid, bruker jeg mindre surdeigsstarter (f. eks kun 2 spiseskjeer).
 
-Det vil si at hvis jeg baker et brød kl 20 på kvelden så steiker jeg det som tilbehør til middagen dagen etter, rundt kl 17-18.
+Det motsatte fungerer nok også til en viss grad — hvor du bruker mer surdeigsstarter (f. eks 6-10 spiseskjeer), og lar den heve i 6-10 timer. Men det gjør jeg ærlig talt ikke så ofte.
+
+Typisk sett lager jeg en brøddeig ca kl 20-21 på fredags kveld, og steiker det til en sein frokost kl 10 på lørdags morgen.
 
 ### Steiketid
 
-Total steiketid er 55 minutter, men la meg bryte det ned for deg:
+Før steiking gjør du følgende:
+1. Finn fram en brødform
+2. Hell oppi litt steikeolje (rapsolje f. eks), og smør inn alle sidene i formen med det
+	1. Bare for at det skal være lettere for deg å ta brødet ut av formen i etterkant
+3. Finn fram noen sesamfrø/solsikkefrø/gresskarkjerner, og strø det over toppen av deigen (i formen)
 
-1. Varm opp ovnen først, til 250 grader
-	1. Om du bruker en støpejernsgryte eller brødform så kan du forvarme den sammen med ovnen
-2. Når ovnen er 220 grader setter du inn brødet på en rist i det nedre sjiktet i ovnen, i 30-40 minutter
-3. Når de 30-40 minuttene har gått burde du vurdere om toppen av brødet er ferdigstekt/ikke svidd
-	1. Om det ser ferdigstekt ut på toppen så kan du legge et ark med aluminiumsfolie over
-4. La det stå i ovnen i 10 minutter til
-	1. Om du har mulighet til å snu brødet rundt så kan du gjøre det, sånn at bunnen også blir crispy og god, men det er bare en bonus
-5. Når brødet totalt sett har stekt i 50 minutter tar du det ut av ovnen
-6. For at det ikke skal være så deigete inni så lar du det hvile på en rist i 45-60 minutter
-7. Deretter er det bare å eta på!
+Hvis du vil gjøre det lille eksta kan du også bruke en saks for å klippe opp brødet, midt på, nedover på langsida (ca 2 cm dypt).
 
-### Om rugmel
+Hvorfor? Jo, for brødet hever videre i ovnen. Og fuktigheten i deigen prøver å slippe ut et sted. Hvis du ikke gjør noe som helst "revner det" sidene, som regel. Som du kan se på bildet nedenfor.
 
-Rugmel trenger lengre tid på å heve, så hvis du har utelukkende rugmel burde den nok heve i 24-32 timer. Da kan det også lønne seg å kombinere det med hvetemel, som hever mye lettere. Men om du har kun speltmel f. Eks kan den nok klare seg med 16 timer omtrent.
+![[Simens-skjermbilder-12-01-2026-kl20.31.jpg]]
 
-Om du vil bake med kun rugmel kan du også prøve å ha like mye vann som du har mel — 500 gram mel og 500 gram vann, med andre ord. Nøyaktig grunnen er jeg litt usikker på, men det pleier å bli bra. Ekstra saftig.
+Dersom du er proaktiv derimot, og klipper deigen på midten blir brødet mindre kompakt. Nettopp fordi fuktigheten slipper ut på midten (på toppen), og brødet som regel blir høyere, med flere luftlommer i deigen, i stedet for deigete klumper.
+
+![[Simens-skjermbilder-12-01-2026-kl20.35.jpg]]
+
+I det siste har jeg også eksperimentert på å klippe det opp etter det har stekt i 10-15 minutter, bare for å se om det kommer et naturlig "strekkmerke" i deigen, hvor fuktigheten vil ut.
+
+#### Enkel variant
+
+1. Varm opp ovnen først til 220 grader
+2. Sett inn brødformen på en rist i det nedre sjiktet i ovnen
+3. Etter 50-55 minutter er det ferdig
+	1. Etter 40 minutter på denne varmen kan det være behov for å legge aluminiumsfolie over, hvis det ser ut som det blir veldig mørkt, eller svidd på toppen
+
+Den kjipeste delen av brødbakinga er at det må hvile i 45-60 minutter etter steikinga. Brødet er fremdeles ganske deigete hvis du prøver å ta deg en testskive med en gang du tar det ut av ovnen nemlig. Stol på meg. Gjort det mange ganger.
+
+Det ække det at jeg angrer nødvendigvis, men det er mye vanskeligere å skjære en sammenhengende brødskive, og magen kommer til å takke deg hvis du klarer å vente litt.
+
+#### Litt mer avansert variant
+
+1. Varm opp ovnen til 250 grader
+	1. Om du bruker en støpejernsgryte kan du forvarme den sammen med ovnen
+2. Sett brødet på en rist i det nedre sjiktet i ovnen
+	1. Start én nedtelling på 55 minutter
+	2. Start en annen nedtelling på 20 minutter
+		1. Etter det må du som regel dekke det til med aluminiumsfolie for å unngå at det blir for mørkt, eller svidd på toppen
+3. Etter de første 20 minuttene skrur du ned temperaturen til 220 grader
+	1. Her skal det stå de resterende 35 minuttene
+4. Etter totalt 50-55 minutter steiketid er det ferdig
+
+#### Hva du kan gjøre for at det skorpa blir mer crispy
+
+1. Pensle deigen med rapsolje, når det først ligger i brødformen
+	1. Gjøres gjerne i samme slengen som å strø på frø
+2. Når det er 10 minutter igjen av den totale steiketida kan du ta brødet ut av brødformen, snu det rundt, så det ligger på "hodet", og steik det videre i 10 minutter til
+3. Når brødet er ferdigstekt, og det bare skal kjøle seg ned, blir bunnen mer crispy dersom det ikke ligger rett på benken.
+	1. Legg det heller på en rist, helst en høy rist, sånn at det kan kjøle seg ned med luft fra undersida og. Oh yes. Nå er det avansert!
+
+## Avslutning
+
+Det tror jeg jammen meg er alt jeg har lært om brødbaking! Da er det bare å si lykke til. Og du? Det er ingenting som er så godt som en nybakt brødskive med smør altså. Jeg bare sier det.
+
+![[IMG_1836.JPG]]
